@@ -86,8 +86,22 @@ def render_header():
             st.button("ℹ️ About", key="nav_about", type=t_about, use_container_width=True, on_click=set_page, args=("about",))
             
         with c4:
-            # LOGIN
-            t_login = "primary" if current_page == "login" else "secondary"
-            st.button("Login", key="nav_login", type=t_login, use_container_width=True, on_click=set_page, args=("login",))
+            # LOGIN / LOGOUT
+            is_logged_in = st.session_state.get('is_logged_in', False)
+            
+            if is_logged_in:
+                # If logged in, button is "Logout". Clicking it clears session.
+                def do_logout():
+                    st.session_state.is_logged_in = False
+                    st.session_state.username = None
+                    # Redirect to upload or stay on upload to "refresh" view
+                    st.session_state.current_page = "upload"
+
+                st.button("Logout", key="nav_logout", type="secondary", use_container_width=True, on_click=do_logout)
+            
+            else:
+                # If not logged in, button is "Login"
+                t_login = "primary" if current_page == "login" else "secondary"
+                st.button("Login", key="nav_login", type=t_login, use_container_width=True, on_click=set_page, args=("login",))
 
     st.markdown("<div style='margin-bottom: 2rem;'></div>", unsafe_allow_html=True)

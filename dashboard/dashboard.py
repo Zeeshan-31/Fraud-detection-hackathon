@@ -57,6 +57,12 @@ if 'current_page' not in st.session_state:
 if 'theme_mode' not in st.session_state:
     st.session_state.theme_mode = "Light"
 
+if 'is_logged_in' not in st.session_state:
+    st.session_state.is_logged_in = False
+
+if 'username' not in st.session_state:
+    st.session_state.username = None
+
 # =====================================================
 # RENDER HEADER
 # =====================================================
@@ -88,22 +94,29 @@ elif st.session_state.current_page == "dashboard":
 elif st.session_state.current_page == "about":
     render_about_tab()
 
-elif page == "login":
+elif st.session_state.current_page == "login":
     st.subheader("Login")
 
     if st.session_state.is_logged_in:
         st.success(f"Logged in as {st.session_state.username}")
-        st.markdown('<a href="?page=upload" target="_self">Go to Upload</a>', unsafe_allow_html=True)
+        # Automatically redirect if visiting login page while logged in
+        if st.button("Go to Dashboard"):
+             st.session_state.current_page = "upload"
+             st.rerun()
     else:
-        u = st.text_input("Username")
-        p = st.text_input("Password", type="password")
+        c1, c2 = st.columns([1, 2])
+        with c1:
+            u = st.text_input("Email", value="test@example.com")
+            p = st.text_input("Password", type="password", value="testpassword")
 
-        if st.button("Sign in"):
-            # TODO: replace with real auth later (DB / API / OAuth)
-            if u == "admin" and p == "admin":
-                st.session_state.is_logged_in = True
-                st.session_state.username = u
-                st.query_params["page"] = "upload"  # redirect after login
-                st.rerun()
-            else:
-                st.error("Invalid credentials")
+            if st.button("Sign in", type="primary"):
+                if u == "test@example.com" and p == "testpassword":
+                    st.session_state.is_logged_in = True
+                    st.session_state.username = u
+                    st.session_state.current_page = "upload"
+                    st.rerun()
+                else:
+                    st.error("Invalid credentials")
+                    
+        with c2:
+            st.info("Use **test@example.com** / **testpassword** to log in.")

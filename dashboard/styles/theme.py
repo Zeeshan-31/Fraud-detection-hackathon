@@ -50,10 +50,38 @@ def apply_theme():
         background-color: transparent;
     }
     
-    [data-testid="stToolbar"] {
-        background-color: transparent;
+    
+    /* Reduce top padding for main container */
+    .block-container {
+        padding-top: 1rem !important;
+        padding-bottom: 3rem !important;
+        max_width: 80rem; 
     }
     
+    /* Sidebar adjustments to move content up */
+    [data-testid="stSidebar"] > div:first-child {
+        padding-top: 2rem !important;
+    }
+
+    /* Hide the default Streamlit header decoration if causing issues, or make transparent */
+    header[data-testid="stHeader"] {
+        background-color: transparent !important;
+        height: auto !important;
+    }
+    
+    /* Customize toolbar to fit better if needed, or hide */
+    [data-testid="stToolbar"] {
+        right: 1rem;
+        top: 0.5rem;
+    }
+    
+    /* Fix Sidebar Toggle Button Visibility */
+    [data-testid="stSidebarCollapsedControl"] {
+        top: 0.5rem !important;
+        left: 2 rem !important;
+        z-index: 100000 !important;
+        color: var(--text-dark) !important;
+    }
 
     /* Typography - Font family only */
     body {
