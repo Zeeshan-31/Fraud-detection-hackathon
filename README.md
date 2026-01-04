@@ -134,7 +134,7 @@ Minimum required (flexible names):
 
 ## 🔗 Links
 - [Presentation Slides](https://1drv.ms/p/c/01d9fb438aa7c576/IQDVb3MjE7mKTbwXksjIt9PrARswBOgbBzbx4_wWsT68cDg?e=1Vogx7)
-- [Demo Video](link-to-video)
+- [Demo Video](https://drive.google.com/file/d/1VMnUclatpGH5zmO5rm2esegDqxu4oJgj/view)
 - [Documentation](docs/)
 
 ---
