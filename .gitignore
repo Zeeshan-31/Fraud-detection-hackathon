@@ -24,6 +24,9 @@ venv/
 .env
 *.env
 
+# Streamlit Secrets (CRITICAL FOR SECURITY)
+.streamlit/secrets.toml
+
 # Models (if too large)
 models/*.pkl
 models/*.h5

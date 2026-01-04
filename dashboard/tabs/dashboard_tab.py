@@ -21,6 +21,14 @@ from utils import (
     export_analysis_summary,
 )
 
+# Import Gemini Client
+try:
+    from src.gemini_integration.client import GeminiClient
+except ImportError:
+    # Fallback if run from different cwd
+    sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    from src.gemini_integration.client import GeminiClient
+
 
 def render_metric_cards(metrics):
     """
@@ -212,6 +220,115 @@ def render_high_risk_table(df):
         st.success("✅ No high-risk items found in the dataset!")
 
 
+def render_ai_insights_section(df):
+    """
+    Render AI Insights section using Gemini API.
+    
+    Args:
+        df: DataFrame with all data
+    """
+    st.markdown('<p class="section-header">🤖 AI Fraud Insights</p>', unsafe_allow_html=True)
+    
+    high_risk_df = df[df['risk_level'] == 'High'].sort_values('risk_score', ascending=False)
+    
+    if len(high_risk_df) == 0:
+        st.info("No high-risk tenders to analyze.")
+        return
+        
+    # Prepare label components safely and ensure columns exist
+    if 'dept_name' not in high_risk_df.columns:
+        if 'department' in high_risk_df.columns:
+            high_risk_df['dept_name'] = high_risk_df['department']
+        elif 'Department' in high_risk_df.columns:
+            high_risk_df['dept_name'] = high_risk_df['Department']
+        elif 'buyer_name' in high_risk_df.columns:
+            high_risk_df['dept_name'] = high_risk_df['buyer_name']
+        else:
+            high_risk_df['dept_name'] = "Unknown Dept"
+
+    if 'contract_id' not in high_risk_df.columns:
+        if 'Tender ID' in high_risk_df.columns:
+            high_risk_df['contract_id'] = high_risk_df['Tender ID']
+        elif 'tender_id' in high_risk_df.columns:
+             high_risk_df['contract_id'] = high_risk_df['tender_id']
+        else:
+            high_risk_df['contract_id'] = "N/A"
+
+    if 'contract_amount' not in high_risk_df.columns:
+        if 'amount' in high_risk_df.columns:
+            high_risk_df['contract_amount'] = high_risk_df['amount']
+        elif 'Amount' in high_risk_df.columns:
+            high_risk_df['contract_amount'] = high_risk_df['Amount']
+        elif 'tender_value_amount' in high_risk_df.columns:
+            high_risk_df['contract_amount'] = high_risk_df['tender_value_amount']
+        else:
+            high_risk_df['contract_amount'] = 0
+
+    if 'bidder_count' not in high_risk_df.columns:
+        if 'bidders_count' in high_risk_df.columns:
+            high_risk_df['bidder_count'] = high_risk_df['bidders_count']
+        else:
+            # Default to 0 or N/A if missing, though risk calculation might have used it
+            pass
+
+    high_risk_df['label'] = (
+        "Score: " + high_risk_df['risk_score'].astype(str) + 
+        " | ID: " + high_risk_df['contract_id'].astype(str) +
+        " | " + high_risk_df['dept_name'].astype(str)
+    )
+    
+    selected_label = st.selectbox(
+        "Select a High-Risk Tender to Analyze:",
+        options=high_risk_df['label'].tolist()
+    )
+    
+    if selected_label:
+        selected_tender = high_risk_df[high_risk_df['label'] == selected_label].iloc[0]
+        
+        # Show mini details
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            st.markdown(f"**Contract ID:** {selected_tender['contract_id']}")
+        with c2:
+            st.markdown(f"**Amount:** ₹{selected_tender['contract_amount']:,}")
+        with c3:
+            st.markdown(f"**Risk Score:** {selected_tender['risk_score']}/100")
+            
+        if st.button("✨ Generate AI Explanation", type="primary"):
+            st.markdown("---")
+            with st.spinner("🤖 Consulting Gemini AI..."):
+                try:
+                    client = GeminiClient()
+                    
+                    # Identify triggered flags (columns with 1)
+                    # We look for specific known flag columns
+                    potential_flags = [
+                        'single_bidder_flag', 'weak_competition', 'extreme_high_price',
+                        'round_amount_flag', 'threshold_game', 'dec_rush', 'march_rush',
+                        'weekend_award'
+                    ]
+                    
+                    triggered_flags = []
+                    for flag in potential_flags:
+                        if flag in selected_tender and selected_tender[flag] == 1:
+                            triggered_flags.append(flag)
+                            
+                    # Stream response
+                    response_container = st.empty()
+                    full_text = ""
+                    
+                    for chunk in client.get_fraud_explanation(
+                        selected_tender.to_dict(), 
+                        selected_tender['risk_score'],
+                        triggered_flags
+                    ):
+                        full_text += chunk
+                        response_container.markdown(full_text)
+                        
+                except Exception as e:
+                    st.error(f"Error connecting to Gemini: {str(e)}")
+
+
 def render_download_buttons(df):
     """
     Render download buttons for reports.
@@ -318,6 +435,10 @@ def render_dashboard_tab():
         # High-risk table
         render_high_risk_table(df)
         
+        # AI Insights Section
+        st.markdown("<br>", unsafe_allow_html=True)
+        render_ai_insights_section(df)
+        
         # Download buttons
         render_download_buttons(df)
     
@@ -332,6 +453,7 @@ def render_dashboard_tab():
                 <li>Upload your procurement data CSV file</li>
                 <li>Click the <strong>Analyze for Fraud</strong> button</li>
                 <li>Return here to view comprehensive analytics</li>
+                <li>Use the <strong>AI Insights</strong> section below tables to generate explanations for valid fraud alerts</li>
             </ol>
         </div>
         """, unsafe_allow_html=True)
