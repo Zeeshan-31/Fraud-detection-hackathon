@@ -110,6 +110,12 @@ def engineer_features_for_model(df):
     if 'payment_mode' not in df.columns: df['payment_mode'] = 'Unknown'
     if 'duration_days' not in df.columns: df['duration_days'] = 30 # Default assumption
     
+    # --- 1.5 Force Numeric Types (Fix for "unsupported operand type" error) ---
+    # Convert columns to numeric, coercing errors (like "N/A", "$100") to NaN then 0
+    df['contract_amount'] = pd.to_numeric(df['contract_amount'], errors='coerce').fillna(0)
+    df['bidder_count'] = pd.to_numeric(df['bidder_count'], errors='coerce').fillna(0)
+    df['duration_days'] = pd.to_numeric(df['duration_days'], errors='coerce').fillna(30)
+    
     # Handle missing pub_date (Common error source)
     if 'pub_date' not in df.columns:
         # Try to find a date column
