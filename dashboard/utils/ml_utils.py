@@ -75,15 +75,21 @@ def validate_data_sufficiency(df):
     missing_important = []
     
     # Critical: We really can't do much without these
-    if 'contract_amount' not in df_std.columns: missing_critical.append("Amount/Value")
-    
+    if 'contract_amount' not in df_std.columns: 
+        missing_critical.append("Amount/Value")
+    else:
+        # Check if contract_amount contains valid numbers
+        numeric_vals = pd.to_numeric(df_std['contract_amount'], errors='coerce')
+        if numeric_vals.notna().sum() == 0:
+             missing_critical.append("Amount/Value (Column exists but contains no valid numbers)")
+
     # Important: Analysis is weak without these
     if 'pub_date' not in df_std.columns: missing_important.append("Date")
     if 'bidder_count' not in df_std.columns: missing_important.append("Bidder Count")
     if 'dept_name' not in df_std.columns: missing_important.append("Department Name")
     
     if missing_critical:
-        return False, f"❌ Critical columns missing: {', '.join(missing_critical)}. Analysis cannot proceed.", "error"
+        return False, f"❌ Critical issues: {', '.join(missing_critical)}. Analysis cannot proceed.", "error"
         
     if missing_important:
         return True, f"⚠️ Missing columns: {', '.join(missing_important)}. Analysis will be less accurate (defaults used).", "warning"
@@ -137,8 +143,13 @@ def engineer_features_for_model(df):
     amount_q75 = df['contract_amount'].quantile(0.75)
     if amount_q75 == 0 or pd.isna(amount_q75): amount_q75 = 1
     
-    df['bidder_to_value_ratio'] = df['bidder_count'] / (df['contract_amount'] / amount_q75)
-    df['bidder_to_value_ratio'] = df['bidder_to_value_ratio'].fillna(0)
+    # Handle potential division by zero if contract_amount is 0
+    # We use numpy to handle division, then replace infs
+    with np.errstate(divide='ignore', invalid='ignore'):
+        df['bidder_to_value_ratio'] = df['bidder_count'] / (df['contract_amount'] / amount_q75)
+    
+    # Replace Infinity with 0 (or a high number if it means high risk, but 0 is safer for stability)
+    df['bidder_to_value_ratio'] = df['bidder_to_value_ratio'].replace([np.inf, -np.inf], 0).fillna(0)
     
     # Pricing Anomalies (Z-Scores)
     # If dataset is too small (like sample), z-scores might be meaningless (NaN or 0)
@@ -250,5 +261,5 @@ def run_ml_prediction(df):
         return df, True
         
     except Exception as e:
-        st.error(f"Error running ML prediction: {str(e)}")
+        st.warning(f"⚠️ ML Model could not run: {str(e)}. Falling back to Rule-Based Analysis.")
         return df, False

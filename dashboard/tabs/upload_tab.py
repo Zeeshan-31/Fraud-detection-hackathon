@@ -17,6 +17,7 @@ from utils import (
     get_data_overview_stats,
     generate_analysis_info,
 )
+from utils.ml_utils import validate_data_sufficiency
 from styles import apply_analyze_button_css
 
 
@@ -76,11 +77,21 @@ def render_upload_tab(risk_threshold):
              # Process upload
              try:
                  df = pd.read_csv(uploaded_file)
+                 
+                 # Validate Data Sufficiency & Compatibility
+                 is_valid, message, status = validate_data_sufficiency(df)
+                 
+                 if not is_valid:
+                     st.error(message)
+                     # Do not save to session state if invalid
+                     return
+
+                 if status == "warning":
+                     st.warning(message)
+
                  # Save to session state
                  st.session_state['persistent_df'] = df
                  st.session_state['persistent_filename'] = uploaded_file.name
-                 st.session_state['persistent_df'] = df
-                 st.session_state['persistent_filename'] = uploaded_file.name 
              except Exception as e:
                  st.error(f"Error reading file: {e}")
                  return
@@ -158,9 +169,6 @@ def render_upload_tab(risk_threshold):
         
         # Analyze Button with form
         apply_analyze_button_css()
-        
-        # Import validation function
-        from utils.ml_utils import validate_data_sufficiency
         
         # Run validation
         is_valid, message, status = validate_data_sufficiency(df)

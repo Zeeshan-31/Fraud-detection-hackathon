@@ -224,7 +224,14 @@ def render_high_risk_table(df):
             high_risk_df = high_risk_df[cols]
             
         # Sort: Critical first, then by Risk Score
-        high_risk_df = high_risk_df.sort_values(['risk_score', 'ml_risk_score'], ascending=[False, False])
+        sort_cols = ['risk_score']
+        sort_asc = [False]
+        
+        if 'ml_risk_score' in high_risk_df.columns:
+            sort_cols.append('ml_risk_score')
+            sort_asc.append(False)
+            
+        high_risk_df = high_risk_df.sort_values(sort_cols, ascending=sort_asc)
 
         # Red header bar
         st.markdown(f"""
@@ -294,7 +301,14 @@ def render_ai_insights_section(df):
         return
         
     # Sort by priority
-    high_risk_df = high_risk_df.sort_values(['risk_score', 'ml_risk_score'], ascending=[False, False])
+    sort_cols = ['risk_score']
+    sort_asc = [False]
+    
+    if 'ml_risk_score' in high_risk_df.columns:
+        sort_cols.append('ml_risk_score')
+        sort_asc.append(False)
+        
+    high_risk_df = high_risk_df.sort_values(sort_cols, ascending=sort_asc)
         
     # Prepare label components safely and ensure columns exist
     if 'dept_name' not in high_risk_df.columns:
@@ -324,6 +338,9 @@ def render_ai_insights_section(df):
             high_risk_df['contract_amount'] = high_risk_df['tender_value_amount']
         else:
             high_risk_df['contract_amount'] = 0
+            
+    # Ensure numeric for formatting (Fix for ValueError: Cannot specify ',' with 's')
+    high_risk_df['contract_amount'] = pd.to_numeric(high_risk_df['contract_amount'], errors='coerce').fillna(0)
 
     if 'bidder_count' not in high_risk_df.columns:
         if 'bidders_count' in high_risk_df.columns:

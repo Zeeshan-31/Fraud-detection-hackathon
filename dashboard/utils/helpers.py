@@ -24,19 +24,39 @@ def generate_risk_scores(df, seed=42):
     scores = pd.Series(0, index=df.index)
     
     # --- 0. STANDARDIZE COLUMNS FIRST ---
-    # We need to ensure we are looking at the right columns even if names vary
-    # Simple mapping for common variations
-    col_map = {
-        'bidders_count': 'bidder_count',
-        'amount': 'contract_amount',
-        'date': 'pub_date',
-        'department': 'dept_name'
+    # Robust mapping to handle various input formats (same as ml_utils)
+    column_map = {
+        'contract_id': ['tender_id', 'id', 'ref_no', 'contract_no', 'tender_no'],
+        'contract_amount': ['amount', 'value', 'tender_value', 'estimated_cost', 'price', 'total_amount', 'tender_value_amount'],
+        'bidder_count': ['bidders_count', 'bidders', 'no_of_bidders', 'tender_numberoftenderers', 'participation_count'],
+        'dept_name': ['department', 'buyer', 'buyer_name', 'organization', 'agency', 'procuring_entity'],
+        'pub_date': ['date', 'publish_date', 'tender_date', 'tender_datepublished', 'announcement_date', 'start_date'],
+        'proc_method': ['method', 'procurement_method', 'tender_procurementmethod', 'type_of_bidding'],
+        'contract_type': ['type', 'tender_type', 'tender_contracttype', 'category'],
+        'payment_mode': ['payment', 'mode', 'payment_type'],
+        'duration_days': ['duration', 'period', 'days', 'tender_period_durationindays']
     }
-    # Create a temporary working dataframe with standardized names
-    work_df = df.rename(columns=col_map).copy()
+    
+    # Create a working copy
+    work_df = df.copy()
+    existing_cols_lower = {col.lower(): col for col in df.columns}
+    
+    renamed_cols = {}
+    for standard, synonyms in column_map.items():
+        if standard in work_df.columns: continue
+        for syn in synonyms:
+            if syn.lower() in existing_cols_lower:
+                renamed_cols[existing_cols_lower[syn.lower()]] = standard
+                break
+    
+    if renamed_cols:
+        work_df = work_df.rename(columns=renamed_cols)
     
     # --- 1. COMPETITION RISKS ---
     if 'bidder_count' in work_df.columns:
+        # Ensure numeric
+        work_df['bidder_count'] = pd.to_numeric(work_df['bidder_count'], errors='coerce')
+        
         # Single Bidder is a major red flag (+40)
         scores += work_df['bidder_count'].apply(lambda x: 40 if x == 1 else 0)
         
@@ -71,6 +91,9 @@ def generate_risk_scores(df, seed=42):
     # --- 4. AMOUNT RISKS ---
     # (Simple check: Very round numbers often indicate estimates/fraud)
     if 'contract_amount' in work_df.columns:
+        # Ensure numeric
+        work_df['contract_amount'] = pd.to_numeric(work_df['contract_amount'], errors='coerce').fillna(0)
+        
         # Check if amount is a multiple of 100,000 (suspiciously round)
         scores += work_df['contract_amount'].apply(lambda x: 5 if pd.notna(x) and x > 0 and x % 100000 == 0 else 0)
 
