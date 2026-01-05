@@ -159,10 +159,24 @@ def render_upload_tab(risk_threshold):
         # Analyze Button with form
         apply_analyze_button_css()
         
+        # Import validation function
+        from utils.ml_utils import validate_data_sufficiency
+        
+        # Run validation
+        is_valid, message, status = validate_data_sufficiency(df)
+        
+        if status == "error":
+            st.error(message)
+        elif status == "warning":
+            st.warning(message)
+        else:
+            st.success(message)
+            
         with st.form(key="analyze_form"):
             col1, col2, col3 = st.columns([1, 2, 1])
             with col2:
-                submit = st.form_submit_button("🚀 Analyze for Fraud", use_container_width=True)
+                # Disable button if critical error
+                submit = st.form_submit_button("🚀 Analyze for Fraud", use_container_width=True, disabled=(status == "error"))
             
         if submit:
             with st.spinner("🔍 Analyzing data for fraud indicators..."):

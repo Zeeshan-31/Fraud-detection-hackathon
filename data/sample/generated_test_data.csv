@@ -1,0 +1,201 @@
+contract_id,date,department,vendor_name,amount,category,description,budget,bidders_count,proc_method
+T2024000,2024-03-02,Urban Development,Vendor_12,25000000,Maintenance,Urgent procurement for Urban Development - High Priority,27542098,1,Limited Tender
+T2024001,2024-03-31,Urban Development,Vendor_6,43000000,Construction,Urgent procurement for Urban Development - High Priority,49157564,1,Limited Tender
+T2024002,2024-03-23,IT Department,Vendor_20,25000000,Vehicles,Urgent procurement for IT Department - High Priority,28049985,1,Limited Tender
+T2024003,2024-03-03,IT Department,Vendor_6,19000000,Vehicles,Urgent procurement for IT Department - High Priority,21023175,1,Limited Tender
+T2024004,2024-03-03,Transport,Vendor_21,20000000,Consulting,Urgent procurement for Transport - High Priority,21646110,1,Limited Tender
+T2024005,2024-03-23,Public Works,Vendor_7,14000000,Medical Supplies,Urgent procurement for Public Works - High Priority,15826101,1,Limited Tender
+T2024006,2024-03-30,Health,Vendor_25,1000000,Vehicles,Urgent procurement for Health - High Priority,1127047,1,Limited Tender
+T2024007,2024-03-10,Urban Development,Vendor_36,18000000,Maintenance,Urgent procurement for Urban Development - High Priority,21543962,1,Limited Tender
+T2024008,2024-03-16,IT Department,Vendor_43,9000000,Medical Supplies,Urgent procurement for IT Department - High Priority,10585254,1,Limited Tender
+T2024009,2024-03-03,Transport,Vendor_44,46000000,Vehicles,Urgent procurement for Transport - High Priority,50374870,1,Limited Tender
+T2024010,2024-04-26,Health,Vendor_11,1406415,IT Equipment,Standard procurement of it equipment for Health,1635842,2,Open Tender
+T2024011,2024-09-11,Urban Development,Vendor_10,1902667,Medical Supplies,Standard procurement of medical supplies for Urban Development,2079712,2,Limited Tender
+T2024012,2024-06-09,Public Works,Vendor_23,1248352,Medical Supplies,Standard procurement of medical supplies for Public Works,1337983,2,Open Tender
+T2024013,2024-09-18,IT Department,Vendor_47,1710890,Construction,Standard procurement of construction for IT Department,1877976,2,Open Tender
+T2024014,2024-09-23,Public Works,Vendor_14,1716344,Medical Supplies,Standard procurement of medical supplies for Public Works,1894383,2,Open Tender
+T2024015,2024-01-21,Education,Vendor_37,1152056,IT Equipment,Standard procurement of it equipment for Education,1228162,2,Open Tender
+T2024016,2024-11-02,Public Works,Vendor_22,895157,Vehicles,Standard procurement of vehicles for Public Works,1008053,2,Limited Tender
+T2024017,2024-06-28,Education,Vendor_24,1496887,IT Equipment,Standard procurement of it equipment for Education,1706751,2,Limited Tender
+T2024018,2024-07-20,IT Department,Vendor_21,1510118,Construction,Standard procurement of construction for IT Department,1634152,2,Open Tender
+T2024019,2024-05-05,Public Works,Vendor_38,1824786,Maintenance,Standard procurement of maintenance for Public Works,2121218,2,Open Tender
+T2024020,2024-09-01,Education,Vendor_3,1718063,Vehicles,Standard procurement of vehicles for Education,1846118,2,Open Tender
+T2024021,2024-06-01,Transport,Vendor_13,1464615,Consulting,Standard procurement of consulting for Transport,1731288,2,Open Tender
+T2024022,2024-04-27,Transport,Vendor_36,901061,Vehicles,Standard procurement of vehicles for Transport,990962,2,Limited Tender
+T2024023,2024-06-30,Transport,Vendor_40,598433,IT Equipment,Standard procurement of it equipment for Transport,648287,2,Limited Tender
+T2024024,2024-12-07,Transport,Vendor_1,1183918,IT Equipment,Standard procurement of it equipment for Transport,1259393,2,Open Tender
+T2024025,2024-09-25,Health,Vendor_12,1725539,Consulting,Standard procurement of consulting for Health,1939274,2,Limited Tender
+T2024026,2024-07-07,IT Department,Vendor_13,1183614,Construction,Standard procurement of construction for IT Department,1264096,2,Open Tender
+T2024027,2024-11-30,Education,Vendor_24,1881104,Medical Supplies,Standard procurement of medical supplies for Education,2131149,2,Limited Tender
+T2024028,2024-04-12,Transport,Vendor_22,1460077,IT Equipment,Standard procurement of it equipment for Transport,1640506,2,Open Tender
+T2024029,2024-03-03,Urban Development,Vendor_29,1886035,Medical Supplies,Standard procurement of medical supplies for Urban Development,2190020,2,Limited Tender
+T2024030,2024-02-06,Public Works,Vendor_41,84881094,Medical Supplies,Large scale infrastructure project for Public Works,99561037,5,Open Tender
+T2024031,2024-06-26,Public Works,Vendor_31,76053451,Construction,Large scale infrastructure project for Public Works,82404271,4,Open Tender
+T2024032,2024-11-26,Education,Vendor_29,82081969,Medical Supplies,Large scale infrastructure project for Education,86978979,3,Open Tender
+T2024033,2024-06-12,Urban Development,Vendor_38,88472014,IT Equipment,Large scale infrastructure project for Urban Development,101586384,5,Open Tender
+T2024034,2024-12-06,IT Department,Vendor_44,86889437,IT Equipment,Large scale infrastructure project for IT Department,99940834,3,Open Tender
+T2024035,2024-11-22,Health,Vendor_24,73602543,IT Equipment,Large scale infrastructure project for Health,77510507,5,Open Tender
+T2024036,2024-05-21,Education,Vendor_21,61110697,Construction,Large scale infrastructure project for Education,71699741,4,Open Tender
+T2024037,2024-02-23,Education,Vendor_6,69746581,Vehicles,Large scale infrastructure project for Education,76634837,5,Open Tender
+T2024038,2024-10-21,Health,Vendor_12,85170633,Vehicles,Large scale infrastructure project for Health,91331909,4,Open Tender
+T2024039,2024-09-30,Transport,Vendor_2,52872990,Maintenance,Large scale infrastructure project for Transport,57567317,3,Open Tender
+T2024040,2024-06-29,IT Department,Vendor_46,325514,Medical Supplies,Standard procurement of medical supplies for IT Department,366144,13,Open Tender
+T2024041,2024-07-30,IT Department,Vendor_48,4353849,Consulting,Standard procurement of consulting for IT Department,5101317,9,Open Tender
+T2024042,2024-11-18,Health,Vendor_30,1554657,Maintenance,Standard procurement of maintenance for Health,1728601,8,Open Tender
+T2024043,2024-02-21,Health,Vendor_4,1709014,Vehicles,Standard procurement of vehicles for Health,2047458,10,Open Tender
+T2024044,2024-11-28,Public Works,Vendor_17,3269235,Construction,Standard procurement of construction for Public Works,3919517,12,Open Tender
+T2024045,2024-11-16,Urban Development,Vendor_8,1488642,Medical Supplies,Standard procurement of medical supplies for Urban Development,1578869,5,Open Tender
+T2024046,2024-08-31,Transport,Vendor_49,2201244,Consulting,Standard procurement of consulting for Transport,2340775,6,Open Tender
+T2024047,2024-04-23,Health,Vendor_24,2137684,Medical Supplies,Standard procurement of medical supplies for Health,2418558,7,Open Tender
+T2024048,2024-10-13,Urban Development,Vendor_12,1052633,Medical Supplies,Standard procurement of medical supplies for Urban Development,1250633,5,Open Tender
+T2024049,2024-01-08,Health,Vendor_34,1180568,Construction,Standard procurement of construction for Health,1326637,10,Open Tender
+T2024050,2024-09-27,Education,Vendor_48,1815444,IT Equipment,Standard procurement of it equipment for Education,1915117,15,Open Tender
+T2024051,2024-03-22,Public Works,Vendor_42,345681,Medical Supplies,Standard procurement of medical supplies for Public Works,366239,4,Open Tender
+T2024052,2024-06-27,Health,Vendor_34,1946495,IT Equipment,Standard procurement of it equipment for Health,2193926,4,Open Tender
+T2024053,2024-01-06,IT Department,Vendor_25,3242924,Consulting,Standard procurement of consulting for IT Department,3544931,15,Open Tender
+T2024054,2024-01-10,Health,Vendor_19,3386424,Construction,Standard procurement of construction for Health,3675337,10,Open Tender
+T2024055,2024-12-20,Urban Development,Vendor_8,3019081,Maintenance,Standard procurement of maintenance for Urban Development,3570546,11,Open Tender
+T2024056,2024-02-25,Education,Vendor_36,2899178,IT Equipment,Standard procurement of it equipment for Education,3064405,15,Open Tender
+T2024057,2024-11-09,Education,Vendor_17,3288920,Vehicles,Standard procurement of vehicles for Education,3843452,10,Open Tender
+T2024058,2024-10-20,Education,Vendor_28,4243405,Maintenance,Standard procurement of maintenance for Education,4804415,6,Open Tender
+T2024059,2024-09-12,Urban Development,Vendor_48,1982149,Vehicles,Standard procurement of vehicles for Urban Development,2310285,6,Open Tender
+T2024060,2024-02-02,IT Department,Vendor_48,4942021,Construction,Standard procurement of construction for IT Department,5844584,13,Open Tender
+T2024061,2024-09-25,Education,Vendor_7,2919556,Construction,Standard procurement of construction for Education,3130298,5,Open Tender
+T2024062,2024-12-10,Transport,Vendor_12,3552337,IT Equipment,Standard procurement of it equipment for Transport,3944578,4,Open Tender
+T2024063,2024-01-17,Urban Development,Vendor_8,377067,Maintenance,Standard procurement of maintenance for Urban Development,405034,15,Open Tender
+T2024064,2024-07-28,Public Works,Vendor_16,4102063,IT Equipment,Standard procurement of it equipment for Public Works,4515744,8,Open Tender
+T2024065,2024-03-08,Health,Vendor_10,323730,Medical Supplies,Standard procurement of medical supplies for Health,381441,14,Open Tender
+T2024066,2024-01-28,Education,Vendor_36,179402,Construction,Standard procurement of construction for Education,206596,8,Open Tender
+T2024067,2024-01-01,Transport,Vendor_9,4082198,IT Equipment,Standard procurement of it equipment for Transport,4895255,10,Open Tender
+T2024068,2024-03-01,Public Works,Vendor_36,4244970,IT Equipment,Standard procurement of it equipment for Public Works,4525357,10,Open Tender
+T2024069,2024-04-25,Education,Vendor_34,2315821,Medical Supplies,Standard procurement of medical supplies for Education,2463555,9,Open Tender
+T2024070,2024-01-28,Health,Vendor_34,3762445,Consulting,Standard procurement of consulting for Health,4353852,13,Open Tender
+T2024071,2024-06-25,Education,Vendor_11,1409523,IT Equipment,Standard procurement of it equipment for Education,1689379,15,Open Tender
+T2024072,2024-05-17,Transport,Vendor_13,1811752,Maintenance,Standard procurement of maintenance for Transport,2083476,11,Open Tender
+T2024073,2024-08-26,Education,Vendor_38,890094,Maintenance,Standard procurement of maintenance for Education,1020299,7,Open Tender
+T2024074,2024-01-16,Health,Vendor_46,1295227,Medical Supplies,Standard procurement of medical supplies for Health,1389531,12,Open Tender
+T2024075,2024-04-10,Education,Vendor_6,3212761,Consulting,Standard procurement of consulting for Education,3435976,10,Open Tender
+T2024076,2024-07-26,Public Works,Vendor_49,2059786,Vehicles,Standard procurement of vehicles for Public Works,2213680,11,Open Tender
+T2024077,2024-05-03,Education,Vendor_49,4839493,Construction,Standard procurement of construction for Education,5577601,10,Open Tender
+T2024078,2024-03-18,Public Works,Vendor_17,4288083,IT Equipment,Standard procurement of it equipment for Public Works,5107339,6,Open Tender
+T2024079,2024-01-04,Health,Vendor_35,4746483,Consulting,Standard procurement of consulting for Health,5577489,13,Open Tender
+T2024080,2024-11-23,Public Works,Vendor_21,935905,Construction,Standard procurement of construction for Public Works,1060957,4,Open Tender
+T2024081,2024-07-29,Transport,Vendor_36,315132,Medical Supplies,Standard procurement of medical supplies for Transport,350531,7,Open Tender
+T2024082,2024-06-26,Urban Development,Vendor_45,3702095,IT Equipment,Standard procurement of it equipment for Urban Development,4295100,8,Open Tender
+T2024083,2024-05-26,Transport,Vendor_46,3065308,Medical Supplies,Standard procurement of medical supplies for Transport,3299298,12,Open Tender
+T2024084,2024-05-31,Education,Vendor_38,2200741,Vehicles,Standard procurement of vehicles for Education,2546108,12,Open Tender
+T2024085,2024-08-11,IT Department,Vendor_13,3262866,IT Equipment,Standard procurement of it equipment for IT Department,3502933,5,Open Tender
+T2024086,2024-08-06,IT Department,Vendor_32,4469699,Maintenance,Standard procurement of maintenance for IT Department,4720782,14,Open Tender
+T2024087,2024-06-03,Urban Development,Vendor_45,2562816,Medical Supplies,Standard procurement of medical supplies for Urban Development,2722895,7,Open Tender
+T2024088,2024-11-15,Health,Vendor_3,3886396,Construction,Standard procurement of construction for Health,4188548,6,Open Tender
+T2024089,2024-07-13,IT Department,Vendor_12,185958,Construction,Standard procurement of construction for IT Department,210275,12,Open Tender
+T2024090,2024-09-11,Urban Development,Vendor_22,3202013,Maintenance,Standard procurement of maintenance for Urban Development,3779352,4,Open Tender
+T2024091,2024-10-28,Transport,Vendor_7,1389773,Maintenance,Standard procurement of maintenance for Transport,1538503,12,Open Tender
+T2024092,2024-05-09,Health,Vendor_27,3141273,Medical Supplies,Standard procurement of medical supplies for Health,3688536,10,Open Tender
+T2024093,2024-07-24,Health,Vendor_41,3183151,IT Equipment,Standard procurement of it equipment for Health,3564085,9,Open Tender
+T2024094,2024-12-27,Transport,Vendor_37,2284963,Construction,Standard procurement of construction for Transport,2547416,5,Open Tender
+T2024095,2024-03-29,Health,Vendor_20,2284613,Construction,Standard procurement of construction for Health,2419176,7,Open Tender
+T2024096,2024-10-09,Health,Vendor_40,913323,Vehicles,Standard procurement of vehicles for Health,1062846,14,Open Tender
+T2024097,2024-08-20,Education,Vendor_20,410657,Construction,Standard procurement of construction for Education,489746,14,Open Tender
+T2024098,2024-03-22,Education,Vendor_17,976881,Construction,Standard procurement of construction for Education,1148016,12,Open Tender
+T2024099,2024-01-13,Health,Vendor_5,4812752,Maintenance,Standard procurement of maintenance for Health,5664561,7,Open Tender
+T2024100,2024-12-09,Transport,Vendor_50,101482,Construction,Standard procurement of construction for Transport,114396,4,Open Tender
+T2024101,2024-04-13,Health,Vendor_18,3190495,Consulting,Standard procurement of consulting for Health,3792868,5,Open Tender
+T2024102,2024-03-25,Public Works,Vendor_20,4058631,IT Equipment,Standard procurement of it equipment for Public Works,4800558,12,Open Tender
+T2024103,2024-06-11,IT Department,Vendor_3,4932386,Consulting,Standard procurement of consulting for IT Department,5411911,12,Open Tender
+T2024104,2024-12-09,Transport,Vendor_20,4225693,IT Equipment,Standard procurement of it equipment for Transport,5050214,6,Open Tender
+T2024105,2024-02-01,Public Works,Vendor_18,1057861,Maintenance,Standard procurement of maintenance for Public Works,1131733,12,Open Tender
+T2024106,2024-04-20,Education,Vendor_18,4437598,Construction,Standard procurement of construction for Education,5323789,14,Open Tender
+T2024107,2024-07-16,IT Department,Vendor_49,2654026,Vehicles,Standard procurement of vehicles for IT Department,3031143,13,Open Tender
+T2024108,2024-10-05,Transport,Vendor_12,1992415,Vehicles,Standard procurement of vehicles for Transport,2119638,14,Open Tender
+T2024109,2024-04-09,Transport,Vendor_24,762467,Medical Supplies,Standard procurement of medical supplies for Transport,909212,14,Open Tender
+T2024110,2024-07-21,Transport,Vendor_43,1833656,Consulting,Standard procurement of consulting for Transport,2039281,4,Open Tender
+T2024111,2024-05-22,IT Department,Vendor_49,4393058,IT Equipment,Standard procurement of it equipment for IT Department,4886572,7,Open Tender
+T2024112,2024-08-23,IT Department,Vendor_16,1381285,Vehicles,Standard procurement of vehicles for IT Department,1555568,6,Open Tender
+T2024113,2024-09-14,IT Department,Vendor_42,2337952,IT Equipment,Standard procurement of it equipment for IT Department,2778673,9,Open Tender
+T2024114,2024-06-30,Public Works,Vendor_24,1391674,Maintenance,Standard procurement of maintenance for Public Works,1515534,5,Open Tender
+T2024115,2024-05-03,Transport,Vendor_43,2364276,Consulting,Standard procurement of consulting for Transport,2753159,8,Open Tender
+T2024116,2024-01-18,IT Department,Vendor_50,734759,Medical Supplies,Standard procurement of medical supplies for IT Department,807623,15,Open Tender
+T2024117,2024-01-30,Education,Vendor_15,4250200,Medical Supplies,Standard procurement of medical supplies for Education,5041823,12,Open Tender
+T2024118,2024-07-25,IT Department,Vendor_41,1826649,Consulting,Standard procurement of consulting for IT Department,2071923,8,Open Tender
+T2024119,2024-12-11,Urban Development,Vendor_50,1845180,IT Equipment,Standard procurement of it equipment for Urban Development,2143679,8,Open Tender
+T2024120,2024-11-27,Transport,Vendor_41,4035142,Construction,Standard procurement of construction for Transport,4391782,5,Open Tender
+T2024121,2024-05-01,Transport,Vendor_27,1197383,Vehicles,Standard procurement of vehicles for Transport,1322747,10,Open Tender
+T2024122,2024-01-03,Education,Vendor_48,3745958,Medical Supplies,Standard procurement of medical supplies for Education,4175552,14,Open Tender
+T2024123,2024-06-08,Education,Vendor_33,3119213,Vehicles,Standard procurement of vehicles for Education,3446123,8,Open Tender
+T2024124,2024-04-24,Transport,Vendor_48,563336,Medical Supplies,Standard procurement of medical supplies for Transport,651433,6,Open Tender
+T2024125,2024-07-26,Urban Development,Vendor_6,828742,Maintenance,Standard procurement of maintenance for Urban Development,898130,12,Open Tender
+T2024126,2024-04-23,Public Works,Vendor_41,213008,Medical Supplies,Standard procurement of medical supplies for Public Works,225908,5,Open Tender
+T2024127,2024-12-02,IT Department,Vendor_11,394899,Consulting,Standard procurement of consulting for IT Department,449824,6,Open Tender
+T2024128,2024-09-25,Urban Development,Vendor_47,1915614,Construction,Standard procurement of construction for Urban Development,2258442,11,Open Tender
+T2024129,2024-05-05,Health,Vendor_48,1814516,Medical Supplies,Standard procurement of medical supplies for Health,2160091,9,Open Tender
+T2024130,2024-06-04,Health,Vendor_3,1644901,Vehicles,Standard procurement of vehicles for Health,1781995,4,Open Tender
+T2024131,2024-05-14,IT Department,Vendor_10,4192975,Vehicles,Standard procurement of vehicles for IT Department,4965850,14,Open Tender
+T2024132,2024-12-18,Health,Vendor_42,3597824,Medical Supplies,Standard procurement of medical supplies for Health,3960624,8,Open Tender
+T2024133,2024-10-06,Health,Vendor_4,1306523,IT Equipment,Standard procurement of it equipment for Health,1528742,10,Open Tender
+T2024134,2024-12-15,Education,Vendor_2,1876112,Medical Supplies,Standard procurement of medical supplies for Education,1972408,5,Open Tender
+T2024135,2024-09-12,IT Department,Vendor_2,2273518,Maintenance,Standard procurement of maintenance for IT Department,2679951,5,Open Tender
+T2024136,2024-12-06,Urban Development,Vendor_43,1012864,Construction,Standard procurement of construction for Urban Development,1179857,14,Open Tender
+T2024137,2024-08-25,Transport,Vendor_50,1083883,IT Equipment,Standard procurement of it equipment for Transport,1211194,11,Open Tender
+T2024138,2024-08-09,Education,Vendor_1,3185589,IT Equipment,Standard procurement of it equipment for Education,3777593,9,Open Tender
+T2024139,2024-09-08,IT Department,Vendor_6,1687559,Construction,Standard procurement of construction for IT Department,1987219,8,Open Tender
+T2024140,2024-05-20,Urban Development,Vendor_34,3528653,IT Equipment,Standard procurement of it equipment for Urban Development,3892112,4,Open Tender
+T2024141,2024-12-28,Education,Vendor_23,1616855,Medical Supplies,Standard procurement of medical supplies for Education,1719075,14,Open Tender
+T2024142,2024-12-03,Urban Development,Vendor_13,146238,Consulting,Standard procurement of consulting for Urban Development,170024,4,Open Tender
+T2024143,2024-04-28,Urban Development,Vendor_48,2249655,Maintenance,Standard procurement of maintenance for Urban Development,2564009,14,Open Tender
+T2024144,2024-06-10,IT Department,Vendor_21,2667890,Maintenance,Standard procurement of maintenance for IT Department,3184654,11,Open Tender
+T2024145,2024-02-22,Education,Vendor_11,834481,Maintenance,Standard procurement of maintenance for Education,974517,9,Open Tender
+T2024146,2024-09-18,IT Department,Vendor_48,490458,IT Equipment,Standard procurement of it equipment for IT Department,517782,6,Open Tender
+T2024147,2024-10-12,Public Works,Vendor_38,3925054,Maintenance,Standard procurement of maintenance for Public Works,4126635,5,Open Tender
+T2024148,2024-04-08,Urban Development,Vendor_9,2226282,Construction,Standard procurement of construction for Urban Development,2565686,5,Open Tender
+T2024149,2024-07-05,Public Works,Vendor_38,2875807,IT Equipment,Standard procurement of it equipment for Public Works,3371756,9,Open Tender
+T2024150,2024-03-06,Public Works,Vendor_5,4330200,Vehicles,Standard procurement of vehicles for Public Works,4934923,6,Open Tender
+T2024151,2024-10-18,Education,Vendor_29,4355120,Construction,Standard procurement of construction for Education,5070555,14,Open Tender
+T2024152,2024-12-15,IT Department,Vendor_12,3072169,Medical Supplies,Standard procurement of medical supplies for IT Department,3238516,14,Open Tender
+T2024153,2024-09-13,Public Works,Vendor_3,3291490,Medical Supplies,Standard procurement of medical supplies for Public Works,3871334,10,Open Tender
+T2024154,2024-10-19,Urban Development,Vendor_43,4429567,IT Equipment,Standard procurement of it equipment for Urban Development,4697635,8,Open Tender
+T2024155,2024-12-07,Education,Vendor_35,4809799,Vehicles,Standard procurement of vehicles for Education,5754019,12,Open Tender
+T2024156,2024-12-25,Education,Vendor_7,4122077,Medical Supplies,Standard procurement of medical supplies for Education,4746214,12,Open Tender
+T2024157,2024-08-22,IT Department,Vendor_44,2017570,Vehicles,Standard procurement of vehicles for IT Department,2136314,14,Open Tender
+T2024158,2024-03-26,Urban Development,Vendor_19,2367663,Maintenance,Standard procurement of maintenance for Urban Development,2587225,4,Open Tender
+T2024159,2024-07-24,Urban Development,Vendor_4,1549897,Consulting,Standard procurement of consulting for Urban Development,1813737,15,Open Tender
+T2024160,2024-01-16,Transport,Vendor_26,3079012,Consulting,Standard procurement of consulting for Transport,3399764,4,Open Tender
+T2024161,2024-10-19,IT Department,Vendor_4,4772667,Consulting,Standard procurement of consulting for IT Department,5144993,7,Open Tender
+T2024162,2024-04-15,IT Department,Vendor_18,298531,Maintenance,Standard procurement of maintenance for IT Department,350543,5,Open Tender
+T2024163,2024-01-25,Health,Vendor_50,2875636,Maintenance,Standard procurement of maintenance for Health,3022070,9,Open Tender
+T2024164,2024-03-15,Public Works,Vendor_32,3231085,IT Equipment,Standard procurement of it equipment for Public Works,3703951,10,Open Tender
+T2024165,2024-12-26,Health,Vendor_2,3922545,Medical Supplies,Standard procurement of medical supplies for Health,4428083,11,Open Tender
+T2024166,2024-08-17,Health,Vendor_8,958313,Consulting,Standard procurement of consulting for Health,1016374,7,Open Tender
+T2024167,2024-01-21,Public Works,Vendor_5,3487531,IT Equipment,Standard procurement of it equipment for Public Works,3968866,13,Open Tender
+T2024168,2024-04-15,Education,Vendor_50,4662256,Consulting,Standard procurement of consulting for Education,5544607,11,Open Tender
+T2024169,2024-06-26,Urban Development,Vendor_41,375745,Maintenance,Standard procurement of maintenance for Urban Development,438980,15,Open Tender
+T2024170,2024-02-15,Urban Development,Vendor_31,2789257,Construction,Standard procurement of construction for Urban Development,3034850,6,Open Tender
+T2024171,2024-08-11,Public Works,Vendor_3,272425,Vehicles,Standard procurement of vehicles for Public Works,298674,14,Open Tender
+T2024172,2024-03-08,Public Works,Vendor_24,797857,IT Equipment,Standard procurement of it equipment for Public Works,936381,6,Open Tender
+T2024173,2024-01-03,IT Department,Vendor_35,1114579,Vehicles,Standard procurement of vehicles for IT Department,1262438,13,Open Tender
+T2024174,2024-07-01,Transport,Vendor_11,3112892,Vehicles,Standard procurement of vehicles for Transport,3675322,7,Open Tender
+T2024175,2024-06-11,Education,Vendor_38,4940406,Vehicles,Standard procurement of vehicles for Education,5446420,6,Open Tender
+T2024176,2024-09-15,Urban Development,Vendor_3,2056232,Vehicles,Standard procurement of vehicles for Urban Development,2457957,4,Open Tender
+T2024177,2024-09-24,Health,Vendor_21,4140798,Medical Supplies,Standard procurement of medical supplies for Health,4545556,7,Open Tender
+T2024178,2024-02-26,Transport,Vendor_28,2295625,Vehicles,Standard procurement of vehicles for Transport,2566939,6,Open Tender
+T2024179,2024-10-29,Urban Development,Vendor_42,1643694,Vehicles,Standard procurement of vehicles for Urban Development,1966273,13,Open Tender
+T2024180,2024-08-21,Education,Vendor_47,3514080,IT Equipment,Standard procurement of it equipment for Education,3760593,14,Open Tender
+T2024181,2024-04-24,Transport,Vendor_22,4448526,Medical Supplies,Standard procurement of medical supplies for Transport,5073550,9,Open Tender
+T2024182,2024-06-24,Transport,Vendor_10,3379983,Consulting,Standard procurement of consulting for Transport,3627328,10,Open Tender
+T2024183,2024-07-05,Transport,Vendor_49,2989886,Maintenance,Standard procurement of maintenance for Transport,3352044,9,Open Tender
+T2024184,2024-07-26,Education,Vendor_2,734924,Consulting,Standard procurement of consulting for Education,855332,4,Open Tender
+T2024185,2024-03-31,Education,Vendor_12,1664604,Vehicles,Standard procurement of vehicles for Education,1779829,4,Open Tender
+T2024186,2024-11-17,Health,Vendor_25,2835696,Maintenance,Standard procurement of maintenance for Health,3066805,6,Open Tender
+T2024187,2024-07-25,Urban Development,Vendor_32,4011301,Construction,Standard procurement of construction for Urban Development,4343173,4,Open Tender
+T2024188,2024-09-19,Public Works,Vendor_10,4669130,Vehicles,Standard procurement of vehicles for Public Works,5419787,13,Open Tender
+T2024189,2024-08-24,IT Department,Vendor_47,1752190,Medical Supplies,Standard procurement of medical supplies for IT Department,1839937,14,Open Tender
+T2024190,2024-04-14,Health,Vendor_23,977634,Maintenance,Standard procurement of maintenance for Health,1098662,4,Open Tender
+T2024191,2024-11-14,Public Works,Vendor_26,4410561,Medical Supplies,Standard procurement of medical supplies for Public Works,4783719,14,Open Tender
+T2024192,2024-01-10,Urban Development,Vendor_26,1438623,IT Equipment,Standard procurement of it equipment for Urban Development,1586430,4,Open Tender
+T2024193,2024-04-23,Health,Vendor_45,1411893,Maintenance,Standard procurement of maintenance for Health,1566651,9,Open Tender
+T2024194,2024-04-29,IT Department,Vendor_31,763572,Vehicles,Standard procurement of vehicles for IT Department,822431,5,Open Tender
+T2024195,2024-02-22,Education,Vendor_48,964406,Consulting,Standard procurement of consulting for Education,1086311,9,Open Tender
+T2024196,2024-11-02,IT Department,Vendor_21,3356314,Medical Supplies,Standard procurement of medical supplies for IT Department,3809331,10,Open Tender
+T2024197,2024-02-10,Transport,Vendor_6,2662001,Construction,Standard procurement of construction for Transport,3120815,15,Open Tender
+T2024198,2024-11-02,Public Works,Vendor_47,4983477,Medical Supplies,Standard procurement of medical supplies for Public Works,5829129,6,Open Tender
+T2024199,2024-02-03,Urban Development,Vendor_2,3443397,Construction,Standard procurement of construction for Urban Development,4098540,7,Open Tender

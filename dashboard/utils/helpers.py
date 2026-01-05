@@ -11,18 +11,72 @@ from datetime import datetime
 
 def generate_risk_scores(df, seed=42):
     """
-    Generate risk scores for tenders (0-100).
-    Uses consistent seed for reproducibility.
+    Generate risk scores based on actual fraud indicators.
     
     Args:
         df: DataFrame with tender data
-        seed: Random seed for consistency
+        seed: Random seed (unused now, kept for compatibility)
         
     Returns:
-        DataFrame with added risk_score and risk_level columns
+        DataFrame with added risk_score column
     """
-    np.random.seed(seed)
-    df['risk_score'] = np.random.randint(0, 100, len(df))
+    # Initialize score
+    scores = pd.Series(0, index=df.index)
+    
+    # --- 0. STANDARDIZE COLUMNS FIRST ---
+    # We need to ensure we are looking at the right columns even if names vary
+    # Simple mapping for common variations
+    col_map = {
+        'bidders_count': 'bidder_count',
+        'amount': 'contract_amount',
+        'date': 'pub_date',
+        'department': 'dept_name'
+    }
+    # Create a temporary working dataframe with standardized names
+    work_df = df.rename(columns=col_map).copy()
+    
+    # --- 1. COMPETITION RISKS ---
+    if 'bidder_count' in work_df.columns:
+        # Single Bidder is a major red flag (+40)
+        scores += work_df['bidder_count'].apply(lambda x: 40 if x == 1 else 0)
+        
+        # Low Competition (2 bidders) is suspicious (+20)
+        scores += work_df['bidder_count'].apply(lambda x: 20 if x == 2 else 0)
+        
+        # Missing bidder count is a data quality red flag (+10)
+        scores += work_df['bidder_count'].isna().astype(int) * 10
+
+    # --- 2. PROCUREMENT METHOD RISKS ---
+    if 'proc_method' in work_df.columns:
+        # Limited Tenders are less transparent (+15)
+        scores += work_df['proc_method'].astype(str).str.contains('Limited', case=False, na=False).astype(int) * 15
+        
+        # Unknown or 'Other' methods are suspicious (+10)
+        scores += work_df['proc_method'].astype(str).str.contains('Unknown|Other', case=False, na=False).astype(int) * 10
+
+    # --- 3. TIMING RISKS ---
+    if 'pub_date' in work_df.columns:
+        pub_date = pd.to_datetime(work_df['pub_date'], errors='coerce')
+        
+        # Weekend Publication (trying to hide the tender) (+15)
+        # 5=Saturday, 6=Sunday
+        scores += pub_date.apply(lambda x: 15 if pd.notna(x) and x.dayofweek >= 5 else 0)
+        
+        # Missing Date (+5)
+        scores += pub_date.isna().astype(int) * 5
+        
+        # March Rush (End of Financial Year) (+10)
+        scores += pub_date.apply(lambda x: 10 if pd.notna(x) and x.month == 3 else 0)
+
+    # --- 4. AMOUNT RISKS ---
+    # (Simple check: Very round numbers often indicate estimates/fraud)
+    if 'contract_amount' in work_df.columns:
+        # Check if amount is a multiple of 100,000 (suspiciously round)
+        scores += work_df['contract_amount'].apply(lambda x: 5 if pd.notna(x) and x > 0 and x % 100000 == 0 else 0)
+
+    # Cap score at 100 and ensure integer
+    df['risk_score'] = scores.clip(upper=100).astype(int)
+    
     return df
 
 
@@ -37,11 +91,18 @@ def classify_risk_levels(df, risk_threshold):
     Returns:
         DataFrame with added risk_level column
     """
-    df['risk_level'] = pd.cut(
-        df['risk_score'], 
-        bins=[0, 40, risk_threshold, 100], 
-        labels=['Low', 'Medium', 'High']
-    )
+    # Ensure risk_score is numeric
+    df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0)
+    
+    # Use numpy select for faster and safer classification than pd.cut with bins
+    conditions = [
+        (df['risk_score'] >= risk_threshold),
+        (df['risk_score'] >= 40) & (df['risk_score'] < risk_threshold),
+        (df['risk_score'] < 40)
+    ]
+    choices = ['High', 'Medium', 'Low']
+    
+    df['risk_level'] = np.select(conditions, choices, default='Low')
     return df
 
 
