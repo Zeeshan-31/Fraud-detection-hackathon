@@ -1,0 +1,7 @@
+contract_id,pub_date,contract_amount,bidder_count,dept_name,proc_method,data_source
+A-0001,2025-12-28,2500000,1,Public Works Department,Open,Sample
+A-0002,2025-07-10,520000,7,Health Department,Open,Sample
+A-0003,2026-03-29,990000,2,Education Department,Limited,Sample
+A-0004,2025-11-03,10000000,5,Water Resources,Open,Sample
+A-0005,2025-12-31,1000000,1,Public Works Department,Unknown,Sample
+A-0006,,2400000,,Rural Development,Open,Sample

@@ -1,0 +1,1501 @@
+contract_id,date,department,vendor_name,amount,category,description,budget,bidders_count
+C0001,2024-11-23,Social Welfare,ABC Technologies Pvt Ltd,3700000,IT Equipment,Emergency procurement of vehicles for department,1650208,1
+C0002,2024-02-17,Urban Development,TechCorp Services,9806056,Services,Purchase of 264 desks for government offices,10031221,7
+C0003,2024-01-04,Health,BuildCo Infrastructure,1009441,Furniture,Purchase of 160 medicines for government offices,1003619,4
+C0004,2024-02-19,Social Welfare,BuildCo Infrastructure,1962235,Maintenance,Purchase of 324 laptops for government offices,2070014,6
+C0005,2024-05-30,Education,Urban Builders,10656355,Office Supplies,Purchase of 410 laptops for government offices,10624519,4
+C0006,2024-05-28,PWD,PharmaCo Enterprises,1059945,Vehicles,Purchase of 375 medicines for government offices,1059326,6
+C0007,2024-04-17,Social Welfare,DataSystems India,491369,Maintenance,Purchase of 133 vehicles for government offices,477732,4
+C0008,2024-04-22,Health,QuickOffice Supplies,434357,Vehicles,Purchase of 255 medicines for government offices,414451,5
+C0009,2024-04-18,Transport,Digital Solutions Inc,5327024,Maintenance,Purchase of 185 desks for government offices,5505856,4
+C0010,2024-10-02,Urban Development,BuildCo Infrastructure,9285301,IT Equipment,Purchase of 162 desks for government offices,9525412,5
+C0011,2024-02-26,Urban Development,HealthFirst Products,1037623,Services,Purchase of 247 vehicles for government offices,1042687,3
+C0012,2024-10-10,Agriculture,BuildCo Infrastructure,502042,Services,Purchase of 434 medicines for government offices,484416,7
+C0013,2024-08-10,Health,SmartCity Developers,543072,Services,Purchase of 306 desks for government offices,577753,5
+C0014,2024-11-23,Education,TechCorp Services,845851,Vehicles,Purchase of 448 servers for government offices,887404,7
+C0015,2024-09-07,Transport,PrimeVendor Corporation,5600000,Medical Supplies,Urgent procurement of laptops for department,3660687,1
+C0016,2024-02-13,Urban Development,HealthFirst Products,546697,Construction,Purchase of 115 furniture for government offices,557221,4
+C0017,2024-05-15,Transport,Digital Solutions Inc,9269413,Services,Purchase of 436 furniture for government offices,9061164,7
+C0018,2024-07-23,Health,PharmaCo Enterprises,1862860,IT Equipment,Purchase of 176 desks for government offices,1895059,3
+C0019,2024-10-28,Education,SmartCity Developers,8660652,Vehicles,Purchase of 167 laptops for government offices,8307549,3
+C0020,2024-02-06,Urban Development,QuickOffice Supplies,2001386,Infrastructure,Purchase of 420 servers for government offices,1957056,4
+C0021,2024-07-27,Education,Urban Builders,498847,Medical Supplies,Purchase of 289 furniture for government offices,496880,6
+C0022,2024-02-01,Urban Development,Medicare Corporation,2080355,Furniture,Purchase of 147 servers for government offices,2005888,4
+C0023,2024-04-03,Education,BuildCo Infrastructure,1062345,Office Supplies,Purchase of 100 laptops for government offices,1019638,7
+C0024,2024-03-26,Education,Auto Parts Ltd,4320620,Services,Purchase of 134 vehicles for government offices,4329845,3
+C0025,2024-08-20,Education,TechCorp Services,9985613,Maintenance,Purchase of 201 desks for government offices,10118094,4
+C0026,2024-02-01,Health,SmartCity Developers,407521,Construction,Purchase of 130 laptops for government offices,412404,7
+C0027,2024-02-05,Education,TechCorp Services,921132,Medical Supplies,Purchase of 176 servers for government offices,987828,7
+C0028,2024-08-02,Agriculture,QuickOffice Supplies,9568348,Services,Purchase of 392 furniture for government offices,10252597,4
+C0029,2024-07-21,Health,BuildCo Infrastructure,1874334,Maintenance,Purchase of 54 vehicles for government offices,2006985,3
+C0030,2024-04-19,PWD,EduSupply Solutions,1079977,Maintenance,Purchase of 239 medicines for government offices,1149648,4
+C0031,2024-12-26,PWD,DataSystems India,8023469,Medical Supplies,Purchase of 389 laptops for government offices,8474576,5
+C0032,2024-02-24,IT Department,HealthFirst Products,881704,Infrastructure,Purchase of 154 furniture for government offices,906945,5
+C0033,2024-05-08,Agriculture,GreenTech Industries,413844,Construction,Purchase of 72 laptops for government offices,415940,5
+C0034,2024-11-22,Health,BuildCo Infrastructure,1022369,Construction,Purchase of 337 laptops for government offices,1044573,6
+C0035,2024-10-06,Agriculture,PrimeVendor Corporation,4700000,IT Equipment,Emergency procurement of supplies for department,2109935,1
+C0036,2024-07-02,PWD,PrimeVendor Corporation,1000080,Office Supplies,Purchase of 497 vehicles for government offices,996057,7
+C0037,2024-03-24,Transport,DataSystems India,1064424,Construction,Purchase of 450 vehicles for government offices,1014632,5
+C0038,2024-12-25,Transport,QuickOffice Supplies,1300000,IT Equipment,Immediate procurement of supplies for department,650595,2
+C0039,2024-12-03,Social Welfare,Urban Builders,1767161,Maintenance,Purchase of 229 furniture for government offices,1694751,5
+C0040,2024-06-18,Health,TechCorp Services,531555,Furniture,Purchase of 185 laptops for government offices,523027,7
+C0041,2024-06-25,Transport,DataSystems India,1861836,IT Equipment,Purchase of 247 servers for government offices,2006967,3
+C0042,2024-12-28,Health,Urban Builders,10776725,Vehicles,Purchase of 236 vehicles for government offices,10992246,4
+C0043,2024-11-15,Agriculture,Auto Parts Ltd,507963,Services,Purchase of 391 vehicles for government offices,502396,5
+C0044,2024-10-10,IT Department,Auto Parts Ltd,4997394,Maintenance,Purchase of 365 servers for government offices,4993840,4
+C0045,2024-01-01,Urban Development,Urban Builders,928966,Office Supplies,Purchase of 288 vehicles for government offices,952559,5
+C0046,2024-09-18,Transport,Urban Builders,997655,Services,Purchase of 221 laptops for government offices,984577,7
+C0047,2024-04-25,Urban Development,Auto Parts Ltd,807327,Office Supplies,Purchase of 362 laptops for government offices,792657,6
+C0048,2024-12-22,Social Welfare,QuickOffice Supplies,4365976,Construction,Purchase of 434 laptops for government offices,4520040,3
+C0049,2024-12-22,Urban Development,Urban Builders,483610,Maintenance,Purchase of 283 desks for government offices,517110,3
+C0050,2024-10-13,Urban Development,PrimeVendor Corporation,4918978,Construction,Purchase of 268 servers for government offices,5132981,7
+C0051,2024-08-31,Transport,DataSystems India,1051958,Infrastructure,Purchase of 298 furniture for government offices,1037283,7
+C0052,2024-02-09,PWD,QuickOffice Supplies,881514,Furniture,Purchase of 91 desks for government offices,874075,7
+C0053,2024-12-21,Education,QuickOffice Supplies,819268,Furniture,Purchase of 288 vehicles for government offices,821715,7
+C0054,2024-07-18,Education,PharmaCo Enterprises,10838186,Services,Purchase of 244 vehicles for government offices,10323796,7
+C0055,2024-07-18,Transport,DataSystems India,4807330,Furniture,Purchase of 162 vehicles for government offices,5026075,7
+C0056,2024-09-05,Education,PrimeVendor Corporation,5000000,Furniture,Critical procurement of equipment for department,3201446,1
+C0057,2024-10-30,IT Department,Auto Parts Ltd,412592,Vehicles,Purchase of 143 laptops for government offices,414951,6
+C0058,2024-04-18,Urban Development,ABC Technologies Pvt Ltd,2056737,Maintenance,Purchase of 179 laptops for government offices,2055269,6
+C0059,2024-01-27,Transport,QuickOffice Supplies,1734533,IT Equipment,Purchase of 436 laptops for government offices,1663279,3
+C0060,2024-11-14,IT Department,GreenTech Industries,942068,Vehicles,Purchase of 288 furniture for government offices,908973,4
+C0061,2024-03-26,Education,PrimeVendor Corporation,516668,Services,Purchase of 105 servers for government offices,501834,5
+C0062,2024-10-21,Transport,BuildCo Infrastructure,4594981,Services,Purchase of 353 furniture for government offices,4792344,3
+C0063,2024-12-16,Social Welfare,Urban Builders,519434,Vehicles,Purchase of 227 servers for government offices,531677,3
+C0064,2024-02-05,Agriculture,Urban Builders,1607591,Infrastructure,Purchase of 104 vehicles for government offices,1614998,6
+C0065,2024-12-28,Urban Development,EduSupply Solutions,1020138,Furniture,Purchase of 365 servers for government offices,1097170,5
+C0066,2024-10-30,Social Welfare,PharmaCo Enterprises,1049219,IT Equipment,Purchase of 174 vehicles for government offices,1008578,6
+C0067,2024-09-10,IT Department,HealthFirst Products,946264,IT Equipment,Purchase of 224 medicines for government offices,942599,5
+C0068,2024-09-21,Urban Development,Urban Builders,436203,Infrastructure,Purchase of 438 desks for government offices,437439,7
+C0069,2024-08-17,Agriculture,EduSupply Solutions,444135,Maintenance,Purchase of 206 furniture for government offices,445277,4
+C0070,2024-09-28,Transport,BuildCo Infrastructure,8992373,Office Supplies,Purchase of 206 medicines for government offices,9364397,5
+C0071,2024-06-10,IT Department,Digital Solutions Inc,29200000,Maintenance,Urgent procurement of furniture for department,17764175,1
+C0072,2024-11-01,Education,Digital Solutions Inc,524894,Maintenance,Purchase of 141 medicines for government offices,518864,5
+C0073,2024-03-05,Health,SmartCity Developers,483003,IT Equipment,Purchase of 376 vehicles for government offices,502643,4
+C0074,2024-10-20,Health,SmartCity Developers,4660703,Medical Supplies,Purchase of 179 vehicles for government offices,4539372,3
+C0075,2024-07-24,IT Department,BuildCo Infrastructure,9888337,Office Supplies,Purchase of 465 servers for government offices,9462833,4
+C0076,2024-03-01,Social Welfare,EduSupply Solutions,4909476,Infrastructure,Purchase of 447 servers for government offices,5168678,4
+C0077,2024-06-01,Transport,Urban Builders,4458070,Office Supplies,Purchase of 428 laptops for government offices,4595082,7
+C0078,2024-05-15,Urban Development,Digital Solutions Inc,871959,Infrastructure,Purchase of 51 vehicles for government offices,890931,4
+C0079,2024-05-29,IT Department,GreenTech Industries,5100000,Office Supplies,Emergency procurement of equipment for department,3128318,2
+C0080,2024-08-05,PWD,GreenTech Industries,2400000,Services,Emergency procurement of laptops for department,1662109,1
+C0081,2024-10-31,Social Welfare,DataSystems India,10763577,Maintenance,Purchase of 402 medicines for government offices,10839890,6
+C0082,2024-10-03,Education,BuildCo Infrastructure,489705,Office Supplies,Purchase of 359 medicines for government offices,521841,5
+C0083,2024-12-11,PWD,EduSupply Solutions,9761368,Maintenance,Purchase of 345 laptops for government offices,9299625,5
+C0084,2024-11-29,Agriculture,Auto Parts Ltd,1708893,Vehicles,Purchase of 96 vehicles for government offices,1753482,6
+C0085,2024-06-13,Education,EduSupply Solutions,898941,Medical Supplies,Purchase of 389 vehicles for government offices,935058,5
+C0086,2024-06-10,Urban Development,Auto Parts Ltd,545527,IT Equipment,Purchase of 472 laptops for government offices,546914,7
+C0087,2024-04-06,PWD,PrimeVendor Corporation,10269329,Services,Purchase of 154 medicines for government offices,10590791,3
+C0088,2024-08-12,PWD,DataSystems India,4182139,Maintenance,Purchase of 459 desks for government offices,4502110,7
+C0089,2024-01-08,PWD,EduSupply Solutions,433705,Services,Purchase of 286 laptops for government offices,459459,3
+C0090,2024-09-17,PWD,Auto Parts Ltd,5252085,Office Supplies,Purchase of 283 servers for government offices,5658763,4
+C0091,2024-11-02,IT Department,SmartCity Developers,1059208,IT Equipment,Purchase of 224 servers for government offices,1044286,6
+C0092,2024-05-24,Urban Development,PharmaCo Enterprises,9739770,Vehicles,Purchase of 278 servers for government offices,10088378,4
+C0093,2024-10-09,Social Welfare,QuickOffice Supplies,4683016,Furniture,Purchase of 407 desks for government offices,4644760,4
+C0094,2024-01-23,PWD,EduSupply Solutions,5057841,IT Equipment,Purchase of 389 furniture for government offices,5338465,6
+C0095,2024-03-05,Urban Development,ABC Technologies Pvt Ltd,8995984,Construction,Purchase of 101 servers for government offices,8663558,6
+C0096,2024-07-28,Social Welfare,Urban Builders,822448,Medical Supplies,Purchase of 223 servers for government offices,864884,5
+C0097,2024-06-17,Education,TechCorp Services,9140028,Medical Supplies,Purchase of 496 servers for government offices,9059284,6
+C0098,2024-04-30,Health,EduSupply Solutions,2198455,Construction,Purchase of 100 furniture for government offices,2301957,6
+C0099,2024-12-21,Social Welfare,Medicare Corporation,406898,Office Supplies,Purchase of 233 medicines for government offices,428666,5
+C0100,2024-09-28,Transport,EduSupply Solutions,850995,Construction,Purchase of 367 furniture for government offices,817181,6
+C0101,2024-04-28,PWD,BuildCo Infrastructure,1875742,Infrastructure,Purchase of 197 furniture for government offices,1944561,6
+C0102,2024-06-25,Transport,Auto Parts Ltd,1983363,Infrastructure,Purchase of 283 medicines for government offices,1993597,5
+C0103,2024-02-24,Social Welfare,DataSystems India,9076877,IT Equipment,Purchase of 61 furniture for government offices,8972160,5
+C0104,2024-10-16,Agriculture,QuickOffice Supplies,536592,Office Supplies,Purchase of 447 desks for government offices,561743,5
+C0105,2024-11-13,Education,TechCorp Services,988474,Vehicles,Purchase of 208 vehicles for government offices,1055139,3
+C0106,2024-03-08,Agriculture,HealthFirst Products,3900000,Maintenance,Urgent procurement of vehicles for department,2088193,1
+C0107,2024-05-19,Health,EduSupply Solutions,2148429,Medical Supplies,Purchase of 432 medicines for government offices,2304715,5
+C0108,2024-03-13,Agriculture,BuildCo Infrastructure,1058042,Furniture,Purchase of 483 servers for government offices,1104752,6
+C0109,2024-01-08,Agriculture,BuildCo Infrastructure,468217,Office Supplies,Purchase of 349 vehicles for government offices,485760,5
+C0110,2024-08-29,Social Welfare,BuildCo Infrastructure,19900000,Construction,Critical procurement of supplies for department,11613906,1
+C0111,2024-01-24,Social Welfare,EduSupply Solutions,2197556,Vehicles,Purchase of 325 desks for government offices,2120851,4
+C0112,2024-12-09,Health,SmartCity Developers,9257380,Infrastructure,Purchase of 262 furniture for government offices,9687801,4
+C0113,2024-11-11,Agriculture,BuildCo Infrastructure,1619629,Vehicles,Purchase of 277 desks for government offices,1616663,6
+C0114,2024-10-05,Health,Urban Builders,1636330,Office Supplies,Purchase of 484 vehicles for government offices,1613199,3
+C0115,2024-11-24,Transport,BuildCo Infrastructure,407586,Maintenance,Purchase of 452 servers for government offices,404878,4
+C0116,2024-04-16,PWD,Medicare Corporation,898567,Maintenance,Purchase of 51 medicines for government offices,870875,7
+C0117,2024-05-08,Agriculture,ABC Technologies Pvt Ltd,499158,Construction,Purchase of 233 desks for government offices,475872,3
+C0118,2024-05-15,Health,EduSupply Solutions,11400000,Maintenance,Critical procurement of supplies for department,7138641,2
+C0119,2024-04-23,Education,ABC Technologies Pvt Ltd,509086,Infrastructure,Purchase of 204 vehicles for government offices,543773,7
+C0120,2024-07-24,PWD,BuildCo Infrastructure,473540,Construction,Purchase of 91 medicines for government offices,505864,3
+C0121,2024-05-20,Urban Development,HealthFirst Products,9645069,Furniture,Purchase of 321 medicines for government offices,9570552,7
+C0122,2024-02-20,Social Welfare,EduSupply Solutions,527918,Office Supplies,Purchase of 419 desks for government offices,546194,7
+C0123,2024-07-30,IT Department,PharmaCo Enterprises,4598095,Construction,Purchase of 268 medicines for government offices,4804317,5
+C0124,2024-12-17,Agriculture,GreenTech Industries,413683,Construction,Purchase of 99 furniture for government offices,397589,6
+C0125,2024-10-11,Education,DataSystems India,23400000,Services,Immediate procurement of furniture for department,14078668,2
+C0126,2024-06-29,Agriculture,BuildCo Infrastructure,18100000,Services,Emergency procurement of supplies for department,10860455,1
+C0127,2024-10-20,Education,TechCorp Services,5267732,Services,Purchase of 364 furniture for government offices,5671719,7
+C0128,2024-01-15,Social Welfare,BuildCo Infrastructure,2152922,Construction,Purchase of 495 desks for government offices,2143520,4
+C0129,2024-11-20,PWD,PharmaCo Enterprises,511916,Services,Purchase of 282 medicines for government offices,500637,6
+C0130,2024-06-15,Education,Urban Builders,9788671,Medical Supplies,Purchase of 130 servers for government offices,10423314,4
+C0131,2024-05-19,Health,PharmaCo Enterprises,4728492,Furniture,Purchase of 160 servers for government offices,4763793,5
+C0132,2024-02-26,Education,ABC Technologies Pvt Ltd,9459898,Office Supplies,Purchase of 162 vehicles for government offices,9807333,3
+C0133,2024-06-03,Social Welfare,Medicare Corporation,1029248,Construction,Purchase of 53 vehicles for government offices,1016514,3
+C0134,2024-07-13,Education,Auto Parts Ltd,950078,IT Equipment,Purchase of 86 vehicles for government offices,1005501,5
+C0135,2024-08-23,Social Welfare,ABC Technologies Pvt Ltd,1945455,Vehicles,Purchase of 198 laptops for government offices,1993200,6
+C0136,2024-03-28,Health,QuickOffice Supplies,9380290,Furniture,Purchase of 95 vehicles for government offices,9752211,5
+C0137,2024-10-28,PWD,BuildCo Infrastructure,459365,Maintenance,Purchase of 163 medicines for government offices,454925,5
+C0138,2024-11-20,Health,Medicare Corporation,17900000,Services,Urgent procurement of equipment for department,11333759,1
+C0139,2024-04-11,Urban Development,EduSupply Solutions,1028064,Infrastructure,Purchase of 445 furniture for government offices,1064268,4
+C0140,2024-12-14,Agriculture,Medicare Corporation,9928975,Infrastructure,Purchase of 492 furniture for government offices,10705908,5
+C0141,2024-02-04,IT Department,EduSupply Solutions,2077797,Infrastructure,Purchase of 309 laptops for government offices,2133657,5
+C0142,2024-01-20,Education,EduSupply Solutions,3200000,Office Supplies,Critical procurement of furniture for department,2129585,1
+C0143,2024-06-13,Health,HealthFirst Products,8452583,Construction,Purchase of 465 medicines for government offices,8097942,3
+C0144,2024-01-21,Agriculture,PrimeVendor Corporation,5486479,Services,Purchase of 131 medicines for government offices,5585942,7
+C0145,2024-07-17,Health,HealthFirst Products,2007338,Furniture,Purchase of 83 medicines for government offices,1920636,5
+C0146,2024-05-25,Agriculture,DataSystems India,10619838,Furniture,Purchase of 389 desks for government offices,10549078,7
+C0147,2024-03-07,Health,Urban Builders,446437,Furniture,Purchase of 466 desks for government offices,445976,5
+C0148,2024-09-17,Transport,QuickOffice Supplies,1785319,Construction,Purchase of 442 vehicles for government offices,1916811,5
+C0149,2024-03-20,PWD,TechCorp Services,1100000,Furniture,Immediate procurement of vehicles for department,635413,1
+C0150,2024-03-19,Agriculture,Urban Builders,10427131,Office Supplies,Purchase of 72 vehicles for government offices,10130167,6
+C0151,2024-08-15,Agriculture,Urban Builders,4351004,Infrastructure,Purchase of 477 desks for government offices,4268734,6
+C0152,2024-08-24,PWD,SmartCity Developers,4754360,Services,Purchase of 468 desks for government offices,4775402,4
+C0153,2024-01-27,IT Department,BuildCo Infrastructure,1932724,Construction,Purchase of 485 laptops for government offices,1861863,7
+C0154,2024-05-19,Agriculture,PrimeVendor Corporation,8442045,IT Equipment,Purchase of 468 vehicles for government offices,8500053,4
+C0155,2024-07-31,Education,PharmaCo Enterprises,20600000,Medical Supplies,Immediate procurement of equipment for department,10631366,1
+C0156,2024-12-31,Urban Development,EduSupply Solutions,841279,IT Equipment,Purchase of 406 desks for government offices,830589,6
+C0157,2024-02-10,Transport,DataSystems India,2700000,Medical Supplies,Emergency procurement of supplies for department,1554143,2
+C0158,2024-01-25,Education,Urban Builders,9371340,Maintenance,Purchase of 355 servers for government offices,9037828,6
+C0159,2024-10-21,Social Welfare,Medicare Corporation,887381,Medical Supplies,Purchase of 173 servers for government offices,843192,5
+C0160,2024-09-25,Social Welfare,SmartCity Developers,543010,Infrastructure,Purchase of 333 laptops for government offices,554266,7
+C0161,2024-01-23,Health,GreenTech Industries,1752190,Vehicles,Purchase of 226 desks for government offices,1668280,3
+C0162,2024-03-09,PWD,BuildCo Infrastructure,20000000,Infrastructure,Critical procurement of equipment for department,11903138,2
+C0163,2024-01-19,Social Welfare,SmartCity Developers,518666,Maintenance,Purchase of 208 servers for government offices,552458,5
+C0164,2024-08-30,Agriculture,DataSystems India,885833,Medical Supplies,Purchase of 493 furniture for government offices,940823,3
+C0165,2024-07-07,Urban Development,Digital Solutions Inc,5114961,Infrastructure,Purchase of 223 desks for government offices,5454097,6
+C0166,2024-07-07,PWD,HealthFirst Products,8800162,Services,Purchase of 90 vehicles for government offices,8454663,6
+C0167,2024-06-13,Agriculture,EduSupply Solutions,4900000,IT Equipment,Urgent procurement of furniture for department,2451261,2
+C0168,2024-06-29,Social Welfare,PharmaCo Enterprises,4411833,Maintenance,Purchase of 88 furniture for government offices,4753324,3
+C0169,2024-12-13,Health,QuickOffice Supplies,421416,Vehicles,Purchase of 67 desks for government offices,433630,6
+C0170,2024-07-04,Urban Development,GreenTech Industries,8097155,Medical Supplies,Purchase of 239 medicines for government offices,7853810,6
+C0171,2024-10-20,PWD,EduSupply Solutions,1838820,Maintenance,Purchase of 108 laptops for government offices,1902154,4
+C0172,2024-07-17,IT Department,Digital Solutions Inc,439266,Infrastructure,Purchase of 159 servers for government offices,432166,6
+C0173,2024-04-12,Agriculture,Urban Builders,467806,Vehicles,Purchase of 94 furniture for government offices,499068,6
+C0174,2024-12-29,Transport,BuildCo Infrastructure,19300000,Office Supplies,Urgent procurement of supplies for department,9483911,1
+C0175,2024-03-12,PWD,TechCorp Services,4039426,Medical Supplies,Purchase of 289 servers for government offices,4128385,5
+C0176,2024-02-03,Agriculture,Urban Builders,4788543,Medical Supplies,Purchase of 87 desks for government offices,5027928,7
+C0177,2024-08-18,PWD,GreenTech Industries,9033544,Construction,Purchase of 377 servers for government offices,9612908,7
+C0178,2024-08-09,Agriculture,PrimeVendor Corporation,524708,Office Supplies,Purchase of 134 desks for government offices,533813,5
+C0179,2024-06-26,IT Department,Medicare Corporation,10684777,Services,Purchase of 150 furniture for government offices,11325557,5
+C0180,2024-11-10,Agriculture,SmartCity Developers,9922962,IT Equipment,Purchase of 128 desks for government offices,10190237,7
+C0181,2024-01-15,IT Department,Urban Builders,18900000,Services,Emergency procurement of furniture for department,8787635,2
+C0182,2024-09-04,Social Welfare,EduSupply Solutions,4446150,Infrastructure,Purchase of 130 vehicles for government offices,4266020,3
+C0183,2024-04-14,Agriculture,HealthFirst Products,893774,Maintenance,Purchase of 254 desks for government offices,932552,5
+C0184,2024-02-24,IT Department,Auto Parts Ltd,4183782,Furniture,Purchase of 99 laptops for government offices,4219124,4
+C0185,2024-05-07,Urban Development,HealthFirst Products,1044043,Infrastructure,Purchase of 147 desks for government offices,1118574,5
+C0186,2024-09-12,Transport,TechCorp Services,4034764,Vehicles,Purchase of 284 desks for government offices,4328818,7
+C0187,2024-01-25,Education,SmartCity Developers,11900000,Medical Supplies,Immediate procurement of vehicles for department,7822109,2
+C0188,2024-08-08,Education,TechCorp Services,2036504,Maintenance,Purchase of 73 vehicles for government offices,2136906,5
+C0189,2024-04-09,Health,Medicare Corporation,1644119,Medical Supplies,Purchase of 193 servers for government offices,1669690,7
+C0190,2024-07-20,Social Welfare,HealthFirst Products,1934699,IT Equipment,Purchase of 151 servers for government offices,1929918,4
+C0191,2024-01-24,Agriculture,Medicare Corporation,5400000,Furniture,Urgent procurement of supplies for department,3007931,1
+C0192,2024-11-11,IT Department,EduSupply Solutions,1956234,IT Equipment,Purchase of 322 vehicles for government offices,1987437,7
+C0193,2024-07-07,IT Department,Urban Builders,546984,Office Supplies,Purchase of 355 vehicles for government offices,561140,3
+C0194,2024-01-27,Transport,ABC Technologies Pvt Ltd,957269,Medical Supplies,Purchase of 125 furniture for government offices,999153,6
+C0195,2024-04-07,Urban Development,SmartCity Developers,4200000,IT Equipment,Critical procurement of vehicles for department,2229845,1
+C0196,2024-12-27,Agriculture,Medicare Corporation,968266,Infrastructure,Purchase of 319 vehicles for government offices,1045490,6
+C0197,2024-09-29,Transport,QuickOffice Supplies,2005521,Services,Purchase of 362 vehicles for government offices,2131457,5
+C0198,2024-10-12,Agriculture,HealthFirst Products,2062704,Services,Purchase of 212 vehicles for government offices,2148589,6
+C0199,2024-05-27,IT Department,ABC Technologies Pvt Ltd,9139082,Services,Purchase of 445 desks for government offices,9846637,5
+C0200,2024-12-31,IT Department,PrimeVendor Corporation,12400000,Maintenance,Urgent procurement of vehicles for department,7752452,1
+C0201,2024-12-22,Transport,Urban Builders,492351,Office Supplies,Purchase of 75 furniture for government offices,505293,4
+C0202,2024-01-27,PWD,Auto Parts Ltd,5100000,Infrastructure,Emergency procurement of vehicles for department,2216234,1
+C0203,2024-09-01,Transport,HealthFirst Products,1792700,IT Equipment,Purchase of 383 servers for government offices,1853592,3
+C0204,2024-03-30,PWD,PrimeVendor Corporation,1080176,Services,Purchase of 453 vehicles for government offices,1031270,6
+C0205,2024-01-20,Urban Development,PrimeVendor Corporation,24000000,Construction,Immediate procurement of furniture for department,16313199,1
+C0206,2024-09-15,PWD,ABC Technologies Pvt Ltd,1042644,Vehicles,Purchase of 381 medicines for government offices,1035333,6
+C0207,2024-05-31,Agriculture,BuildCo Infrastructure,852648,Furniture,Purchase of 473 vehicles for government offices,904914,6
+C0208,2024-12-08,Transport,EduSupply Solutions,2200000,Services,Immediate procurement of furniture for department,1508659,1
+C0209,2024-06-17,Health,EduSupply Solutions,8034307,Services,Purchase of 81 furniture for government offices,8315337,4
+C0210,2024-03-22,IT Department,PharmaCo Enterprises,10769318,Office Supplies,Purchase of 403 laptops for government offices,11473784,5
+C0211,2024-04-22,Urban Development,GreenTech Industries,4229778,Maintenance,Purchase of 241 vehicles for government offices,4429446,7
+C0212,2024-12-06,Agriculture,BuildCo Infrastructure,1004102,Medical Supplies,Purchase of 319 vehicles for government offices,1031670,3
+C0213,2024-02-01,Urban Development,BuildCo Infrastructure,8606470,Office Supplies,Purchase of 217 servers for government offices,8776583,4
+C0214,2024-10-25,Urban Development,TechCorp Services,9336448,IT Equipment,Purchase of 312 vehicles for government offices,8937152,4
+C0215,2024-10-13,Health,ABC Technologies Pvt Ltd,2033968,Furniture,Purchase of 431 desks for government offices,2036964,3
+C0216,2024-06-25,IT Department,Auto Parts Ltd,10982370,Construction,Purchase of 291 laptops for government offices,11767562,3
+C0217,2024-03-10,Social Welfare,BuildCo Infrastructure,4561691,Maintenance,Purchase of 495 vehicles for government offices,4862184,6
+C0218,2024-03-09,Transport,SmartCity Developers,1671179,IT Equipment,Purchase of 320 desks for government offices,1803319,6
+C0219,2024-01-12,Transport,EduSupply Solutions,5010249,Vehicles,Purchase of 244 desks for government offices,5114351,7
+C0220,2024-03-20,Transport,QuickOffice Supplies,404832,Medical Supplies,Purchase of 442 laptops for government offices,419335,7
+C0221,2024-02-21,Education,Auto Parts Ltd,4896677,Infrastructure,Purchase of 175 furniture for government offices,5099532,3
+C0222,2024-04-29,Agriculture,TechCorp Services,421020,Vehicles,Purchase of 467 furniture for government offices,454344,4
+C0223,2024-05-01,Education,HealthFirst Products,1095708,Construction,Purchase of 203 medicines for government offices,1115170,6
+C0224,2024-11-16,Agriculture,Digital Solutions Inc,9486862,Furniture,Purchase of 452 servers for government offices,10211636,6
+C0225,2024-07-28,IT Department,SmartCity Developers,4275818,Construction,Purchase of 484 desks for government offices,4361037,4
+C0226,2024-08-25,Transport,DataSystems India,9238032,Office Supplies,Purchase of 118 vehicles for government offices,9276333,7
+C0227,2024-06-18,Social Welfare,Urban Builders,5270700,IT Equipment,Purchase of 76 medicines for government offices,5070520,4
+C0228,2024-02-07,IT Department,PrimeVendor Corporation,10172915,IT Equipment,Purchase of 156 medicines for government offices,10403337,6
+C0229,2024-04-18,Transport,Auto Parts Ltd,512031,Office Supplies,Purchase of 406 servers for government offices,536640,4
+C0230,2024-10-09,Agriculture,HealthFirst Products,1828397,Infrastructure,Purchase of 207 medicines for government offices,1863821,5
+C0231,2024-08-26,Social Welfare,ABC Technologies Pvt Ltd,13200000,Office Supplies,Immediate procurement of supplies for department,6554184,1
+C0232,2024-03-15,Transport,PharmaCo Enterprises,29000000,Office Supplies,Immediate procurement of equipment for department,16650806,2
+C0233,2024-07-13,Urban Development,EduSupply Solutions,949790,Construction,Purchase of 181 vehicles for government offices,983126,5
+C0234,2024-06-29,Education,SmartCity Developers,9464948,Medical Supplies,Purchase of 378 laptops for government offices,10119893,7
+C0235,2024-12-08,Education,QuickOffice Supplies,1000000,Maintenance,Emergency procurement of equipment for department,691468,1
+C0236,2024-08-21,Education,ABC Technologies Pvt Ltd,9913185,Maintenance,Purchase of 387 vehicles for government offices,10621060,6
+C0237,2024-10-09,Social Welfare,GreenTech Industries,479412,Construction,Purchase of 58 servers for government offices,472564,5
+C0238,2024-02-24,IT Department,GreenTech Industries,8446692,Furniture,Purchase of 179 medicines for government offices,8235112,7
+C0239,2024-02-10,Health,Urban Builders,4688496,IT Equipment,Purchase of 203 furniture for government offices,4602307,4
+C0240,2024-02-17,Health,EduSupply Solutions,4829052,Furniture,Purchase of 409 desks for government offices,4622827,3
+C0241,2024-11-26,Transport,PrimeVendor Corporation,10931987,Infrastructure,Purchase of 71 desks for government offices,11769368,7
+C0242,2024-05-18,Education,QuickOffice Supplies,1200000,Construction,Urgent procurement of supplies for department,611588,1
+C0243,2024-12-30,Agriculture,Auto Parts Ltd,444891,Construction,Purchase of 477 vehicles for government offices,455263,7
+C0244,2024-12-18,Health,PharmaCo Enterprises,10236369,Furniture,Purchase of 273 desks for government offices,10184795,3
+C0245,2024-06-16,Social Welfare,Auto Parts Ltd,5300000,Construction,Immediate procurement of vehicles for department,2863477,1
+C0246,2024-12-14,Health,DataSystems India,4128541,Construction,Purchase of 415 laptops for government offices,4254131,4
+C0247,2024-07-13,IT Department,EduSupply Solutions,1021896,Vehicles,Purchase of 96 laptops for government offices,1012870,3
+C0248,2024-05-18,Health,PharmaCo Enterprises,800000,Maintenance,Emergency procurement of laptops for department,476131,2
+C0249,2024-02-17,Transport,TechCorp Services,2118230,Maintenance,Purchase of 248 laptops for government offices,2015716,6
+C0250,2024-03-27,PWD,Auto Parts Ltd,841652,Services,Purchase of 124 laptops for government offices,832517,6
+C0251,2024-08-03,Transport,EduSupply Solutions,454168,Medical Supplies,Purchase of 354 servers for government offices,487208,6
+C0252,2024-03-10,Social Welfare,SmartCity Developers,4498325,Construction,Purchase of 275 medicines for government offices,4636086,5
+C0253,2024-06-02,Urban Development,TechCorp Services,943702,Office Supplies,Purchase of 213 medicines for government offices,918309,6
+C0254,2024-06-15,PWD,Urban Builders,4547523,Maintenance,Purchase of 353 servers for government offices,4871164,4
+C0255,2024-01-14,Health,SmartCity Developers,5414462,Furniture,Purchase of 475 furniture for government offices,5291306,5
+C0256,2024-12-10,Health,EduSupply Solutions,1745212,Infrastructure,Purchase of 454 vehicles for government offices,1807387,6
+C0257,2024-10-25,Agriculture,Digital Solutions Inc,10770487,Maintenance,Purchase of 328 laptops for government offices,11449591,6
+C0258,2024-10-31,Education,TechCorp Services,416405,Furniture,Purchase of 135 furniture for government offices,409022,5
+C0259,2024-06-18,Transport,EduSupply Solutions,4158916,Vehicles,Purchase of 311 furniture for government offices,4004282,4
+C0260,2024-07-19,IT Department,Auto Parts Ltd,10071311,Medical Supplies,Purchase of 297 laptops for government offices,9765111,3
+C0261,2024-02-29,Agriculture,EduSupply Solutions,904498,Medical Supplies,Purchase of 316 vehicles for government offices,899612,4
+C0262,2024-08-12,Health,Urban Builders,4478364,Construction,Purchase of 61 medicines for government offices,4429255,3
+C0263,2024-05-04,PWD,Medicare Corporation,8480407,Furniture,Purchase of 168 vehicles for government offices,8673593,6
+C0264,2024-07-21,Transport,QuickOffice Supplies,28200000,Services,Critical procurement of laptops for department,15108254,2
+C0265,2024-12-26,Agriculture,QuickOffice Supplies,486602,Infrastructure,Purchase of 145 medicines for government offices,512847,7
+C0266,2024-02-28,Social Welfare,TechCorp Services,4791572,Medical Supplies,Purchase of 248 servers for government offices,4950096,7
+C0267,2024-06-27,Health,Urban Builders,4926044,Construction,Purchase of 364 servers for government offices,5200848,5
+C0268,2024-06-09,PWD,TechCorp Services,3300000,Furniture,Critical procurement of furniture for department,1715605,1
+C0269,2024-08-04,Urban Development,DataSystems India,10080298,Construction,Purchase of 334 desks for government offices,10421856,4
+C0270,2024-04-05,Transport,SmartCity Developers,4929114,Furniture,Purchase of 298 desks for government offices,5237271,3
+C0271,2024-10-14,Health,TechCorp Services,4613701,IT Equipment,Purchase of 300 desks for government offices,4677943,6
+C0272,2024-04-22,Urban Development,HealthFirst Products,1734906,Maintenance,Purchase of 339 furniture for government offices,1713266,6
+C0273,2024-02-27,Urban Development,HealthFirst Products,2065067,Office Supplies,Purchase of 327 laptops for government offices,2182831,5
+C0274,2024-08-05,Health,EduSupply Solutions,1900000,Medical Supplies,Immediate procurement of supplies for department,1362192,2
+C0275,2024-05-01,PWD,TechCorp Services,10067400,Construction,Purchase of 373 vehicles for government offices,10690937,7
+C0276,2024-04-15,Agriculture,Digital Solutions Inc,485511,Services,Purchase of 325 desks for government offices,494831,7
+C0277,2024-05-28,Education,DataSystems India,10956464,Construction,Purchase of 119 vehicles for government offices,11376194,3
+C0278,2024-12-25,Social Welfare,EduSupply Solutions,843873,Construction,Purchase of 439 furniture for government offices,837014,4
+C0279,2024-10-22,IT Department,Digital Solutions Inc,4562758,Vehicles,Purchase of 256 servers for government offices,4379413,3
+C0280,2024-08-20,Agriculture,SmartCity Developers,1949173,Medical Supplies,Purchase of 424 vehicles for government offices,2071889,3
+C0281,2024-09-30,Agriculture,HealthFirst Products,5237271,Construction,Purchase of 474 medicines for government offices,5312231,5
+C0282,2024-10-16,Urban Development,ABC Technologies Pvt Ltd,2136492,Medical Supplies,Purchase of 100 furniture for government offices,2241378,3
+C0283,2024-03-21,PWD,SmartCity Developers,548775,Services,Purchase of 382 medicines for government offices,551855,4
+C0284,2024-02-17,IT Department,Digital Solutions Inc,1649452,Office Supplies,Purchase of 76 vehicles for government offices,1709469,4
+C0285,2024-08-07,Urban Development,ABC Technologies Pvt Ltd,400162,IT Equipment,Purchase of 353 desks for government offices,404957,4
+C0286,2024-12-22,Transport,Auto Parts Ltd,548223,Medical Supplies,Purchase of 294 laptops for government offices,550909,4
+C0287,2024-02-22,Education,TechCorp Services,5600000,Construction,Urgent procurement of laptops for department,2489331,1
+C0288,2024-08-13,Urban Development,SmartCity Developers,988424,Office Supplies,Purchase of 365 furniture for government offices,958453,6
+C0289,2024-02-14,Agriculture,GreenTech Industries,1025733,Construction,Purchase of 229 vehicles for government offices,1053063,6
+C0290,2024-05-06,Education,SmartCity Developers,437225,Services,Purchase of 195 furniture for government offices,449524,7
+C0291,2024-04-15,Urban Development,Auto Parts Ltd,8565939,Medical Supplies,Purchase of 451 desks for government offices,8573885,3
+C0292,2024-05-03,PWD,Auto Parts Ltd,8213036,Furniture,Purchase of 234 medicines for government offices,8751270,3
+C0293,2024-07-06,Health,ABC Technologies Pvt Ltd,1028817,Services,Purchase of 58 servers for government offices,1105030,3
+C0294,2024-04-20,Social Welfare,BuildCo Infrastructure,1400000,Maintenance,Critical procurement of furniture for department,759096,1
+C0295,2024-10-02,Agriculture,Auto Parts Ltd,1650158,Medical Supplies,Purchase of 463 desks for government offices,1584601,4
+C0296,2024-06-07,Education,DataSystems India,817371,Construction,Purchase of 109 vehicles for government offices,785663,6
+C0297,2024-03-02,Agriculture,Medicare Corporation,2500000,Services,Immediate procurement of equipment for department,1146342,1
+C0298,2024-03-01,Health,EduSupply Solutions,450251,Infrastructure,Purchase of 82 medicines for government offices,452867,7
+C0299,2024-09-18,Health,QuickOffice Supplies,5289039,Maintenance,Purchase of 180 laptops for government offices,5139330,4
+C0300,2024-01-02,Education,HealthFirst Products,900000,Furniture,Urgent procurement of equipment for department,505470,2
+C0301,2024-04-24,Health,HealthFirst Products,5373782,IT Equipment,Purchase of 342 medicines for government offices,5328596,3
+C0302,2024-04-01,IT Department,GreenTech Industries,10944241,Services,Purchase of 499 vehicles for government offices,11754446,3
+C0303,2024-06-16,Agriculture,TechCorp Services,7500000,Infrastructure,Urgent procurement of furniture for department,3479015,1
+C0304,2024-04-10,Transport,HealthFirst Products,10281446,Vehicles,Purchase of 259 laptops for government offices,10095007,3
+C0305,2024-11-21,IT Department,BuildCo Infrastructure,542648,Office Supplies,Purchase of 484 furniture for government offices,515618,6
+C0306,2024-09-28,Health,ABC Technologies Pvt Ltd,4738043,Office Supplies,Purchase of 414 medicines for government offices,4538032,4
+C0307,2024-09-23,PWD,Urban Builders,1875074,Furniture,Purchase of 98 servers for government offices,1963627,7
+C0308,2024-02-08,Agriculture,PrimeVendor Corporation,465247,Furniture,Purchase of 199 medicines for government offices,500302,4
+C0309,2024-12-24,Health,Medicare Corporation,1790834,Medical Supplies,Purchase of 153 desks for government offices,1764605,3
+C0310,2024-03-25,Urban Development,DataSystems India,1843907,Medical Supplies,Purchase of 281 medicines for government offices,1880177,4
+C0311,2024-02-16,PWD,BuildCo Infrastructure,2095832,Office Supplies,Purchase of 160 medicines for government offices,2180910,3
+C0312,2024-07-01,Urban Development,HealthFirst Products,501577,Maintenance,Purchase of 65 vehicles for government offices,493462,4
+C0313,2024-05-07,PWD,QuickOffice Supplies,1300000,Furniture,Emergency procurement of equipment for department,597907,1
+C0314,2024-07-09,Transport,PrimeVendor Corporation,487348,Infrastructure,Purchase of 61 laptops for government offices,479378,3
+C0315,2024-03-06,Social Welfare,SmartCity Developers,3300000,Furniture,Urgent procurement of vehicles for department,2298995,1
+C0316,2024-09-11,Urban Development,PrimeVendor Corporation,8700000,Construction,Immediate procurement of supplies for department,4085017,1
+C0317,2024-01-18,Education,BuildCo Infrastructure,8737354,Services,Purchase of 331 vehicles for government offices,8635683,6
+C0318,2024-07-15,Education,Auto Parts Ltd,992795,Vehicles,Purchase of 372 servers for government offices,1046044,4
+C0319,2024-09-02,PWD,ABC Technologies Pvt Ltd,4516051,Vehicles,Purchase of 248 medicines for government offices,4622334,5
+C0320,2024-11-01,Transport,Medicare Corporation,1635154,Medical Supplies,Purchase of 233 servers for government offices,1764166,7
+C0321,2024-05-06,Social Welfare,PharmaCo Enterprises,1920213,Construction,Purchase of 441 desks for government offices,2021717,3
+C0322,2024-03-31,Agriculture,TechCorp Services,2083726,Construction,Purchase of 64 furniture for government offices,2168515,7
+C0323,2024-10-15,Transport,TechCorp Services,4813186,Office Supplies,Purchase of 96 laptops for government offices,4682375,3
+C0324,2024-01-11,PWD,PrimeVendor Corporation,449760,Vehicles,Purchase of 224 furniture for government offices,463179,4
+C0325,2024-01-31,Agriculture,Digital Solutions Inc,25500000,Furniture,Immediate procurement of laptops for department,11314814,1
+C0326,2024-10-27,PWD,Digital Solutions Inc,3900000,Maintenance,Critical procurement of supplies for department,2748732,2
+C0327,2024-12-21,Social Welfare,DataSystems India,10360975,Services,Purchase of 467 desks for government offices,10143610,7
+C0328,2024-03-06,Education,Medicare Corporation,542318,Vehicles,Purchase of 485 servers for government offices,582086,6
+C0329,2024-11-09,Transport,PharmaCo Enterprises,8312330,Vehicles,Purchase of 431 laptops for government offices,8432892,5
+C0330,2024-03-26,IT Department,QuickOffice Supplies,523249,Office Supplies,Purchase of 278 laptops for government offices,542663,5
+C0331,2024-12-20,Social Welfare,Medicare Corporation,5300000,Furniture,Critical procurement of furniture for department,3303078,1
+C0332,2024-09-09,Transport,Medicare Corporation,1927614,Infrastructure,Purchase of 453 servers for government offices,1856650,6
+C0333,2024-02-07,PWD,PrimeVendor Corporation,444236,Furniture,Purchase of 87 medicines for government offices,440430,3
+C0334,2024-03-23,Urban Development,Digital Solutions Inc,10825502,IT Equipment,Purchase of 354 servers for government offices,11660639,5
+C0335,2024-08-08,Transport,QuickOffice Supplies,982195,Furniture,Purchase of 101 medicines for government offices,988526,3
+C0336,2024-12-22,Social Welfare,TechCorp Services,8795794,Maintenance,Purchase of 99 laptops for government offices,8677912,4
+C0337,2024-09-08,Health,ABC Technologies Pvt Ltd,1602289,Office Supplies,Purchase of 295 desks for government offices,1540427,7
+C0338,2024-03-28,IT Department,BuildCo Infrastructure,471035,Maintenance,Purchase of 291 vehicles for government offices,454556,6
+C0339,2024-07-17,IT Department,QuickOffice Supplies,4554102,Services,Purchase of 275 vehicles for government offices,4590310,5
+C0340,2024-10-15,Education,SmartCity Developers,800000,Furniture,Urgent procurement of vehicles for department,409694,2
+C0341,2024-09-24,IT Department,BuildCo Infrastructure,10061203,Furniture,Purchase of 170 vehicles for government offices,10782862,7
+C0342,2024-12-31,PWD,Medicare Corporation,28500000,Office Supplies,Emergency procurement of furniture for department,18248219,1
+C0343,2024-04-08,PWD,SmartCity Developers,4117552,Services,Purchase of 471 furniture for government offices,4277339,4
+C0344,2024-06-12,Urban Development,PrimeVendor Corporation,413054,IT Equipment,Purchase of 216 medicines for government offices,422276,7
+C0345,2024-12-24,Health,PrimeVendor Corporation,10345056,Medical Supplies,Purchase of 125 servers for government offices,9979124,4
+C0346,2024-10-15,Urban Development,TechCorp Services,2120485,Infrastructure,Purchase of 185 vehicles for government offices,2257081,6
+C0347,2024-01-20,Agriculture,Digital Solutions Inc,4215779,Office Supplies,Purchase of 69 vehicles for government offices,4338564,6
+C0348,2024-01-26,Urban Development,SmartCity Developers,2138218,Medical Supplies,Purchase of 209 medicines for government offices,2036931,5
+C0349,2024-04-26,Health,QuickOffice Supplies,5161046,Infrastructure,Purchase of 359 furniture for government offices,5118275,6
+C0350,2024-04-18,PWD,BuildCo Infrastructure,5111417,Services,Purchase of 470 laptops for government offices,5360517,5
+C0351,2024-12-29,Transport,PrimeVendor Corporation,1034154,Office Supplies,Purchase of 64 desks for government offices,1052931,7
+C0352,2024-01-30,Urban Development,HealthFirst Products,4075838,Furniture,Purchase of 190 medicines for government offices,4062994,4
+C0353,2024-11-21,Agriculture,PharmaCo Enterprises,436290,Construction,Purchase of 140 vehicles for government offices,442198,6
+C0354,2024-05-12,Transport,SmartCity Developers,442760,Office Supplies,Purchase of 487 servers for government offices,442872,4
+C0355,2024-11-27,Education,EduSupply Solutions,880725,Construction,Purchase of 492 furniture for government offices,883574,3
+C0356,2024-11-27,IT Department,Auto Parts Ltd,433565,Furniture,Purchase of 414 furniture for government offices,446175,5
+C0357,2024-06-27,Health,ABC Technologies Pvt Ltd,940009,Maintenance,Purchase of 253 servers for government offices,975762,7
+C0358,2024-12-05,Health,EduSupply Solutions,1936874,Medical Supplies,Purchase of 202 furniture for government offices,1989538,5
+C0359,2024-06-21,Transport,PrimeVendor Corporation,2116894,IT Equipment,Purchase of 146 desks for government offices,2082915,5
+C0360,2024-11-03,Social Welfare,Auto Parts Ltd,2008453,Furniture,Purchase of 201 medicines for government offices,2096356,6
+C0361,2024-01-19,Urban Development,PrimeVendor Corporation,10448044,Vehicles,Purchase of 401 servers for government offices,10391746,4
+C0362,2024-09-16,Urban Development,Medicare Corporation,1052191,Services,Purchase of 200 laptops for government offices,1119472,4
+C0363,2024-10-13,Transport,Digital Solutions Inc,1084077,Services,Purchase of 163 medicines for government offices,1156652,3
+C0364,2024-08-03,Urban Development,ABC Technologies Pvt Ltd,1823009,Medical Supplies,Purchase of 485 laptops for government offices,1870633,6
+C0365,2024-08-29,Education,SmartCity Developers,8359447,Construction,Purchase of 202 vehicles for government offices,8681208,7
+C0366,2024-03-11,PWD,GreenTech Industries,1845515,Medical Supplies,Purchase of 123 medicines for government offices,1889848,6
+C0367,2024-09-06,PWD,TechCorp Services,894024,Construction,Purchase of 190 desks for government offices,856065,6
+C0368,2024-09-07,Urban Development,Auto Parts Ltd,419410,IT Equipment,Purchase of 256 vehicles for government offices,422086,6
+C0369,2024-01-20,Education,Urban Builders,2170041,Office Supplies,Purchase of 147 laptops for government offices,2313178,7
+C0370,2024-04-25,PWD,BuildCo Infrastructure,1787255,IT Equipment,Purchase of 351 medicines for government offices,1721755,7
+C0371,2024-06-01,PWD,PharmaCo Enterprises,5091747,Infrastructure,Purchase of 272 furniture for government offices,5231913,5
+C0372,2024-07-02,Transport,Digital Solutions Inc,1084425,Construction,Purchase of 59 desks for government offices,1159647,6
+C0373,2024-04-18,IT Department,GreenTech Industries,9513900,Maintenance,Purchase of 242 furniture for government offices,9190532,3
+C0374,2024-11-15,Social Welfare,EduSupply Solutions,1200000,Furniture,Emergency procurement of laptops for department,742987,1
+C0375,2024-03-04,Health,Urban Builders,5052802,Maintenance,Purchase of 204 vehicles for government offices,4935144,3
+C0376,2024-05-18,Health,DataSystems India,925647,Medical Supplies,Purchase of 418 servers for government offices,987499,7
+C0377,2024-02-24,Social Welfare,DataSystems India,8599248,Construction,Purchase of 153 medicines for government offices,8463287,7
+C0378,2024-01-21,Health,PrimeVendor Corporation,1006461,Medical Supplies,Purchase of 51 laptops for government offices,1019027,4
+C0379,2024-10-20,Health,PrimeVendor Corporation,1084833,Services,Purchase of 420 furniture for government offices,1140526,3
+C0380,2024-11-25,IT Department,PharmaCo Enterprises,1758475,Vehicles,Purchase of 497 laptops for government offices,1681999,4
+C0381,2024-08-06,PWD,PharmaCo Enterprises,527686,Vehicles,Purchase of 486 desks for government offices,562375,3
+C0382,2024-08-12,Social Welfare,Auto Parts Ltd,2127085,Infrastructure,Purchase of 143 laptops for government offices,2046433,5
+C0383,2024-05-19,Education,SmartCity Developers,5199848,Construction,Purchase of 107 desks for government offices,5378463,4
+C0384,2024-02-23,Social Welfare,GreenTech Industries,9448024,Vehicles,Purchase of 142 servers for government offices,9674423,6
+C0385,2024-11-09,Health,DataSystems India,2200000,Vehicles,Critical procurement of laptops for department,1215613,2
+C0386,2024-01-07,Agriculture,HealthFirst Products,10302586,Maintenance,Purchase of 164 furniture for government offices,10559783,7
+C0387,2024-12-18,Social Welfare,Medicare Corporation,464927,Maintenance,Purchase of 227 furniture for government offices,485599,6
+C0388,2024-11-09,Urban Development,PharmaCo Enterprises,2200000,Office Supplies,Urgent procurement of laptops for department,1221286,2
+C0389,2024-06-18,Health,EduSupply Solutions,476039,Infrastructure,Purchase of 256 desks for government offices,486304,6
+C0390,2024-10-20,Education,BuildCo Infrastructure,4670602,Furniture,Purchase of 431 furniture for government offices,4509148,6
+C0391,2024-07-30,Agriculture,PharmaCo Enterprises,15000000,IT Equipment,Urgent procurement of furniture for department,6410117,1
+C0392,2024-04-24,Agriculture,Digital Solutions Inc,1936090,Infrastructure,Purchase of 416 furniture for government offices,1995273,6
+C0393,2024-02-28,Education,PrimeVendor Corporation,1500000,Construction,Immediate procurement of laptops for department,761481,1
+C0394,2024-09-09,Transport,EduSupply Solutions,4160442,Office Supplies,Purchase of 111 vehicles for government offices,4282803,4
+C0395,2024-06-22,PWD,EduSupply Solutions,7800000,IT Equipment,Critical procurement of furniture for department,4630545,1
+C0396,2024-09-28,PWD,Digital Solutions Inc,10805924,Construction,Purchase of 310 desks for government offices,11443971,6
+C0397,2024-02-23,Transport,DataSystems India,9818482,Furniture,Purchase of 264 servers for government offices,9738360,6
+C0398,2024-06-24,IT Department,SmartCity Developers,5207195,Maintenance,Purchase of 408 furniture for government offices,5040374,7
+C0399,2024-06-09,Agriculture,PrimeVendor Corporation,9897749,Construction,Purchase of 415 medicines for government offices,9661347,7
+C0400,2024-12-29,Agriculture,HealthFirst Products,951168,Infrastructure,Purchase of 413 laptops for government offices,989462,5
+C0401,2024-10-25,Education,HealthFirst Products,5011365,Medical Supplies,Purchase of 196 vehicles for government offices,5343130,7
+C0402,2024-01-13,IT Department,Medicare Corporation,500538,IT Equipment,Purchase of 196 furniture for government offices,488518,4
+C0403,2024-12-19,Transport,Digital Solutions Inc,1026078,Maintenance,Purchase of 102 servers for government offices,979083,6
+C0404,2024-07-18,Agriculture,HealthFirst Products,2015761,IT Equipment,Purchase of 248 vehicles for government offices,1927283,6
+C0405,2024-01-07,Agriculture,GreenTech Industries,986168,Maintenance,Purchase of 474 desks for government offices,1036975,6
+C0406,2024-11-04,Health,Auto Parts Ltd,888253,IT Equipment,Purchase of 145 desks for government offices,864328,3
+C0407,2024-08-07,Urban Development,Digital Solutions Inc,1678039,Construction,Purchase of 52 medicines for government offices,1721530,5
+C0408,2024-01-21,IT Department,EduSupply Solutions,1958128,Maintenance,Purchase of 481 furniture for government offices,2057162,7
+C0409,2024-07-02,Social Welfare,BuildCo Infrastructure,4500000,Vehicles,Urgent procurement of furniture for department,3144279,1
+C0410,2024-04-23,Education,BuildCo Infrastructure,1798639,Vehicles,Purchase of 321 vehicles for government offices,1777351,7
+C0411,2024-08-16,Social Welfare,PrimeVendor Corporation,10755821,Medical Supplies,Purchase of 399 medicines for government offices,10558962,3
+C0412,2024-07-16,Urban Development,EduSupply Solutions,1614823,IT Equipment,Purchase of 313 servers for government offices,1642586,5
+C0413,2024-05-31,Education,Urban Builders,896093,Medical Supplies,Purchase of 135 servers for government offices,860880,3
+C0414,2024-04-17,Social Welfare,Urban Builders,1059485,Medical Supplies,Purchase of 155 servers for government offices,1064938,3
+C0415,2024-12-17,IT Department,HealthFirst Products,5075302,Medical Supplies,Purchase of 77 desks for government offices,4846533,3
+C0416,2024-10-21,Education,Auto Parts Ltd,1844579,Medical Supplies,Purchase of 271 medicines for government offices,1860527,6
+C0417,2024-09-30,Health,DataSystems India,15900000,Services,Emergency procurement of supplies for department,9948479,1
+C0418,2024-11-06,Transport,Medicare Corporation,10300000,Furniture,Critical procurement of equipment for department,6699544,1
+C0419,2024-10-06,PWD,BuildCo Infrastructure,889416,IT Equipment,Purchase of 55 servers for government offices,947501,5
+C0420,2024-01-03,Agriculture,QuickOffice Supplies,4805728,Furniture,Purchase of 157 furniture for government offices,5157061,5
+C0421,2024-11-26,PWD,Urban Builders,848286,IT Equipment,Purchase of 149 laptops for government offices,830219,5
+C0422,2024-10-08,Urban Development,PharmaCo Enterprises,8219433,Vehicles,Purchase of 100 desks for government offices,8526174,5
+C0423,2024-03-06,Urban Development,PharmaCo Enterprises,830013,Services,Purchase of 212 vehicles for government offices,855359,4
+C0424,2024-12-21,Agriculture,QuickOffice Supplies,9700585,Office Supplies,Purchase of 136 laptops for government offices,10234126,6
+C0425,2024-12-30,Urban Development,EduSupply Solutions,4415019,Vehicles,Purchase of 499 vehicles for government offices,4400595,5
+C0426,2024-06-05,Transport,DataSystems India,426365,Medical Supplies,Purchase of 489 desks for government offices,438670,5
+C0427,2024-02-08,Transport,PrimeVendor Corporation,9894879,IT Equipment,Purchase of 257 servers for government offices,10445464,7
+C0428,2024-10-09,IT Department,Medicare Corporation,9416311,Infrastructure,Purchase of 250 desks for government offices,9894430,5
+C0429,2024-09-13,PWD,GreenTech Industries,4545798,Maintenance,Purchase of 484 servers for government offices,4324767,4
+C0430,2024-03-12,Urban Development,PharmaCo Enterprises,969907,IT Equipment,Purchase of 426 furniture for government offices,992753,4
+C0431,2024-04-22,Agriculture,Auto Parts Ltd,818858,Infrastructure,Purchase of 392 desks for government offices,817242,3
+C0432,2024-08-20,IT Department,TechCorp Services,547088,Maintenance,Purchase of 374 medicines for government offices,542782,7
+C0433,2024-10-18,Social Welfare,PrimeVendor Corporation,4547945,Office Supplies,Purchase of 314 medicines for government offices,4706821,3
+C0434,2024-09-21,PWD,EduSupply Solutions,1892116,Construction,Purchase of 53 servers for government offices,1916097,7
+C0435,2024-04-27,Social Welfare,GreenTech Industries,3600000,Vehicles,Emergency procurement of equipment for department,1657615,1
+C0436,2024-02-28,Education,Medicare Corporation,4718531,Construction,Purchase of 61 desks for government offices,4845000,6
+C0437,2024-03-09,Social Welfare,TechCorp Services,533619,IT Equipment,Purchase of 182 desks for government offices,517126,4
+C0438,2024-12-04,PWD,QuickOffice Supplies,432489,Furniture,Purchase of 494 vehicles for government offices,444965,6
+C0439,2024-11-03,Agriculture,PrimeVendor Corporation,10461359,Infrastructure,Purchase of 185 desks for government offices,10185649,7
+C0440,2024-11-01,Social Welfare,SmartCity Developers,913463,Construction,Purchase of 153 servers for government offices,883490,3
+C0441,2024-11-06,PWD,PrimeVendor Corporation,14200000,Maintenance,Emergency procurement of furniture for department,8271198,1
+C0442,2024-01-01,Social Welfare,QuickOffice Supplies,4783066,Infrastructure,Purchase of 407 servers for government offices,4774212,3
+C0443,2024-07-14,Health,DataSystems India,8293150,Maintenance,Purchase of 442 desks for government offices,8022833,6
+C0444,2024-07-28,Education,Auto Parts Ltd,506372,Office Supplies,Purchase of 317 laptops for government offices,533019,7
+C0445,2024-12-18,Social Welfare,TechCorp Services,4543404,Vehicles,Purchase of 179 medicines for government offices,4407652,7
+C0446,2024-11-09,Agriculture,HealthFirst Products,5132457,Maintenance,Purchase of 297 desks for government offices,5151547,7
+C0447,2024-09-04,Health,Digital Solutions Inc,1946590,Office Supplies,Purchase of 426 desks for government offices,2045175,6
+C0448,2024-08-16,Education,Medicare Corporation,830083,Furniture,Purchase of 460 servers for government offices,843434,5
+C0449,2024-11-21,IT Department,QuickOffice Supplies,1300000,Vehicles,Emergency procurement of laptops for department,740470,2
+C0450,2024-02-10,Education,GreenTech Industries,5396027,Construction,Purchase of 196 furniture for government offices,5407271,7
+C0451,2024-11-23,Education,GreenTech Industries,430256,Maintenance,Purchase of 196 desks for government offices,445484,7
+C0452,2024-09-21,PWD,BuildCo Infrastructure,8508448,Services,Purchase of 385 laptops for government offices,8122912,4
+C0453,2024-07-23,Health,PrimeVendor Corporation,4608176,Medical Supplies,Purchase of 427 furniture for government offices,4497765,3
+C0454,2024-10-08,Transport,EduSupply Solutions,10745026,Furniture,Purchase of 165 servers for government offices,10694012,5
+C0455,2024-10-21,Health,GreenTech Industries,2100000,Maintenance,Immediate procurement of supplies for department,911695,1
+C0456,2024-05-11,Transport,GreenTech Industries,8750424,Vehicles,Purchase of 338 vehicles for government offices,8816576,6
+C0457,2024-08-22,Transport,Urban Builders,10586069,Office Supplies,Purchase of 84 vehicles for government offices,10720047,5
+C0458,2024-06-10,Health,Auto Parts Ltd,1909902,Vehicles,Purchase of 177 medicines for government offices,1816821,5
+C0459,2024-02-08,Transport,EduSupply Solutions,942966,Office Supplies,Purchase of 187 desks for government offices,939156,7
+C0460,2024-04-30,Agriculture,Medicare Corporation,1724067,Medical Supplies,Purchase of 478 servers for government offices,1683309,4
+C0461,2024-03-02,Agriculture,TechCorp Services,4920740,Vehicles,Purchase of 71 vehicles for government offices,5163587,7
+C0462,2024-09-09,Transport,GreenTech Industries,10606306,Construction,Purchase of 193 vehicles for government offices,10752722,7
+C0463,2024-01-28,PWD,EduSupply Solutions,4717480,Medical Supplies,Purchase of 227 vehicles for government offices,4813244,7
+C0464,2024-12-23,Health,PharmaCo Enterprises,2013526,Vehicles,Purchase of 244 servers for government offices,1915943,4
+C0465,2024-11-09,Agriculture,Medicare Corporation,964569,Infrastructure,Purchase of 363 medicines for government offices,946076,6
+C0466,2024-08-05,PWD,TechCorp Services,1819046,Office Supplies,Purchase of 142 servers for government offices,1822824,6
+C0467,2024-02-21,PWD,EduSupply Solutions,966602,IT Equipment,Purchase of 124 furniture for government offices,1025874,4
+C0468,2024-03-31,Agriculture,GreenTech Industries,1098668,Infrastructure,Purchase of 323 furniture for government offices,1165050,7
+C0469,2024-06-02,IT Department,EduSupply Solutions,8143127,Medical Supplies,Purchase of 80 desks for government offices,7840746,4
+C0470,2024-08-18,Social Welfare,BuildCo Infrastructure,1816577,Vehicles,Purchase of 226 laptops for government offices,1858077,5
+C0471,2024-12-13,Agriculture,PharmaCo Enterprises,973056,Maintenance,Purchase of 139 medicines for government offices,1006609,7
+C0472,2024-09-06,PWD,SmartCity Developers,5334448,Construction,Purchase of 287 furniture for government offices,5331990,5
+C0473,2024-11-23,Health,Medicare Corporation,1853089,Vehicles,Purchase of 484 laptops for government offices,1907941,6
+C0474,2024-04-26,Agriculture,Digital Solutions Inc,2026260,Maintenance,Purchase of 188 vehicles for government offices,2084413,6
+C0475,2024-08-18,Health,QuickOffice Supplies,1056263,Construction,Purchase of 388 medicines for government offices,1020619,4
+C0476,2024-07-22,Health,BuildCo Infrastructure,1400000,Services,Emergency procurement of furniture for department,787242,1
+C0477,2024-11-12,PWD,Medicare Corporation,4464055,Maintenance,Purchase of 276 furniture for government offices,4384423,5
+C0478,2024-03-28,IT Department,HealthFirst Products,5500000,Infrastructure,Critical procurement of vehicles for department,2776937,2
+C0479,2024-03-10,IT Department,PrimeVendor Corporation,8531109,Vehicles,Purchase of 272 servers for government offices,8767300,7
+C0480,2024-09-03,Education,ABC Technologies Pvt Ltd,466279,Maintenance,Purchase of 129 medicines for government offices,465137,5
+C0481,2024-03-10,IT Department,ABC Technologies Pvt Ltd,4802648,Furniture,Purchase of 436 vehicles for government offices,4991920,6
+C0482,2024-05-29,Transport,Medicare Corporation,482231,Furniture,Purchase of 273 vehicles for government offices,469940,7
+C0483,2024-07-12,IT Department,DataSystems India,463335,Maintenance,Purchase of 463 furniture for government offices,454597,7
+C0484,2024-05-17,IT Department,Digital Solutions Inc,427361,Infrastructure,Purchase of 366 vehicles for government offices,422081,6
+C0485,2024-04-06,IT Department,Medicare Corporation,814889,Infrastructure,Purchase of 102 medicines for government offices,830816,4
+C0486,2024-01-05,Agriculture,EduSupply Solutions,804417,IT Equipment,Purchase of 209 vehicles for government offices,786908,6
+C0487,2024-06-18,Transport,PrimeVendor Corporation,1500000,Services,Critical procurement of equipment for department,1002226,1
+C0488,2024-07-14,Transport,Digital Solutions Inc,546189,IT Equipment,Purchase of 444 vehicles for government offices,569625,6
+C0489,2024-04-11,IT Department,PrimeVendor Corporation,478170,Vehicles,Purchase of 249 furniture for government offices,515311,6
+C0490,2024-03-22,IT Department,QuickOffice Supplies,511708,Vehicles,Purchase of 179 vehicles for government offices,522681,3
+C0491,2024-01-27,PWD,GreenTech Industries,1091982,Services,Purchase of 216 laptops for government offices,1070880,6
+C0492,2024-10-26,Health,QuickOffice Supplies,1500000,Construction,Urgent procurement of supplies for department,624423,2
+C0493,2024-09-12,PWD,Digital Solutions Inc,20000000,Maintenance,Emergency procurement of supplies for department,13870646,1
+C0494,2024-02-24,Transport,ABC Technologies Pvt Ltd,895021,Furniture,Purchase of 462 vehicles for government offices,915235,5
+C0495,2024-07-02,Urban Development,QuickOffice Supplies,2139197,Construction,Purchase of 336 medicines for government offices,2167197,6
+C0496,2024-10-05,PWD,EduSupply Solutions,4412986,Services,Purchase of 132 laptops for government offices,4669272,7
+C0497,2024-05-14,Education,TechCorp Services,4001079,Vehicles,Purchase of 425 desks for government offices,4132888,6
+C0498,2024-11-13,Urban Development,GreenTech Industries,498743,Maintenance,Purchase of 147 servers for government offices,508749,6
+C0499,2024-03-19,Health,ABC Technologies Pvt Ltd,1845882,Construction,Purchase of 317 furniture for government offices,1830862,3
+C0500,2024-04-01,Social Welfare,Urban Builders,832116,Infrastructure,Purchase of 342 furniture for government offices,811238,3
+C0501,2024-09-26,Education,PrimeVendor Corporation,8767815,Office Supplies,Purchase of 417 laptops for government offices,8747000,7
+C0502,2024-12-01,Social Welfare,SmartCity Developers,470208,Vehicles,Purchase of 335 furniture for government offices,485752,5
+C0503,2024-12-28,Transport,HealthFirst Products,18900000,Medical Supplies,Immediate procurement of laptops for department,7826460,1
+C0504,2024-02-21,PWD,HealthFirst Products,9155993,Maintenance,Purchase of 341 furniture for government offices,8928059,4
+C0505,2024-07-31,PWD,HealthFirst Products,9073890,Furniture,Purchase of 103 desks for government offices,9161304,6
+C0506,2024-09-15,Agriculture,SmartCity Developers,960170,Vehicles,Purchase of 211 servers for government offices,987044,5
+C0507,2024-07-30,Transport,Auto Parts Ltd,5239232,Maintenance,Purchase of 338 servers for government offices,5197572,4
+C0508,2024-05-10,Education,HealthFirst Products,4671249,Construction,Purchase of 195 servers for government offices,4678824,3
+C0509,2024-06-03,Education,EduSupply Solutions,1800000,Vehicles,Urgent procurement of laptops for department,901042,1
+C0510,2024-03-20,Health,TechCorp Services,2133775,Furniture,Purchase of 465 medicines for government offices,2096394,5
+C0511,2024-10-18,Health,TechCorp Services,508537,Services,Purchase of 299 furniture for government offices,535528,4
+C0512,2024-01-20,Social Welfare,PrimeVendor Corporation,9144638,Medical Supplies,Purchase of 228 vehicles for government offices,9614817,5
+C0513,2024-04-26,Education,PharmaCo Enterprises,10785959,Maintenance,Purchase of 77 medicines for government offices,11135481,6
+C0514,2024-10-16,Health,QuickOffice Supplies,10093305,Furniture,Purchase of 278 servers for government offices,9789654,6
+C0515,2024-05-28,Social Welfare,DataSystems India,839656,Medical Supplies,Purchase of 431 laptops for government offices,806683,7
+C0516,2024-07-23,Transport,HealthFirst Products,1028609,Maintenance,Purchase of 299 vehicles for government offices,1041487,4
+C0517,2024-05-06,Social Welfare,Auto Parts Ltd,2066063,Vehicles,Purchase of 95 laptops for government offices,2049624,7
+C0518,2024-06-27,Urban Development,TechCorp Services,1956326,Construction,Purchase of 136 medicines for government offices,1864666,5
+C0519,2024-08-13,Transport,TechCorp Services,1700000,Construction,Emergency procurement of laptops for department,921620,1
+C0520,2024-05-27,Transport,QuickOffice Supplies,900000,Maintenance,Urgent procurement of vehicles for department,529900,1
+C0521,2024-09-24,Education,Auto Parts Ltd,9449078,Maintenance,Purchase of 405 furniture for government offices,9873247,4
+C0522,2024-01-23,Urban Development,Urban Builders,442602,IT Equipment,Purchase of 188 laptops for government offices,465880,7
+C0523,2024-02-04,Education,DataSystems India,1997788,Furniture,Purchase of 492 laptops for government offices,2134981,5
+C0524,2024-04-28,Health,Medicare Corporation,10929835,Office Supplies,Purchase of 298 servers for government offices,10524868,5
+C0525,2024-09-13,Agriculture,EduSupply Solutions,10779049,Furniture,Purchase of 321 medicines for government offices,10270207,4
+C0526,2024-03-21,Social Welfare,PrimeVendor Corporation,4000000,IT Equipment,Emergency procurement of supplies for department,1995243,1
+C0527,2024-10-11,Social Welfare,HealthFirst Products,845512,Office Supplies,Purchase of 94 furniture for government offices,901850,4
+C0528,2024-08-01,PWD,QuickOffice Supplies,927939,Construction,Purchase of 218 vehicles for government offices,919225,7
+C0529,2024-10-24,PWD,Urban Builders,1058776,Construction,Purchase of 119 vehicles for government offices,1048368,7
+C0530,2024-06-11,Agriculture,PrimeVendor Corporation,29200000,Furniture,Urgent procurement of laptops for department,12729712,1
+C0531,2024-07-29,IT Department,TechCorp Services,1691174,Office Supplies,Purchase of 144 laptops for government offices,1647932,4
+C0532,2024-11-01,Urban Development,Digital Solutions Inc,453889,Vehicles,Purchase of 118 servers for government offices,471798,6
+C0533,2024-04-04,Education,PrimeVendor Corporation,4710770,Services,Purchase of 66 vehicles for government offices,4575534,4
+C0534,2024-07-30,Urban Development,Digital Solutions Inc,1027332,Vehicles,Purchase of 493 servers for government offices,984798,6
+C0535,2024-08-22,Social Welfare,TechCorp Services,4607300,Maintenance,Purchase of 418 medicines for government offices,4401986,6
+C0536,2024-09-25,Social Welfare,Digital Solutions Inc,478097,IT Equipment,Purchase of 499 desks for government offices,482260,3
+C0537,2024-10-12,Urban Development,Medicare Corporation,428477,Furniture,Purchase of 446 medicines for government offices,431537,5
+C0538,2024-05-30,Urban Development,BuildCo Infrastructure,503492,Maintenance,Purchase of 474 furniture for government offices,537466,6
+C0539,2024-02-27,Agriculture,EduSupply Solutions,10813527,IT Equipment,Purchase of 251 vehicles for government offices,11251419,4
+C0540,2024-04-01,PWD,Digital Solutions Inc,1064764,Medical Supplies,Purchase of 404 furniture for government offices,1024008,5
+C0541,2024-02-16,Social Welfare,ABC Technologies Pvt Ltd,12200000,Construction,Urgent procurement of furniture for department,5215860,2
+C0542,2024-06-20,IT Department,Digital Solutions Inc,848637,Infrastructure,Purchase of 264 medicines for government offices,822158,3
+C0543,2024-05-27,Education,EduSupply Solutions,534781,Infrastructure,Purchase of 368 medicines for government offices,574812,3
+C0544,2024-09-12,Urban Development,EduSupply Solutions,491197,Furniture,Purchase of 351 furniture for government offices,498147,4
+C0545,2024-08-14,PWD,Medicare Corporation,15000000,IT Equipment,Urgent procurement of laptops for department,10035286,1
+C0546,2024-11-30,Health,ABC Technologies Pvt Ltd,1056148,Medical Supplies,Purchase of 202 medicines for government offices,1094918,7
+C0547,2024-08-01,PWD,EduSupply Solutions,1001627,Vehicles,Purchase of 343 servers for government offices,1031116,7
+C0548,2024-01-19,Health,DataSystems India,3900000,Infrastructure,Critical procurement of vehicles for department,2655930,1
+C0549,2024-03-09,Education,BuildCo Infrastructure,1797525,Maintenance,Purchase of 406 desks for government offices,1804334,4
+C0550,2024-02-14,Agriculture,DataSystems India,10801675,Maintenance,Purchase of 268 servers for government offices,11646540,5
+C0551,2024-10-21,Urban Development,EduSupply Solutions,2156263,Construction,Purchase of 316 furniture for government offices,2220644,6
+C0552,2024-11-08,Health,Digital Solutions Inc,2187554,Office Supplies,Purchase of 288 furniture for government offices,2078625,3
+C0553,2024-11-11,Transport,Digital Solutions Inc,4068238,Services,Purchase of 55 furniture for government offices,4049745,4
+C0554,2024-05-10,Agriculture,PharmaCo Enterprises,1780170,Furniture,Purchase of 108 furniture for government offices,1818442,3
+C0555,2024-10-18,Urban Development,GreenTech Industries,524806,IT Equipment,Purchase of 394 vehicles for government offices,511802,5
+C0556,2024-11-26,Social Welfare,PrimeVendor Corporation,988160,IT Equipment,Purchase of 221 vehicles for government offices,1053346,7
+C0557,2024-09-23,Agriculture,BuildCo Infrastructure,1933106,Construction,Purchase of 400 medicines for government offices,1841154,7
+C0558,2024-05-23,Social Welfare,Medicare Corporation,2190171,Medical Supplies,Purchase of 342 servers for government offices,2259044,4
+C0559,2024-06-06,Agriculture,EduSupply Solutions,2025904,Services,Purchase of 304 desks for government offices,1996112,3
+C0560,2024-04-20,Education,GreenTech Industries,833669,Infrastructure,Purchase of 97 vehicles for government offices,877055,4
+C0561,2024-09-13,PWD,GreenTech Industries,2154182,Medical Supplies,Purchase of 208 medicines for government offices,2251588,7
+C0562,2024-09-21,Health,ABC Technologies Pvt Ltd,861556,Services,Purchase of 415 servers for government offices,822572,6
+C0563,2024-01-23,IT Department,ABC Technologies Pvt Ltd,10615625,Services,Purchase of 102 servers for government offices,10544794,3
+C0564,2024-11-23,Health,DataSystems India,1720333,Construction,Purchase of 213 vehicles for government offices,1698405,7
+C0565,2024-03-21,Agriculture,HealthFirst Products,543744,Vehicles,Purchase of 155 servers for government offices,556114,3
+C0566,2024-05-18,Urban Development,ABC Technologies Pvt Ltd,1944449,Construction,Purchase of 363 medicines for government offices,1890521,5
+C0567,2024-01-15,Urban Development,TechCorp Services,415889,Vehicles,Purchase of 250 desks for government offices,398003,6
+C0568,2024-06-08,PWD,BuildCo Infrastructure,1013869,Infrastructure,Purchase of 90 vehicles for government offices,1051598,7
+C0569,2024-02-19,IT Department,PrimeVendor Corporation,4705818,Vehicles,Purchase of 490 servers for government offices,5050134,4
+C0570,2024-07-19,Health,EduSupply Solutions,2073267,Medical Supplies,Purchase of 299 laptops for government offices,2207433,6
+C0571,2024-06-28,Health,Auto Parts Ltd,884677,Medical Supplies,Purchase of 115 servers for government offices,880536,7
+C0572,2024-06-15,Transport,TechCorp Services,518864,Office Supplies,Purchase of 352 vehicles for government offices,528855,6
+C0573,2024-10-07,Agriculture,HealthFirst Products,4575724,Office Supplies,Purchase of 270 vehicles for government offices,4549609,7
+C0574,2024-03-29,Urban Development,PharmaCo Enterprises,510905,Maintenance,Purchase of 108 servers for government offices,532643,6
+C0575,2024-02-19,Social Welfare,PharmaCo Enterprises,892410,Infrastructure,Purchase of 105 furniture for government offices,894866,7
+C0576,2024-11-26,Education,GreenTech Industries,432641,Construction,Purchase of 436 furniture for government offices,418822,7
+C0577,2024-12-04,Agriculture,DataSystems India,8874509,Services,Purchase of 150 desks for government offices,9140960,6
+C0578,2024-08-10,PWD,SmartCity Developers,2194173,Services,Purchase of 311 vehicles for government offices,2250682,7
+C0579,2024-02-01,Health,SmartCity Developers,10903698,Services,Purchase of 470 medicines for government offices,10359708,7
+C0580,2024-01-16,Social Welfare,HealthFirst Products,9182804,Office Supplies,Purchase of 257 vehicles for government offices,9103432,6
+C0581,2024-12-05,PWD,DataSystems India,856468,Construction,Purchase of 480 vehicles for government offices,856465,5
+C0582,2024-03-09,PWD,Urban Builders,800000,Furniture,Urgent procurement of laptops for department,570967,2
+C0583,2024-08-21,Urban Development,Auto Parts Ltd,10790933,Vehicles,Purchase of 310 vehicles for government offices,11125692,6
+C0584,2024-04-25,IT Department,Auto Parts Ltd,8022289,Maintenance,Purchase of 414 servers for government offices,8140701,4
+C0585,2024-10-22,Health,Medicare Corporation,485222,Maintenance,Purchase of 347 vehicles for government offices,505424,3
+C0586,2024-05-23,Health,Urban Builders,478503,Maintenance,Purchase of 291 furniture for government offices,492527,4
+C0587,2024-10-23,Urban Development,TechCorp Services,535537,Vehicles,Purchase of 290 vehicles for government offices,546009,3
+C0588,2024-08-03,IT Department,ABC Technologies Pvt Ltd,1773525,Infrastructure,Purchase of 433 medicines for government offices,1692993,7
+C0589,2024-10-23,Urban Development,BuildCo Infrastructure,498447,Construction,Purchase of 63 medicines for government offices,492429,7
+C0590,2024-09-15,Health,TechCorp Services,3700000,Construction,Immediate procurement of laptops for department,2196369,1
+C0591,2024-10-29,Education,PharmaCo Enterprises,4554650,Medical Supplies,Purchase of 298 desks for government offices,4430772,4
+C0592,2024-03-15,Transport,Urban Builders,1051284,Infrastructure,Purchase of 444 vehicles for government offices,1101597,6
+C0593,2024-11-22,Education,Medicare Corporation,10203083,Infrastructure,Purchase of 436 laptops for government offices,10150637,5
+C0594,2024-07-23,Social Welfare,EduSupply Solutions,5119225,Services,Purchase of 169 vehicles for government offices,5364003,7
+C0595,2024-03-15,Agriculture,HealthFirst Products,4017794,IT Equipment,Purchase of 245 furniture for government offices,4301204,6
+C0596,2024-02-19,IT Department,GreenTech Industries,2173710,Medical Supplies,Purchase of 221 medicines for government offices,2187039,5
+C0597,2024-05-10,Transport,HealthFirst Products,4691662,Vehicles,Purchase of 425 furniture for government offices,4868949,4
+C0598,2024-12-12,Education,Auto Parts Ltd,893980,Medical Supplies,Purchase of 475 laptops for government offices,850510,3
+C0599,2024-09-25,Education,TechCorp Services,10100000,Medical Supplies,Urgent procurement of laptops for department,6259972,1
+C0600,2024-01-30,PWD,Auto Parts Ltd,1085146,Construction,Purchase of 94 servers for government offices,1120902,3
+C0601,2024-02-26,IT Department,GreenTech Industries,1776741,Furniture,Purchase of 377 vehicles for government offices,1840458,3
+C0602,2024-12-20,Social Welfare,Auto Parts Ltd,1754401,Vehicles,Purchase of 447 laptops for government offices,1844744,5
+C0603,2024-01-31,PWD,Urban Builders,1706757,Infrastructure,Purchase of 362 vehicles for government offices,1636817,4
+C0604,2024-02-25,Health,ABC Technologies Pvt Ltd,4327579,Medical Supplies,Purchase of 416 medicines for government offices,4473132,6
+C0605,2024-02-06,Education,PrimeVendor Corporation,2066342,IT Equipment,Purchase of 126 furniture for government offices,1968065,6
+C0606,2024-12-06,Urban Development,EduSupply Solutions,1010016,Furniture,Purchase of 51 servers for government offices,1078293,7
+C0607,2024-07-25,Agriculture,PharmaCo Enterprises,481019,Services,Purchase of 112 servers for government offices,457174,6
+C0608,2024-07-24,IT Department,Urban Builders,1000000,Office Supplies,Emergency procurement of furniture for department,671757,1
+C0609,2024-03-31,Agriculture,EduSupply Solutions,4991101,Medical Supplies,Purchase of 104 furniture for government offices,4935465,6
+C0610,2024-11-19,Social Welfare,BuildCo Infrastructure,841982,Maintenance,Purchase of 172 vehicles for government offices,821018,7
+C0611,2024-11-25,Education,PharmaCo Enterprises,10894861,IT Equipment,Purchase of 68 medicines for government offices,11499865,3
+C0612,2024-07-26,Education,Digital Solutions Inc,21800000,Construction,Urgent procurement of laptops for department,13200220,1
+C0613,2024-09-07,PWD,ABC Technologies Pvt Ltd,5360768,Construction,Purchase of 409 furniture for government offices,5523673,4
+C0614,2024-11-19,Health,EduSupply Solutions,5400000,Office Supplies,Emergency procurement of laptops for department,2344316,1
+C0615,2024-02-02,PWD,PharmaCo Enterprises,4506014,Office Supplies,Purchase of 216 laptops for government offices,4770365,6
+C0616,2024-01-24,Agriculture,HealthFirst Products,1637933,Construction,Purchase of 136 furniture for government offices,1614356,6
+C0617,2024-08-12,Education,PrimeVendor Corporation,8122096,Infrastructure,Purchase of 242 desks for government offices,7821544,7
+C0618,2024-02-11,PWD,QuickOffice Supplies,2800000,Construction,Critical procurement of furniture for department,1768258,1
+C0619,2024-11-23,PWD,Digital Solutions Inc,4618046,Infrastructure,Purchase of 404 laptops for government offices,4950322,7
+C0620,2024-11-09,Health,TechCorp Services,1808712,Vehicles,Purchase of 148 laptops for government offices,1719350,4
+C0621,2024-10-03,Health,GreenTech Industries,5155496,Construction,Purchase of 77 desks for government offices,5339611,5
+C0622,2024-12-16,Agriculture,DataSystems India,4746272,Office Supplies,Purchase of 77 furniture for government offices,4607532,3
+C0623,2024-08-10,Education,PrimeVendor Corporation,10415461,Maintenance,Purchase of 103 furniture for government offices,10921579,3
+C0624,2024-03-31,Agriculture,Auto Parts Ltd,472759,Office Supplies,Purchase of 419 vehicles for government offices,456254,4
+C0625,2024-12-12,Social Welfare,SmartCity Developers,1033692,Office Supplies,Purchase of 171 furniture for government offices,1025833,3
+C0626,2024-07-11,Urban Development,Medicare Corporation,470648,Furniture,Purchase of 124 desks for government offices,476753,6
+C0627,2024-07-10,Education,Digital Solutions Inc,989606,IT Equipment,Purchase of 221 desks for government offices,1065629,4
+C0628,2024-05-23,PWD,GreenTech Industries,4687868,Construction,Purchase of 162 medicines for government offices,4557808,5
+C0629,2024-10-22,Urban Development,SmartCity Developers,825942,Infrastructure,Purchase of 491 desks for government offices,876660,6
+C0630,2024-05-22,Transport,PrimeVendor Corporation,13000000,Construction,Critical procurement of vehicles for department,6172066,1
+C0631,2024-10-20,Education,Auto Parts Ltd,5470276,Maintenance,Purchase of 425 servers for government offices,5225249,6
+C0632,2024-07-20,Social Welfare,QuickOffice Supplies,467866,Construction,Purchase of 435 laptops for government offices,459101,7
+C0633,2024-07-02,Education,EduSupply Solutions,402389,Infrastructure,Purchase of 410 vehicles for government offices,417267,4
+C0634,2024-03-11,Education,SmartCity Developers,4277418,Medical Supplies,Purchase of 410 furniture for government offices,4548185,6
+C0635,2024-07-16,Transport,GreenTech Industries,1918552,Medical Supplies,Purchase of 407 servers for government offices,1896597,5
+C0636,2024-11-13,Social Welfare,PharmaCo Enterprises,477210,Infrastructure,Purchase of 76 laptops for government offices,509803,5
+C0637,2024-11-12,Agriculture,QuickOffice Supplies,3500000,Maintenance,Urgent procurement of equipment for department,2001376,1
+C0638,2024-02-28,IT Department,HealthFirst Products,10613394,Furniture,Purchase of 214 medicines for government offices,11052466,4
+C0639,2024-05-21,IT Department,EduSupply Solutions,4000000,Vehicles,Critical procurement of vehicles for department,2202948,1
+C0640,2024-12-10,PWD,DataSystems India,428253,Medical Supplies,Purchase of 91 vehicles for government offices,456054,3
+C0641,2024-02-25,Education,DataSystems India,504562,Furniture,Purchase of 316 furniture for government offices,511889,4
+C0642,2024-12-15,Health,ABC Technologies Pvt Ltd,942171,Office Supplies,Purchase of 199 desks for government offices,946520,3
+C0643,2024-09-23,Urban Development,EduSupply Solutions,4868056,Services,Purchase of 298 servers for government offices,5039649,5
+C0644,2024-10-17,Education,Medicare Corporation,1703042,Vehicles,Purchase of 240 medicines for government offices,1675454,6
+C0645,2024-05-25,PWD,SmartCity Developers,985589,Construction,Purchase of 196 desks for government offices,956911,7
+C0646,2024-03-23,PWD,QuickOffice Supplies,549065,Maintenance,Purchase of 183 medicines for government offices,562620,6
+C0647,2024-12-28,IT Department,BuildCo Infrastructure,5900000,IT Equipment,Urgent procurement of vehicles for department,2637000,2
+C0648,2024-07-26,Agriculture,Urban Builders,1084336,Services,Purchase of 52 furniture for government offices,1160906,4
+C0649,2024-08-30,Health,Digital Solutions Inc,10000663,Infrastructure,Purchase of 223 furniture for government offices,10540147,6
+C0650,2024-01-21,Urban Development,PharmaCo Enterprises,8350628,Medical Supplies,Purchase of 480 desks for government offices,7960014,7
+C0651,2024-06-16,Health,HealthFirst Products,2300000,Infrastructure,Urgent procurement of laptops for department,1108346,1
+C0652,2024-12-12,Education,PrimeVendor Corporation,546375,Vehicles,Purchase of 212 servers for government offices,547071,6
+C0653,2024-07-22,IT Department,EduSupply Solutions,4554444,Maintenance,Purchase of 226 medicines for government offices,4547466,5
+C0654,2024-02-14,Social Welfare,Digital Solutions Inc,5112291,Furniture,Purchase of 197 desks for government offices,5132889,6
+C0655,2024-03-12,Agriculture,BuildCo Infrastructure,8258233,Furniture,Purchase of 494 servers for government offices,8068391,6
+C0656,2024-02-15,Social Welfare,DataSystems India,4200000,Maintenance,Urgent procurement of equipment for department,2405002,1
+C0657,2024-09-08,Education,Medicare Corporation,5500000,Services,Urgent procurement of laptops for department,2703303,2
+C0658,2024-06-02,Urban Development,PrimeVendor Corporation,4186265,Office Supplies,Purchase of 263 desks for government offices,4339351,5
+C0659,2024-01-15,Social Welfare,SmartCity Developers,4400000,Services,Critical procurement of vehicles for department,3095932,1
+C0660,2024-11-17,PWD,TechCorp Services,455980,IT Equipment,Purchase of 482 medicines for government offices,476628,3
+C0661,2024-03-15,Agriculture,ABC Technologies Pvt Ltd,907215,Services,Purchase of 264 furniture for government offices,868091,5
+C0662,2024-05-29,PWD,HealthFirst Products,477079,Vehicles,Purchase of 441 laptops for government offices,500760,4
+C0663,2024-06-10,Agriculture,SmartCity Developers,1762875,Construction,Purchase of 99 servers for government offices,1834687,5
+C0664,2024-01-07,Transport,Medicare Corporation,1823808,Maintenance,Purchase of 133 laptops for government offices,1847584,5
+C0665,2024-04-23,Health,Auto Parts Ltd,9840285,Infrastructure,Purchase of 483 servers for government offices,10411849,7
+C0666,2024-02-09,Urban Development,PrimeVendor Corporation,2800000,Maintenance,Immediate procurement of equipment for department,1569085,1
+C0667,2024-06-24,PWD,Digital Solutions Inc,1617255,Office Supplies,Purchase of 115 furniture for government offices,1707650,4
+C0668,2024-06-06,Urban Development,GreenTech Industries,1094332,Furniture,Purchase of 89 laptops for government offices,1100049,3
+C0669,2024-01-22,IT Department,ABC Technologies Pvt Ltd,518958,Medical Supplies,Purchase of 290 laptops for government offices,527651,3
+C0670,2024-06-03,PWD,Urban Builders,517355,Vehicles,Purchase of 350 desks for government offices,553369,4
+C0671,2024-01-15,Health,BuildCo Infrastructure,5800000,IT Equipment,Urgent procurement of vehicles for department,2948624,1
+C0672,2024-09-27,Health,PrimeVendor Corporation,1089279,Office Supplies,Purchase of 52 furniture for government offices,1059139,7
+C0673,2024-09-15,PWD,SmartCity Developers,4549694,Vehicles,Purchase of 394 laptops for government offices,4670804,6
+C0674,2024-07-13,Health,HealthFirst Products,8682662,Construction,Purchase of 113 vehicles for government offices,8375902,5
+C0675,2024-09-10,Social Welfare,DataSystems India,1934279,Infrastructure,Purchase of 302 laptops for government offices,1847776,5
+C0676,2024-11-03,Urban Development,Urban Builders,4338810,Vehicles,Purchase of 146 laptops for government offices,4351595,6
+C0677,2024-04-01,Social Welfare,Auto Parts Ltd,12500000,Medical Supplies,Emergency procurement of equipment for department,6507514,1
+C0678,2024-03-27,Social Welfare,Digital Solutions Inc,2000000,Infrastructure,Emergency procurement of equipment for department,1161573,2
+C0679,2024-05-22,Social Welfare,EduSupply Solutions,9780949,Maintenance,Purchase of 232 vehicles for government offices,10253558,6
+C0680,2024-05-22,PWD,ABC Technologies Pvt Ltd,4162055,Medical Supplies,Purchase of 168 furniture for government offices,4089592,6
+C0681,2024-01-28,Agriculture,Medicare Corporation,5017161,Services,Purchase of 359 furniture for government offices,5400318,6
+C0682,2024-11-14,Transport,DataSystems India,499162,Infrastructure,Purchase of 455 vehicles for government offices,507943,6
+C0683,2024-09-08,Social Welfare,PrimeVendor Corporation,9030846,Medical Supplies,Purchase of 59 laptops for government offices,9588567,7
+C0684,2024-07-15,IT Department,PrimeVendor Corporation,4663834,Construction,Purchase of 335 furniture for government offices,4452457,4
+C0685,2024-09-08,Urban Development,Urban Builders,2029433,Maintenance,Purchase of 341 furniture for government offices,2056564,3
+C0686,2024-12-16,IT Department,EduSupply Solutions,4713866,Furniture,Purchase of 78 vehicles for government offices,5001721,7
+C0687,2024-11-11,Agriculture,GreenTech Industries,1792289,IT Equipment,Purchase of 115 medicines for government offices,1709232,3
+C0688,2024-11-16,Transport,QuickOffice Supplies,464222,Office Supplies,Purchase of 229 laptops for government offices,500873,6
+C0689,2024-11-27,PWD,ABC Technologies Pvt Ltd,536558,Maintenance,Purchase of 108 medicines for government offices,514298,5
+C0690,2024-06-15,Education,PharmaCo Enterprises,11700000,Furniture,Emergency procurement of furniture for department,7884421,1
+C0691,2024-10-19,Agriculture,Medicare Corporation,8293177,Services,Purchase of 222 vehicles for government offices,8405023,4
+C0692,2024-07-05,Transport,DataSystems India,949085,Services,Purchase of 480 servers for government offices,1006175,3
+C0693,2024-01-25,Health,TechCorp Services,9206082,Vehicles,Purchase of 417 servers for government offices,9016116,3
+C0694,2024-05-19,IT Department,Auto Parts Ltd,22100000,Maintenance,Immediate procurement of vehicles for department,10244006,1
+C0695,2024-06-09,PWD,TechCorp Services,4376897,Infrastructure,Purchase of 142 laptops for government offices,4451295,7
+C0696,2024-04-19,Education,HealthFirst Products,4401903,Office Supplies,Purchase of 486 vehicles for government offices,4546859,7
+C0697,2024-07-05,Social Welfare,PharmaCo Enterprises,845141,Medical Supplies,Purchase of 482 vehicles for government offices,878177,5
+C0698,2024-11-20,Transport,Auto Parts Ltd,4400402,Office Supplies,Purchase of 181 furniture for government offices,4344586,4
+C0699,2024-02-28,Social Welfare,Auto Parts Ltd,436837,IT Equipment,Purchase of 298 servers for government offices,461972,6
+C0700,2024-04-13,PWD,Urban Builders,808742,IT Equipment,Purchase of 387 servers for government offices,851327,5
+C0701,2024-09-05,Social Welfare,PrimeVendor Corporation,528937,Vehicles,Purchase of 202 laptops for government offices,508261,7
+C0702,2024-12-09,Health,HealthFirst Products,459534,Maintenance,Purchase of 170 laptops for government offices,486727,4
+C0703,2024-05-08,Social Welfare,GreenTech Industries,435711,Office Supplies,Purchase of 218 servers for government offices,420851,5
+C0704,2024-08-04,Education,EduSupply Solutions,426273,Maintenance,Purchase of 259 medicines for government offices,458708,6
+C0705,2024-07-10,Agriculture,EduSupply Solutions,447473,Vehicles,Purchase of 192 desks for government offices,449751,4
+C0706,2024-06-06,Social Welfare,DataSystems India,15500000,Vehicles,Urgent procurement of supplies for department,9652209,1
+C0707,2024-12-16,Health,PrimeVendor Corporation,1057294,Office Supplies,Purchase of 180 medicines for government offices,1057823,6
+C0708,2024-06-01,IT Department,SmartCity Developers,1074767,Medical Supplies,Purchase of 454 laptops for government offices,1109241,6
+C0709,2024-09-08,PWD,Digital Solutions Inc,5389745,Services,Purchase of 498 laptops for government offices,5353385,6
+C0710,2024-09-16,Education,Urban Builders,12000000,Construction,Critical procurement of laptops for department,7738561,1
+C0711,2024-11-18,Health,BuildCo Infrastructure,800922,Construction,Purchase of 210 servers for government offices,781707,5
+C0712,2024-05-07,PWD,DataSystems India,1054088,Construction,Purchase of 281 vehicles for government offices,1095353,5
+C0713,2024-12-17,Social Welfare,PrimeVendor Corporation,2079717,Furniture,Purchase of 238 desks for government offices,2029442,6
+C0714,2024-10-19,Transport,DataSystems India,538466,Construction,Purchase of 95 vehicles for government offices,556840,4
+C0715,2024-01-26,Health,ABC Technologies Pvt Ltd,4900589,Maintenance,Purchase of 137 servers for government offices,4750643,5
+C0716,2024-08-10,Transport,SmartCity Developers,5240886,Services,Purchase of 415 desks for government offices,5315512,4
+C0717,2024-05-27,Transport,Auto Parts Ltd,4195298,Construction,Purchase of 160 medicines for government offices,4452570,7
+C0718,2024-07-28,Agriculture,TechCorp Services,443528,Infrastructure,Purchase of 280 desks for government offices,436446,7
+C0719,2024-02-13,Social Welfare,Digital Solutions Inc,2800000,Services,Urgent procurement of furniture for department,1943455,2
+C0720,2024-02-07,Education,ABC Technologies Pvt Ltd,700000,Services,Immediate procurement of vehicles for department,536040,2
+C0721,2024-09-15,PWD,DataSystems India,2186514,Construction,Purchase of 336 laptops for government offices,2267992,4
+C0722,2024-09-14,Social Welfare,Medicare Corporation,2126738,Services,Purchase of 413 servers for government offices,2056873,5
+C0723,2024-02-29,Social Welfare,DataSystems India,949763,Services,Purchase of 432 medicines for government offices,1022456,5
+C0724,2024-11-09,Urban Development,GreenTech Industries,1910183,Construction,Purchase of 211 furniture for government offices,1922887,4
+C0725,2024-10-11,Urban Development,DataSystems India,4079833,Construction,Purchase of 143 laptops for government offices,3954666,4
+C0726,2024-12-27,Urban Development,EduSupply Solutions,549280,Infrastructure,Purchase of 276 medicines for government offices,588024,3
+C0727,2024-02-27,IT Department,TechCorp Services,837096,Office Supplies,Purchase of 142 desks for government offices,805424,5
+C0728,2024-10-25,Urban Development,Urban Builders,478902,Medical Supplies,Purchase of 89 desks for government offices,490492,6
+C0729,2024-06-17,Education,BuildCo Infrastructure,1000000,Infrastructure,Immediate procurement of equipment for department,603432,1
+C0730,2024-12-28,Urban Development,PharmaCo Enterprises,4942535,Construction,Purchase of 218 laptops for government offices,4868453,3
+C0731,2024-04-18,Social Welfare,BuildCo Infrastructure,1793902,Furniture,Purchase of 330 servers for government offices,1717158,3
+C0732,2024-05-10,IT Department,Urban Builders,4133782,Construction,Purchase of 248 vehicles for government offices,4385136,4
+C0733,2024-03-02,Health,SmartCity Developers,5103833,Vehicles,Purchase of 117 medicines for government offices,5460187,7
+C0734,2024-09-19,Health,GreenTech Industries,5328119,Furniture,Purchase of 357 vehicles for government offices,5391721,7
+C0735,2024-07-07,Transport,Urban Builders,4946029,Construction,Purchase of 224 vehicles for government offices,4758491,7
+C0736,2024-09-10,IT Department,Medicare Corporation,8251910,Construction,Purchase of 460 vehicles for government offices,8341595,3
+C0737,2024-12-16,Education,HealthFirst Products,956927,Medical Supplies,Purchase of 332 laptops for government offices,945838,3
+C0738,2024-09-18,Health,GreenTech Industries,469698,Maintenance,Purchase of 231 medicines for government offices,490195,5
+C0739,2024-01-09,Social Welfare,PrimeVendor Corporation,8800000,Services,Emergency procurement of laptops for department,4022235,2
+C0740,2024-06-09,Transport,Medicare Corporation,5136031,Medical Supplies,Purchase of 224 desks for government offices,5179652,5
+C0741,2024-11-05,PWD,Urban Builders,465069,Infrastructure,Purchase of 109 laptops for government offices,442898,6
+C0742,2024-08-23,Social Welfare,GreenTech Industries,10177734,Services,Purchase of 234 furniture for government offices,10069483,7
+C0743,2024-02-14,Transport,EduSupply Solutions,428620,Construction,Purchase of 489 laptops for government offices,452655,4
+C0744,2024-11-28,Social Welfare,ABC Technologies Pvt Ltd,8572743,Medical Supplies,Purchase of 125 vehicles for government offices,8479465,6
+C0745,2024-03-26,Transport,DataSystems India,5445800,Furniture,Purchase of 349 desks for government offices,5507302,6
+C0746,2024-01-27,IT Department,ABC Technologies Pvt Ltd,494561,Infrastructure,Purchase of 484 vehicles for government offices,515679,6
+C0747,2024-07-23,Education,HealthFirst Products,10173842,IT Equipment,Purchase of 168 furniture for government offices,10902151,6
+C0748,2024-08-04,Urban Development,TechCorp Services,8190531,Vehicles,Purchase of 292 laptops for government offices,8731712,6
+C0749,2024-08-17,Transport,HealthFirst Products,424200,Office Supplies,Purchase of 226 vehicles for government offices,443037,6
+C0750,2024-10-27,Social Welfare,Auto Parts Ltd,2153041,Vehicles,Purchase of 117 medicines for government offices,2284266,6
+C0751,2024-08-29,PWD,Medicare Corporation,986552,Office Supplies,Purchase of 391 vehicles for government offices,973450,3
+C0752,2024-03-21,Transport,HealthFirst Products,519022,IT Equipment,Purchase of 205 desks for government offices,556701,6
+C0753,2024-01-10,Agriculture,Auto Parts Ltd,1814226,Medical Supplies,Purchase of 66 laptops for government offices,1760921,7
+C0754,2024-11-12,Education,GreenTech Industries,8672286,Maintenance,Purchase of 451 medicines for government offices,8529339,5
+C0755,2024-05-16,Health,BuildCo Infrastructure,9812868,Medical Supplies,Purchase of 274 vehicles for government offices,9455075,3
+C0756,2024-10-14,IT Department,Digital Solutions Inc,800000,Infrastructure,Immediate procurement of equipment for department,381114,1
+C0757,2024-09-16,Urban Development,Auto Parts Ltd,423144,IT Equipment,Purchase of 112 desks for government offices,421995,4
+C0758,2024-05-05,Social Welfare,PharmaCo Enterprises,4511980,Office Supplies,Purchase of 186 medicines for government offices,4582605,3
+C0759,2024-03-18,Urban Development,SmartCity Developers,9265166,Maintenance,Purchase of 261 vehicles for government offices,9076746,6
+C0760,2024-12-15,Agriculture,PharmaCo Enterprises,466386,Furniture,Purchase of 85 laptops for government offices,489761,7
+C0761,2024-03-25,IT Department,Auto Parts Ltd,5138788,Furniture,Purchase of 344 laptops for government offices,5322874,4
+C0762,2024-12-14,PWD,Digital Solutions Inc,2032930,Furniture,Purchase of 54 medicines for government offices,2014187,5
+C0763,2024-08-16,Social Welfare,GreenTech Industries,9873079,Office Supplies,Purchase of 407 medicines for government offices,10172868,6
+C0764,2024-06-03,Health,HealthFirst Products,20000000,Maintenance,Immediate procurement of equipment for department,12361332,1
+C0765,2024-06-08,Transport,SmartCity Developers,807026,Services,Purchase of 353 medicines for government offices,860081,7
+C0766,2024-08-04,Agriculture,BuildCo Infrastructure,509797,IT Equipment,Purchase of 371 servers for government offices,540081,5
+C0767,2024-11-29,Transport,PharmaCo Enterprises,4446941,Services,Purchase of 223 desks for government offices,4650573,6
+C0768,2024-05-25,Health,PharmaCo Enterprises,10017301,Maintenance,Purchase of 427 desks for government offices,10446698,7
+C0769,2024-10-25,Health,BuildCo Infrastructure,1872585,IT Equipment,Purchase of 474 vehicles for government offices,1814632,6
+C0770,2024-08-05,Social Welfare,SmartCity Developers,4322176,Services,Purchase of 256 servers for government offices,4149934,7
+C0771,2024-10-26,PWD,Medicare Corporation,5494767,Maintenance,Purchase of 424 vehicles for government offices,5712207,6
+C0772,2024-03-06,Transport,EduSupply Solutions,4194077,Infrastructure,Purchase of 110 furniture for government offices,4368501,7
+C0773,2024-01-17,Health,BuildCo Infrastructure,9107996,Vehicles,Purchase of 486 vehicles for government offices,9779590,7
+C0774,2024-10-19,Urban Development,ABC Technologies Pvt Ltd,8459913,Construction,Purchase of 205 medicines for government offices,8445452,5
+C0775,2024-03-13,Urban Development,ABC Technologies Pvt Ltd,4072976,Medical Supplies,Purchase of 160 desks for government offices,4342822,5
+C0776,2024-10-07,Social Welfare,EduSupply Solutions,462636,Construction,Purchase of 281 medicines for government offices,473969,7
+C0777,2024-03-11,Agriculture,BuildCo Infrastructure,5142518,Furniture,Purchase of 493 furniture for government offices,5331447,4
+C0778,2024-07-17,Health,SmartCity Developers,4508496,Construction,Purchase of 426 medicines for government offices,4309926,6
+C0779,2024-12-28,Education,TechCorp Services,4600000,Maintenance,Urgent procurement of vehicles for department,2047158,1
+C0780,2024-04-06,IT Department,GreenTech Industries,10690592,Office Supplies,Purchase of 142 laptops for government offices,10323229,7
+C0781,2024-05-05,Education,EduSupply Solutions,9332688,IT Equipment,Purchase of 214 vehicles for government offices,9845050,7
+C0782,2024-06-23,Health,BuildCo Infrastructure,4036085,Maintenance,Purchase of 181 laptops for government offices,4111266,6
+C0783,2024-03-27,PWD,ABC Technologies Pvt Ltd,876666,Vehicles,Purchase of 258 furniture for government offices,843047,5
+C0784,2024-04-02,IT Department,Auto Parts Ltd,900000,Medical Supplies,Critical procurement of supplies for department,418245,1
+C0785,2024-01-27,IT Department,ABC Technologies Pvt Ltd,9758087,Vehicles,Purchase of 247 laptops for government offices,9895552,7
+C0786,2024-08-25,Health,QuickOffice Supplies,472625,Maintenance,Purchase of 59 medicines for government offices,474030,4
+C0787,2024-11-29,Agriculture,HealthFirst Products,1940947,Construction,Purchase of 154 desks for government offices,1956431,7
+C0788,2024-05-05,IT Department,Urban Builders,5442028,Construction,Purchase of 50 vehicles for government offices,5562676,3
+C0789,2024-01-01,IT Department,ABC Technologies Pvt Ltd,9500000,Construction,Immediate procurement of equipment for department,4538688,2
+C0790,2024-09-30,IT Department,PrimeVendor Corporation,1653829,Furniture,Purchase of 421 servers for government offices,1721298,4
+C0791,2024-04-17,Urban Development,DataSystems India,2130358,Office Supplies,Purchase of 435 furniture for government offices,2285667,5
+C0792,2024-12-05,PWD,Urban Builders,1726374,IT Equipment,Purchase of 58 furniture for government offices,1855280,5
+C0793,2024-11-07,Health,GreenTech Industries,500905,Medical Supplies,Purchase of 440 vehicles for government offices,502763,6
+C0794,2024-10-02,PWD,SmartCity Developers,12500000,IT Equipment,Immediate procurement of furniture for department,6344899,2
+C0795,2024-03-04,Agriculture,QuickOffice Supplies,933373,Medical Supplies,Purchase of 438 medicines for government offices,913583,3
+C0796,2024-11-10,Urban Development,PrimeVendor Corporation,870277,Office Supplies,Purchase of 68 medicines for government offices,882630,5
+C0797,2024-01-04,Transport,Urban Builders,4166419,Construction,Purchase of 302 desks for government offices,4108319,7
+C0798,2024-02-03,IT Department,QuickOffice Supplies,419114,IT Equipment,Purchase of 317 furniture for government offices,449023,4
+C0799,2024-12-20,Education,SmartCity Developers,8758763,Vehicles,Purchase of 51 vehicles for government offices,8958594,6
+C0800,2024-08-09,Education,PrimeVendor Corporation,4411053,Office Supplies,Purchase of 303 medicines for government offices,4580536,6
+C0801,2024-01-25,Health,PrimeVendor Corporation,4798615,IT Equipment,Purchase of 149 medicines for government offices,4755962,6
+C0802,2024-04-25,IT Department,BuildCo Infrastructure,5436663,Medical Supplies,Purchase of 134 medicines for government offices,5812931,4
+C0803,2024-01-15,Transport,BuildCo Infrastructure,488879,Infrastructure,Purchase of 480 medicines for government offices,504238,5
+C0804,2024-05-02,Urban Development,GreenTech Industries,523245,Medical Supplies,Purchase of 87 servers for government offices,532432,4
+C0805,2024-11-16,Health,GreenTech Industries,412830,Construction,Purchase of 243 medicines for government offices,395445,3
+C0806,2024-02-01,Education,HealthFirst Products,4082183,IT Equipment,Purchase of 83 laptops for government offices,4202182,6
+C0807,2024-05-30,Education,EduSupply Solutions,4143745,Furniture,Purchase of 492 servers for government offices,4341630,4
+C0808,2024-08-25,Agriculture,TechCorp Services,9857691,Office Supplies,Purchase of 282 servers for government offices,9800024,3
+C0809,2024-02-25,IT Department,PharmaCo Enterprises,25600000,Furniture,Urgent procurement of vehicles for department,14850860,1
+C0810,2024-09-03,IT Department,TechCorp Services,4278885,Furniture,Purchase of 80 desks for government offices,4141521,3
+C0811,2024-09-19,IT Department,TechCorp Services,1786712,Vehicles,Purchase of 125 vehicles for government offices,1902989,4
+C0812,2024-05-29,Education,Auto Parts Ltd,477652,Vehicles,Purchase of 79 desks for government offices,494607,4
+C0813,2024-04-10,Urban Development,TechCorp Services,1035579,Vehicles,Purchase of 405 furniture for government offices,1029781,6
+C0814,2024-10-23,Education,EduSupply Solutions,1969661,Office Supplies,Purchase of 103 vehicles for government offices,1978387,4
+C0815,2024-01-02,Social Welfare,QuickOffice Supplies,939961,Furniture,Purchase of 426 medicines for government offices,919007,6
+C0816,2024-04-04,PWD,DataSystems India,454422,Infrastructure,Purchase of 334 laptops for government offices,436056,3
+C0817,2024-04-09,Transport,PrimeVendor Corporation,1626342,Services,Purchase of 195 desks for government offices,1551301,4
+C0818,2024-03-30,Health,ABC Technologies Pvt Ltd,8737892,Construction,Purchase of 481 medicines for government offices,8523624,4
+C0819,2024-07-13,Agriculture,Urban Builders,450757,Construction,Purchase of 172 medicines for government offices,440538,6
+C0820,2024-09-26,PWD,GreenTech Industries,10644991,Office Supplies,Purchase of 110 desks for government offices,11328297,3
+C0821,2024-04-08,Transport,SmartCity Developers,1790770,Maintenance,Purchase of 73 servers for government offices,1801228,4
+C0822,2024-05-30,Urban Development,QuickOffice Supplies,1748302,Medical Supplies,Purchase of 496 desks for government offices,1803949,5
+C0823,2024-08-28,Urban Development,Medicare Corporation,8194619,Vehicles,Purchase of 241 vehicles for government offices,8326714,7
+C0824,2024-12-30,Education,QuickOffice Supplies,5073474,Office Supplies,Purchase of 347 vehicles for government offices,5146141,5
+C0825,2024-04-13,Agriculture,DataSystems India,918769,Maintenance,Purchase of 342 desks for government offices,909379,6
+C0826,2024-02-13,Urban Development,HealthFirst Products,444257,Vehicles,Purchase of 348 laptops for government offices,452007,4
+C0827,2024-08-06,Education,Medicare Corporation,4613429,Infrastructure,Purchase of 189 vehicles for government offices,4865255,5
+C0828,2024-04-29,Health,GreenTech Industries,453863,Services,Purchase of 312 servers for government offices,436032,7
+C0829,2024-04-26,IT Department,DataSystems India,1000000,Services,Urgent procurement of supplies for department,575183,1
+C0830,2024-04-07,IT Department,DataSystems India,1099521,Vehicles,Purchase of 183 laptops for government offices,1152088,7
+C0831,2024-07-25,Social Welfare,QuickOffice Supplies,10273418,Office Supplies,Purchase of 439 desks for government offices,9775627,7
+C0832,2024-04-17,Agriculture,GreenTech Industries,9761010,Medical Supplies,Purchase of 419 vehicles for government offices,9974190,6
+C0833,2024-06-09,Education,PharmaCo Enterprises,5155196,Construction,Purchase of 274 vehicles for government offices,5365179,4
+C0834,2024-10-22,Social Welfare,Auto Parts Ltd,2166012,Furniture,Purchase of 223 desks for government offices,2060437,5
+C0835,2024-12-19,Agriculture,TechCorp Services,1952173,Furniture,Purchase of 121 desks for government offices,1998605,3
+C0836,2024-07-14,Urban Development,Urban Builders,4095563,Services,Purchase of 105 medicines for government offices,4096531,6
+C0837,2024-02-17,PWD,QuickOffice Supplies,8532908,Medical Supplies,Purchase of 300 laptops for government offices,9023052,7
+C0838,2024-07-16,Education,Medicare Corporation,887331,Vehicles,Purchase of 79 medicines for government offices,903455,6
+C0839,2024-07-29,PWD,SmartCity Developers,419370,Office Supplies,Purchase of 249 desks for government offices,421212,3
+C0840,2024-06-07,Urban Development,DataSystems India,4238171,Office Supplies,Purchase of 350 desks for government offices,4343116,5
+C0841,2024-01-04,Urban Development,EduSupply Solutions,4095955,Infrastructure,Purchase of 319 medicines for government offices,4103740,4
+C0842,2024-10-21,Social Welfare,TechCorp Services,900000,Construction,Immediate procurement of supplies for department,641667,2
+C0843,2024-07-31,Health,Auto Parts Ltd,10199731,IT Equipment,Purchase of 407 servers for government offices,10296808,4
+C0844,2024-05-02,Transport,PrimeVendor Corporation,882132,Infrastructure,Purchase of 391 laptops for government offices,910052,5
+C0845,2024-07-29,Social Welfare,EduSupply Solutions,8363691,Construction,Purchase of 308 medicines for government offices,8346421,3
+C0846,2024-05-09,Social Welfare,SmartCity Developers,469325,Office Supplies,Purchase of 245 medicines for government offices,450324,6
+C0847,2024-07-22,Urban Development,BuildCo Infrastructure,3300000,Medical Supplies,Critical procurement of furniture for department,2257704,1
+C0848,2024-10-07,Health,Medicare Corporation,4210383,Services,Purchase of 137 laptops for government offices,4448924,4
+C0849,2024-03-04,PWD,EduSupply Solutions,4252680,Vehicles,Purchase of 396 medicines for government offices,4411224,3
+C0850,2024-04-01,Health,Auto Parts Ltd,533903,Services,Purchase of 406 laptops for government offices,544153,6
+C0851,2024-08-15,Transport,QuickOffice Supplies,700000,Medical Supplies,Urgent procurement of supplies for department,403645,1
+C0852,2024-01-09,PWD,Digital Solutions Inc,450567,Construction,Purchase of 162 laptops for government offices,439293,3
+C0853,2024-01-23,Social Welfare,Auto Parts Ltd,522343,Medical Supplies,Purchase of 369 desks for government offices,518137,4
+C0854,2024-04-28,Transport,EduSupply Solutions,1794020,Office Supplies,Purchase of 56 vehicles for government offices,1707816,5
+C0855,2024-02-03,IT Department,GreenTech Industries,1989966,Infrastructure,Purchase of 161 vehicles for government offices,1985921,3
+C0856,2024-02-22,Social Welfare,Urban Builders,8514377,Construction,Purchase of 216 furniture for government offices,9150183,7
+C0857,2024-06-19,Urban Development,Auto Parts Ltd,2186812,Maintenance,Purchase of 221 laptops for government offices,2266910,3
+C0858,2024-11-23,Health,DataSystems India,9762405,Office Supplies,Purchase of 60 servers for government offices,10528651,4
+C0859,2024-08-07,PWD,Auto Parts Ltd,8238168,Office Supplies,Purchase of 201 desks for government offices,7973576,6
+C0860,2024-11-24,Agriculture,Urban Builders,29800000,IT Equipment,Urgent procurement of supplies for department,15901983,1
+C0861,2024-09-23,Agriculture,PharmaCo Enterprises,4972069,Office Supplies,Purchase of 167 furniture for government offices,4909913,3
+C0862,2024-04-15,Agriculture,Medicare Corporation,1040435,Infrastructure,Purchase of 361 vehicles for government offices,1082589,4
+C0863,2024-11-18,Health,Medicare Corporation,8000000,Maintenance,Urgent procurement of equipment for department,3673308,1
+C0864,2024-04-14,Transport,Auto Parts Ltd,463935,Construction,Purchase of 419 desks for government offices,468908,4
+C0865,2024-11-06,Health,PharmaCo Enterprises,1945853,Furniture,Purchase of 189 vehicles for government offices,2093357,4
+C0866,2024-07-12,Urban Development,ABC Technologies Pvt Ltd,4634045,Furniture,Purchase of 439 desks for government offices,4769457,6
+C0867,2024-08-06,Urban Development,DataSystems India,1957110,Infrastructure,Purchase of 181 vehicles for government offices,1898130,4
+C0868,2024-05-25,Transport,ABC Technologies Pvt Ltd,9442533,IT Equipment,Purchase of 150 desks for government offices,9379461,6
+C0869,2024-09-13,Social Welfare,EduSupply Solutions,1894872,Services,Purchase of 430 medicines for government offices,2028156,6
+C0870,2024-11-24,PWD,QuickOffice Supplies,461318,Furniture,Purchase of 247 servers for government offices,440580,3
+C0871,2024-05-10,Social Welfare,PrimeVendor Corporation,1905765,Furniture,Purchase of 406 laptops for government offices,1931532,5
+C0872,2024-05-06,PWD,DataSystems India,538220,Infrastructure,Purchase of 407 furniture for government offices,536596,3
+C0873,2024-12-14,Health,Urban Builders,980644,Furniture,Purchase of 56 laptops for government offices,1052948,4
+C0874,2024-07-22,IT Department,Digital Solutions Inc,477780,Services,Purchase of 134 vehicles for government offices,465619,6
+C0875,2024-09-13,Agriculture,SmartCity Developers,4879119,Construction,Purchase of 105 furniture for government offices,5100686,3
+C0876,2024-05-17,Education,BuildCo Infrastructure,5048513,Medical Supplies,Purchase of 467 vehicles for government offices,4800301,4
+C0877,2024-12-22,PWD,Digital Solutions Inc,4981781,Construction,Purchase of 140 medicines for government offices,5207433,4
+C0878,2024-04-11,Education,Digital Solutions Inc,10845449,Construction,Purchase of 145 desks for government offices,10938566,4
+C0879,2024-04-08,PWD,BuildCo Infrastructure,4661095,Services,Purchase of 494 furniture for government offices,4981248,3
+C0880,2024-02-13,Health,ABC Technologies Pvt Ltd,1638557,IT Equipment,Purchase of 294 vehicles for government offices,1562948,4
+C0881,2024-05-16,Education,Auto Parts Ltd,499798,Maintenance,Purchase of 99 desks for government offices,526085,3
+C0882,2024-05-16,Agriculture,PharmaCo Enterprises,5135367,Office Supplies,Purchase of 239 furniture for government offices,5282075,5
+C0883,2024-07-03,Education,EduSupply Solutions,4916213,Furniture,Purchase of 462 laptops for government offices,5293727,5
+C0884,2024-03-12,Urban Development,HealthFirst Products,1400000,Furniture,Immediate procurement of furniture for department,678224,1
+C0885,2024-12-04,Agriculture,Urban Builders,1609978,Infrastructure,Purchase of 463 furniture for government offices,1604869,3
+C0886,2024-04-29,Health,Digital Solutions Inc,5108806,Furniture,Purchase of 269 vehicles for government offices,5380670,5
+C0887,2024-05-30,Urban Development,GreenTech Industries,1060957,Medical Supplies,Purchase of 66 desks for government offices,1128763,7
+C0888,2024-06-03,Transport,QuickOffice Supplies,10961658,Office Supplies,Purchase of 109 vehicles for government offices,11078776,6
+C0889,2024-03-28,Social Welfare,GreenTech Industries,415820,Services,Purchase of 132 medicines for government offices,448726,3
+C0890,2024-04-22,Urban Development,BuildCo Infrastructure,5427255,Vehicles,Purchase of 323 furniture for government offices,5629030,4
+C0891,2024-04-24,Social Welfare,GreenTech Industries,8194001,Office Supplies,Purchase of 384 furniture for government offices,8149911,6
+C0892,2024-04-24,Health,TechCorp Services,1652608,Vehicles,Purchase of 146 furniture for government offices,1589128,7
+C0893,2024-03-06,Transport,SmartCity Developers,4865375,Furniture,Purchase of 352 servers for government offices,4623167,3
+C0894,2024-08-04,Transport,BuildCo Infrastructure,2078510,Furniture,Purchase of 316 furniture for government offices,2226936,4
+C0895,2024-01-05,Urban Development,Urban Builders,4473889,Infrastructure,Purchase of 478 desks for government offices,4724870,5
+C0896,2024-03-16,IT Department,HealthFirst Products,1024117,Medical Supplies,Purchase of 356 medicines for government offices,1085959,3
+C0897,2024-05-20,Social Welfare,ABC Technologies Pvt Ltd,9434848,Vehicles,Purchase of 199 furniture for government offices,9979515,6
+C0898,2024-03-19,Education,PrimeVendor Corporation,1054420,Construction,Purchase of 408 furniture for government offices,1129786,4
+C0899,2024-09-06,Social Welfare,PharmaCo Enterprises,2190633,Furniture,Purchase of 61 servers for government offices,2268844,4
+C0900,2024-12-13,IT Department,Digital Solutions Inc,2054628,Office Supplies,Purchase of 422 medicines for government offices,2056350,7
+C0901,2024-12-24,IT Department,EduSupply Solutions,4145979,Construction,Purchase of 493 laptops for government offices,4112995,7
+C0902,2024-10-22,Transport,Digital Solutions Inc,4436622,IT Equipment,Purchase of 461 furniture for government offices,4298319,4
+C0903,2024-07-04,PWD,PrimeVendor Corporation,8305843,IT Equipment,Purchase of 242 vehicles for government offices,8738701,4
+C0904,2024-02-19,Social Welfare,Medicare Corporation,4269449,Furniture,Purchase of 382 medicines for government offices,4085100,7
+C0905,2024-05-05,Urban Development,SmartCity Developers,2000000,Furniture,Critical procurement of laptops for department,1028224,1
+C0906,2024-05-20,Transport,ABC Technologies Pvt Ltd,4550984,Infrastructure,Purchase of 112 vehicles for government offices,4394430,3
+C0907,2024-05-20,Social Welfare,DataSystems India,519151,Construction,Purchase of 380 furniture for government offices,505415,6
+C0908,2024-02-20,Urban Development,BuildCo Infrastructure,8554669,Maintenance,Purchase of 251 servers for government offices,9030931,3
+C0909,2024-10-26,PWD,ABC Technologies Pvt Ltd,513026,Maintenance,Purchase of 142 servers for government offices,501211,3
+C0910,2024-08-16,IT Department,SmartCity Developers,405871,IT Equipment,Purchase of 94 servers for government offices,415920,4
+C0911,2024-02-13,Education,QuickOffice Supplies,8895733,Services,Purchase of 266 furniture for government offices,9568391,4
+C0912,2024-01-24,Urban Development,Digital Solutions Inc,10713858,Vehicles,Purchase of 277 desks for government offices,10586808,7
+C0913,2024-09-24,Transport,ABC Technologies Pvt Ltd,1963703,Office Supplies,Purchase of 389 laptops for government offices,1995862,3
+C0914,2024-03-13,IT Department,Medicare Corporation,1087226,Furniture,Purchase of 352 medicines for government offices,1117971,4
+C0915,2024-02-08,IT Department,Urban Builders,1829069,Furniture,Purchase of 283 laptops for government offices,1952486,6
+C0916,2024-12-21,PWD,Auto Parts Ltd,821167,Construction,Purchase of 415 medicines for government offices,858322,4
+C0917,2024-06-10,Health,HealthFirst Products,4568412,Medical Supplies,Purchase of 89 medicines for government offices,4912515,4
+C0918,2024-12-16,PWD,SmartCity Developers,449403,Office Supplies,Purchase of 448 medicines for government offices,432130,5
+C0919,2024-05-20,IT Department,TechCorp Services,14800000,Infrastructure,Emergency procurement of equipment for department,6928213,1
+C0920,2024-02-18,PWD,PharmaCo Enterprises,10596195,Furniture,Purchase of 100 laptops for government offices,10826137,7
+C0921,2024-04-02,PWD,DataSystems India,9655015,IT Equipment,Purchase of 294 servers for government offices,10279334,6
+C0922,2024-12-17,Education,PrimeVendor Corporation,997268,Vehicles,Purchase of 426 medicines for government offices,965901,7
+C0923,2024-12-28,IT Department,DataSystems India,9254731,Furniture,Purchase of 231 vehicles for government offices,9342764,6
+C0924,2024-09-23,Health,Urban Builders,891556,Medical Supplies,Purchase of 258 medicines for government offices,946413,5
+C0925,2024-02-09,Education,Auto Parts Ltd,424766,Maintenance,Purchase of 333 vehicles for government offices,406697,5
+C0926,2024-03-10,Social Welfare,ABC Technologies Pvt Ltd,10055365,Office Supplies,Purchase of 407 laptops for government offices,10437274,7
+C0927,2024-01-04,Education,TechCorp Services,10249003,Infrastructure,Purchase of 400 servers for government offices,10061952,7
+C0928,2024-03-27,Agriculture,ABC Technologies Pvt Ltd,10711395,Furniture,Purchase of 479 desks for government offices,10419250,5
+C0929,2024-09-10,Health,DataSystems India,2181837,Services,Purchase of 475 servers for government offices,2168603,4
+C0930,2024-09-04,Education,PrimeVendor Corporation,800670,Infrastructure,Purchase of 161 medicines for government offices,826333,6
+C0931,2024-11-12,Health,ABC Technologies Pvt Ltd,453361,Vehicles,Purchase of 202 medicines for government offices,466970,5
+C0932,2024-04-05,PWD,Auto Parts Ltd,415200,Medical Supplies,Purchase of 320 servers for government offices,420998,3
+C0933,2024-09-06,PWD,HealthFirst Products,3600000,Services,Immediate procurement of furniture for department,1907586,1
+C0934,2024-02-25,Transport,BuildCo Infrastructure,4242751,Office Supplies,Purchase of 52 medicines for government offices,4225720,6
+C0935,2024-05-25,Urban Development,Urban Builders,10600000,Services,Urgent procurement of equipment for department,5322181,1
+C0936,2024-03-01,Social Welfare,Medicare Corporation,9486702,Medical Supplies,Purchase of 216 vehicles for government offices,9853132,4
+C0937,2024-02-25,Agriculture,Auto Parts Ltd,846662,IT Equipment,Purchase of 76 furniture for government offices,859362,4
+C0938,2024-08-10,PWD,QuickOffice Supplies,1891557,Services,Purchase of 366 desks for government offices,1984086,4
+C0939,2024-02-28,PWD,QuickOffice Supplies,999899,Construction,Purchase of 411 laptops for government offices,1005689,6
+C0940,2024-04-27,Transport,BuildCo Infrastructure,4057549,IT Equipment,Purchase of 268 laptops for government offices,4377088,4
+C0941,2024-07-13,Urban Development,ABC Technologies Pvt Ltd,2020095,Maintenance,Purchase of 222 vehicles for government offices,2176483,4
+C0942,2024-08-06,Transport,PharmaCo Enterprises,1666032,IT Equipment,Purchase of 414 vehicles for government offices,1661475,5
+C0943,2024-04-03,Health,Auto Parts Ltd,1200000,Construction,Critical procurement of supplies for department,618292,1
+C0944,2024-05-09,PWD,PharmaCo Enterprises,1800569,Vehicles,Purchase of 399 servers for government offices,1736646,3
+C0945,2024-07-04,Social Welfare,BuildCo Infrastructure,9586586,Medical Supplies,Purchase of 157 servers for government offices,9570355,5
+C0946,2024-03-07,Urban Development,PrimeVendor Corporation,8361063,Medical Supplies,Purchase of 148 furniture for government offices,8580565,4
+C0947,2024-02-08,PWD,ABC Technologies Pvt Ltd,9028693,Construction,Purchase of 323 furniture for government offices,9428624,4
+C0948,2024-04-08,Urban Development,Urban Builders,2134951,Medical Supplies,Purchase of 227 medicines for government offices,2238957,7
+C0949,2024-08-11,IT Department,Digital Solutions Inc,11400000,Construction,Urgent procurement of vehicles for department,7836710,1
+C0950,2024-05-28,Health,Medicare Corporation,15900000,Infrastructure,Critical procurement of furniture for department,11006932,1
+C0951,2024-09-17,Transport,TechCorp Services,4601273,IT Equipment,Purchase of 51 desks for government offices,4533607,4
+C0952,2024-09-19,Health,Medicare Corporation,8776503,Office Supplies,Purchase of 412 medicines for government offices,9310305,5
+C0953,2024-01-24,Education,Urban Builders,1623454,Office Supplies,Purchase of 118 medicines for government offices,1573545,5
+C0954,2024-04-17,IT Department,Digital Solutions Inc,497296,Construction,Purchase of 216 laptops for government offices,513333,5
+C0955,2024-07-28,Transport,Digital Solutions Inc,1794781,Services,Purchase of 471 medicines for government offices,1718402,3
+C0956,2024-03-31,Social Welfare,Urban Builders,480608,Services,Purchase of 104 furniture for government offices,517729,7
+C0957,2024-11-16,Social Welfare,Medicare Corporation,8618477,Infrastructure,Purchase of 187 desks for government offices,8682977,5
+C0958,2024-04-28,Urban Development,Medicare Corporation,4552960,Construction,Purchase of 303 desks for government offices,4859291,3
+C0959,2024-04-06,Transport,BuildCo Infrastructure,994269,Construction,Purchase of 140 vehicles for government offices,947276,4
+C0960,2024-02-06,PWD,Digital Solutions Inc,5363696,IT Equipment,Purchase of 420 servers for government offices,5772142,3
+C0961,2024-11-04,Health,DataSystems India,7600000,Construction,Urgent procurement of equipment for department,4960439,1
+C0962,2024-11-17,Health,QuickOffice Supplies,543642,Construction,Purchase of 486 furniture for government offices,523975,5
+C0963,2024-09-02,Education,HealthFirst Products,5223197,Services,Purchase of 129 desks for government offices,5170756,6
+C0964,2024-11-17,Social Welfare,Medicare Corporation,523738,IT Equipment,Purchase of 102 servers for government offices,504551,5
+C0965,2024-04-24,Health,EduSupply Solutions,10300000,Construction,Urgent procurement of furniture for department,5257455,1
+C0966,2024-02-26,Education,TechCorp Services,1814384,Construction,Purchase of 234 laptops for government offices,1868889,3
+C0967,2024-04-01,IT Department,TechCorp Services,1959766,Services,Purchase of 391 furniture for government offices,2034876,4
+C0968,2024-06-27,Health,GreenTech Industries,2149740,IT Equipment,Purchase of 465 furniture for government offices,2227184,5
+C0969,2024-03-17,Health,TechCorp Services,896076,Furniture,Purchase of 467 laptops for government offices,896773,6
+C0970,2024-05-22,Urban Development,Auto Parts Ltd,2196863,Infrastructure,Purchase of 230 medicines for government offices,2138961,6
+C0971,2024-12-21,Urban Development,HealthFirst Products,10380504,Maintenance,Purchase of 246 vehicles for government offices,10311478,4
+C0972,2024-09-09,Transport,Digital Solutions Inc,915388,Medical Supplies,Purchase of 319 servers for government offices,938753,6
+C0973,2024-04-30,Health,ABC Technologies Pvt Ltd,1098171,Vehicles,Purchase of 292 desks for government offices,1045711,7
+C0974,2024-07-03,Transport,SmartCity Developers,888409,Office Supplies,Purchase of 265 desks for government offices,860635,7
+C0975,2024-01-29,Social Welfare,PharmaCo Enterprises,544307,IT Equipment,Purchase of 425 laptops for government offices,566903,6
+C0976,2024-12-25,Agriculture,Medicare Corporation,16100000,Medical Supplies,Emergency procurement of equipment for department,10489089,1
+C0977,2024-05-05,IT Department,EduSupply Solutions,27400000,Furniture,Critical procurement of equipment for department,14418244,1
+C0978,2024-06-21,PWD,ABC Technologies Pvt Ltd,443015,Furniture,Purchase of 359 desks for government offices,429842,3
+C0979,2024-08-04,Transport,Auto Parts Ltd,4831233,Construction,Purchase of 306 medicines for government offices,5110658,7
+C0980,2024-05-19,Education,QuickOffice Supplies,9132680,Furniture,Purchase of 255 servers for government offices,9805205,4
+C0981,2024-04-04,Social Welfare,SmartCity Developers,9815250,Furniture,Purchase of 294 medicines for government offices,9423005,6
+C0982,2024-03-25,Agriculture,TechCorp Services,4900000,Vehicles,Emergency procurement of laptops for department,2264563,1
+C0983,2024-01-15,Transport,HealthFirst Products,962470,Office Supplies,Purchase of 55 medicines for government offices,922519,7
+C0984,2024-11-22,Urban Development,ABC Technologies Pvt Ltd,880750,IT Equipment,Purchase of 72 servers for government offices,948537,7
+C0985,2024-06-10,Transport,PharmaCo Enterprises,3000000,Furniture,Critical procurement of vehicles for department,1533880,1
+C0986,2024-07-01,PWD,ABC Technologies Pvt Ltd,449697,Furniture,Purchase of 101 servers for government offices,479622,7
+C0987,2024-09-01,Health,Digital Solutions Inc,443517,Office Supplies,Purchase of 90 furniture for government offices,430078,6
+C0988,2024-04-20,Agriculture,EduSupply Solutions,1030647,Construction,Purchase of 314 furniture for government offices,1000692,7
+C0989,2024-06-22,Health,Medicare Corporation,10567857,Infrastructure,Purchase of 172 desks for government offices,10631445,6
+C0990,2024-02-19,Urban Development,PharmaCo Enterprises,1029895,Construction,Purchase of 305 laptops for government offices,1019843,3
+C0991,2024-05-31,Urban Development,DataSystems India,1945906,Infrastructure,Purchase of 141 furniture for government offices,1938001,3
+C0992,2024-05-11,Education,PharmaCo Enterprises,4975438,Services,Purchase of 341 vehicles for government offices,4817508,3
+C0993,2024-07-24,Agriculture,PharmaCo Enterprises,10751420,Medical Supplies,Purchase of 312 servers for government offices,10394128,5
+C0994,2024-12-15,Education,Digital Solutions Inc,4394241,Office Supplies,Purchase of 367 furniture for government offices,4674680,3
+C0995,2024-12-24,Social Welfare,SmartCity Developers,423184,Medical Supplies,Purchase of 131 servers for government offices,407817,6
+C0996,2024-04-24,Urban Development,BuildCo Infrastructure,5003725,Medical Supplies,Purchase of 378 servers for government offices,4980517,6
+C0997,2024-04-02,Agriculture,TechCorp Services,5152324,Infrastructure,Purchase of 83 medicines for government offices,5028313,5
+C0998,2024-04-18,PWD,Urban Builders,4171489,Office Supplies,Purchase of 129 vehicles for government offices,4209429,7
+C0999,2024-06-12,Urban Development,QuickOffice Supplies,10322616,IT Equipment,Purchase of 454 vehicles for government offices,9890222,5
+C1000,2024-04-18,IT Department,Auto Parts Ltd,4404772,Medical Supplies,Purchase of 122 laptops for government offices,4548540,3
+C1001,2024-06-01,Health,PrimeVendor Corporation,5306933,Furniture,Purchase of 144 laptops for government offices,5403631,5
+C1002,2024-06-24,PWD,Digital Solutions Inc,1698719,Furniture,Purchase of 296 vehicles for government offices,1690914,6
+C1003,2024-06-30,PWD,PharmaCo Enterprises,9167413,Vehicles,Purchase of 151 laptops for government offices,8720878,7
+C1004,2024-01-08,Social Welfare,DataSystems India,5400729,Maintenance,Purchase of 108 furniture for government offices,5481350,5
+C1005,2024-01-02,Transport,Digital Solutions Inc,990287,Office Supplies,Purchase of 99 laptops for government offices,1023025,7
+C1006,2024-08-03,Education,PharmaCo Enterprises,980283,Vehicles,Purchase of 147 furniture for government offices,958812,4
+C1007,2024-01-09,Social Welfare,Auto Parts Ltd,1901251,Vehicles,Purchase of 382 vehicles for government offices,2020665,6
+C1008,2024-06-29,Social Welfare,PharmaCo Enterprises,4784754,Construction,Purchase of 140 vehicles for government offices,5021410,3
+C1009,2024-10-10,Health,BuildCo Infrastructure,9307628,Medical Supplies,Purchase of 374 medicines for government offices,9187128,6
+C1010,2024-02-15,Urban Development,HealthFirst Products,10797490,IT Equipment,Purchase of 328 laptops for government offices,10403141,7
+C1011,2024-12-07,Transport,SmartCity Developers,4317806,Infrastructure,Purchase of 245 laptops for government offices,4537990,7
+C1012,2024-03-04,Transport,HealthFirst Products,4619402,Services,Purchase of 53 medicines for government offices,4881111,6
+C1013,2024-05-17,Education,PrimeVendor Corporation,1784438,Furniture,Purchase of 394 desks for government offices,1904615,6
+C1014,2024-01-17,Social Welfare,QuickOffice Supplies,2600000,Maintenance,Immediate procurement of equipment for department,1751738,1
+C1015,2024-07-19,Social Welfare,Digital Solutions Inc,5242824,Construction,Purchase of 269 desks for government offices,5526844,7
+C1016,2024-07-25,Social Welfare,SmartCity Developers,8475330,Services,Purchase of 308 laptops for government offices,8306044,4
+C1017,2024-10-10,PWD,ABC Technologies Pvt Ltd,1722257,Maintenance,Purchase of 55 furniture for government offices,1657025,6
+C1018,2024-02-10,Agriculture,Medicare Corporation,511350,Office Supplies,Purchase of 374 furniture for government offices,494460,6
+C1019,2024-11-30,Education,DataSystems India,1716297,Medical Supplies,Purchase of 444 medicines for government offices,1818003,6
+C1020,2024-03-14,PWD,DataSystems India,10600817,Services,Purchase of 112 laptops for government offices,10223651,7
+C1021,2024-04-02,Urban Development,GreenTech Industries,13800000,IT Equipment,Critical procurement of laptops for department,9322023,1
+C1022,2024-07-30,PWD,DataSystems India,900000,IT Equipment,Critical procurement of equipment for department,477435,1
+C1023,2024-04-01,Education,Medicare Corporation,10564426,Maintenance,Purchase of 227 vehicles for government offices,10197174,5
+C1024,2024-05-10,Transport,SmartCity Developers,981833,Vehicles,Purchase of 312 desks for government offices,1001149,7
+C1025,2024-02-28,Urban Development,QuickOffice Supplies,449130,Medical Supplies,Purchase of 187 medicines for government offices,439504,4
+C1026,2024-06-27,Transport,DataSystems India,1880226,Construction,Purchase of 312 vehicles for government offices,1983960,6
+C1027,2024-04-11,Transport,Digital Solutions Inc,2177122,Infrastructure,Purchase of 209 desks for government offices,2097387,7
+C1028,2024-08-09,Social Welfare,Auto Parts Ltd,4894494,Office Supplies,Purchase of 368 laptops for government offices,4822631,5
+C1029,2024-10-17,Social Welfare,DataSystems India,467410,Maintenance,Purchase of 179 servers for government offices,498085,7
+C1030,2024-06-29,Health,QuickOffice Supplies,426985,Vehicles,Purchase of 233 desks for government offices,423547,4
+C1031,2024-07-09,Transport,EduSupply Solutions,1673382,Vehicles,Purchase of 417 medicines for government offices,1659018,3
+C1032,2024-04-29,IT Department,Digital Solutions Inc,4425421,Medical Supplies,Purchase of 102 servers for government offices,4326215,4
+C1033,2024-10-20,Education,GreenTech Industries,5023197,Infrastructure,Purchase of 151 desks for government offices,5056233,5
+C1034,2024-09-12,Social Welfare,QuickOffice Supplies,4200000,IT Equipment,Immediate procurement of vehicles for department,1864212,1
+C1035,2024-05-25,Education,PrimeVendor Corporation,29800000,Maintenance,Urgent procurement of furniture for department,20083102,1
+C1036,2024-09-27,Agriculture,GreenTech Industries,800000,Vehicles,Immediate procurement of supplies for department,343724,2
+C1037,2024-07-23,Health,SmartCity Developers,4400000,Vehicles,Critical procurement of furniture for department,1855868,1
+C1038,2024-11-12,Transport,Medicare Corporation,1500000,Medical Supplies,Immediate procurement of furniture for department,633602,1
+C1039,2024-04-07,IT Department,PrimeVendor Corporation,2089688,IT Equipment,Purchase of 402 laptops for government offices,2131236,3
+C1040,2024-02-26,PWD,TechCorp Services,3200000,Infrastructure,Immediate procurement of equipment for department,1608688,2
+C1041,2024-03-02,Health,HealthFirst Products,1025910,Maintenance,Purchase of 376 vehicles for government offices,1093018,6
+C1042,2024-05-03,IT Department,GreenTech Industries,5464524,Services,Purchase of 165 laptops for government offices,5419979,6
+C1043,2024-12-30,Urban Development,ABC Technologies Pvt Ltd,27500000,Office Supplies,Emergency procurement of laptops for department,13015265,1
+C1044,2024-01-07,Agriculture,GreenTech Industries,5227767,Services,Purchase of 224 desks for government offices,5094089,3
+C1045,2024-12-28,Social Welfare,EduSupply Solutions,1054342,Maintenance,Purchase of 162 medicines for government offices,1016107,4
+C1046,2024-04-13,Health,Medicare Corporation,820591,Infrastructure,Purchase of 495 servers for government offices,824695,5
+C1047,2024-02-24,Urban Development,PharmaCo Enterprises,804976,Services,Purchase of 64 vehicles for government offices,812953,5
+C1048,2024-03-01,Agriculture,ABC Technologies Pvt Ltd,453164,Infrastructure,Purchase of 307 vehicles for government offices,442998,6
+C1049,2024-05-19,Transport,Auto Parts Ltd,497293,Construction,Purchase of 149 medicines for government offices,519750,6
+C1050,2024-10-31,Health,QuickOffice Supplies,9480848,Medical Supplies,Purchase of 380 desks for government offices,9541179,3
+C1051,2024-01-28,Social Welfare,Auto Parts Ltd,8798534,Furniture,Purchase of 191 desks for government offices,8433924,3
+C1052,2024-02-21,IT Department,Digital Solutions Inc,1897102,Services,Purchase of 227 furniture for government offices,1844426,4
+C1053,2024-01-02,Agriculture,Urban Builders,28600000,Medical Supplies,Urgent procurement of equipment for department,16787593,1
+C1054,2024-03-26,Education,Medicare Corporation,4212750,Services,Purchase of 269 medicines for government offices,4009086,6
+C1055,2024-02-09,Transport,EduSupply Solutions,489100,Medical Supplies,Purchase of 50 vehicles for government offices,526291,7
+C1056,2024-01-24,PWD,GreenTech Industries,10040138,Construction,Purchase of 318 servers for government offices,9917503,4
+C1057,2024-02-18,Agriculture,EduSupply Solutions,4300000,IT Equipment,Critical procurement of supplies for department,2703803,1
+C1058,2024-06-29,IT Department,Urban Builders,2134823,Maintenance,Purchase of 297 laptops for government offices,2243033,7
+C1059,2024-11-23,Education,QuickOffice Supplies,13900000,Furniture,Immediate procurement of furniture for department,8322706,1
+C1060,2024-07-03,Urban Development,PrimeVendor Corporation,429076,Maintenance,Purchase of 190 furniture for government offices,460881,3
+C1061,2024-03-30,Transport,ABC Technologies Pvt Ltd,2132796,Maintenance,Purchase of 191 medicines for government offices,2134573,6
+C1062,2024-12-25,IT Department,BuildCo Infrastructure,8368883,IT Equipment,Purchase of 455 medicines for government offices,8815725,7
+C1063,2024-09-12,PWD,DataSystems India,939895,Infrastructure,Purchase of 369 servers for government offices,911256,5
+C1064,2024-05-27,Urban Development,DataSystems India,3000000,IT Equipment,Emergency procurement of laptops for department,1256143,1
+C1065,2024-08-08,PWD,BuildCo Infrastructure,407485,Services,Purchase of 452 servers for government offices,394406,5
+C1066,2024-03-14,Urban Development,PrimeVendor Corporation,929615,Vehicles,Purchase of 162 laptops for government offices,994105,5
+C1067,2024-05-07,IT Department,Medicare Corporation,4633844,Furniture,Purchase of 183 medicines for government offices,4984616,3
+C1068,2024-12-13,Transport,DataSystems India,8417529,Services,Purchase of 119 vehicles for government offices,8836686,5
+C1069,2024-02-13,Urban Development,Digital Solutions Inc,4818746,Vehicles,Purchase of 99 desks for government offices,4813327,6
+C1070,2024-09-14,Education,PrimeVendor Corporation,1881027,Maintenance,Purchase of 260 vehicles for government offices,1891555,6
+C1071,2024-01-14,Agriculture,Medicare Corporation,4132643,Maintenance,Purchase of 452 desks for government offices,4001539,5
+C1072,2024-10-16,Urban Development,GreenTech Industries,513300,Maintenance,Purchase of 393 laptops for government offices,513836,6
+C1073,2024-08-23,Health,SmartCity Developers,408203,Services,Purchase of 220 servers for government offices,431832,3
+C1074,2024-10-16,Education,Digital Solutions Inc,2118588,Office Supplies,Purchase of 395 servers for government offices,2046105,7
+C1075,2024-09-21,IT Department,Digital Solutions Inc,4204604,IT Equipment,Purchase of 204 furniture for government offices,4483608,4
+C1076,2024-09-05,Health,QuickOffice Supplies,834412,Office Supplies,Purchase of 500 laptops for government offices,792695,7
+C1077,2024-02-23,Urban Development,Medicare Corporation,9331447,Office Supplies,Purchase of 203 vehicles for government offices,8932386,3
+C1078,2024-10-06,PWD,Urban Builders,10043961,IT Equipment,Purchase of 113 vehicles for government offices,10663781,7
+C1079,2024-04-04,Urban Development,DataSystems India,851232,Services,Purchase of 152 vehicles for government offices,890743,7
+C1080,2024-12-07,Urban Development,Auto Parts Ltd,22300000,Furniture,Critical procurement of laptops for department,13443617,2
+C1081,2024-03-16,Urban Development,ABC Technologies Pvt Ltd,8400000,Vehicles,Emergency procurement of vehicles for department,4341852,1
+C1082,2024-03-12,Transport,PharmaCo Enterprises,4415356,Maintenance,Purchase of 306 servers for government offices,4758111,5
+C1083,2024-07-18,PWD,DataSystems India,996775,Services,Purchase of 223 vehicles for government offices,992531,7
+C1084,2024-07-20,Agriculture,TechCorp Services,10300000,Vehicles,Immediate procurement of equipment for department,5590667,1
+C1085,2024-10-26,Health,EduSupply Solutions,4101354,Infrastructure,Purchase of 168 laptops for government offices,3912026,4
+C1086,2024-06-14,Health,ABC Technologies Pvt Ltd,831629,Services,Purchase of 436 vehicles for government offices,885267,6
+C1087,2024-02-28,Health,Digital Solutions Inc,1000000,Infrastructure,Urgent procurement of supplies for department,553867,1
+C1088,2024-07-12,IT Department,QuickOffice Supplies,9669404,Office Supplies,Purchase of 274 furniture for government offices,9431955,6
+C1089,2024-03-23,Health,QuickOffice Supplies,10426016,IT Equipment,Purchase of 62 furniture for government offices,10165349,7
+C1090,2024-03-12,Urban Development,QuickOffice Supplies,2064631,Office Supplies,Purchase of 224 desks for government offices,2113930,3
+C1091,2024-10-19,Health,EduSupply Solutions,9056318,Furniture,Purchase of 486 desks for government offices,9331650,7
+C1092,2024-11-16,Health,EduSupply Solutions,485372,Office Supplies,Purchase of 202 laptops for government offices,469129,7
+C1093,2024-01-27,Social Welfare,Digital Solutions Inc,1613525,Vehicles,Purchase of 474 medicines for government offices,1705129,5
+C1094,2024-02-04,IT Department,Auto Parts Ltd,1090434,IT Equipment,Purchase of 173 servers for government offices,1046512,7
+C1095,2024-10-06,Education,PharmaCo Enterprises,487415,Furniture,Purchase of 384 laptops for government offices,522411,5
+C1096,2024-05-13,Education,QuickOffice Supplies,420893,Infrastructure,Purchase of 437 furniture for government offices,429782,5
+C1097,2024-02-07,Social Welfare,TechCorp Services,10712971,Medical Supplies,Purchase of 227 laptops for government offices,11156507,3
+C1098,2024-10-09,Transport,Urban Builders,881152,Vehicles,Purchase of 304 servers for government offices,841875,3
+C1099,2024-08-08,Social Welfare,Urban Builders,806432,IT Equipment,Purchase of 323 servers for government offices,771913,4
+C1100,2024-10-09,PWD,BuildCo Infrastructure,5148522,Infrastructure,Purchase of 409 vehicles for government offices,5356559,6
+C1101,2024-03-01,Health,TechCorp Services,1811073,IT Equipment,Purchase of 171 desks for government offices,1801304,3
+C1102,2024-04-26,Transport,SmartCity Developers,9704145,IT Equipment,Purchase of 497 furniture for government offices,10469045,3
+C1103,2024-02-09,PWD,TechCorp Services,8800000,Furniture,Urgent procurement of supplies for department,3657913,1
+C1104,2024-09-02,Agriculture,PrimeVendor Corporation,411456,Office Supplies,Purchase of 303 furniture for government offices,441075,4
+C1105,2024-08-15,Agriculture,Digital Solutions Inc,2068125,Maintenance,Purchase of 319 medicines for government offices,2043408,4
+C1106,2024-09-14,Transport,PrimeVendor Corporation,5700000,Construction,Immediate procurement of laptops for department,3487188,2
+C1107,2024-09-23,Urban Development,Urban Builders,8632308,Infrastructure,Purchase of 68 desks for government offices,8618588,4
+C1108,2024-02-28,IT Department,SmartCity Developers,900000,Furniture,Emergency procurement of laptops for department,549218,1
+C1109,2024-09-10,Social Welfare,HealthFirst Products,10300000,IT Equipment,Critical procurement of equipment for department,4292365,1
+C1110,2024-12-04,IT Department,GreenTech Industries,10288988,Office Supplies,Purchase of 436 medicines for government offices,11028139,7
+C1111,2024-01-15,Social Welfare,Digital Solutions Inc,9302228,Services,Purchase of 463 laptops for government offices,9354147,3
+C1112,2024-09-30,Urban Development,Digital Solutions Inc,10157660,Office Supplies,Purchase of 133 vehicles for government offices,10665254,5
+C1113,2024-03-08,IT Department,PharmaCo Enterprises,2079753,Furniture,Purchase of 177 servers for government offices,2232876,3
+C1114,2024-01-20,IT Department,TechCorp Services,1761248,Vehicles,Purchase of 56 laptops for government offices,1730543,7
+C1115,2024-05-15,Urban Development,Urban Builders,4694086,Maintenance,Purchase of 68 medicines for government offices,4727828,6
+C1116,2024-04-21,Health,EduSupply Solutions,10816502,Construction,Purchase of 332 medicines for government offices,10664399,7
+C1117,2024-05-12,PWD,SmartCity Developers,1755724,IT Equipment,Purchase of 372 desks for government offices,1780902,4
+C1118,2024-04-29,Transport,ABC Technologies Pvt Ltd,800000,Services,Immediate procurement of laptops for department,490295,2
+C1119,2024-05-11,Health,HealthFirst Products,4600000,Infrastructure,Immediate procurement of laptops for department,1910547,1
+C1120,2024-02-27,Social Welfare,PrimeVendor Corporation,861212,Services,Purchase of 86 furniture for government offices,882008,6
+C1121,2024-03-14,IT Department,TechCorp Services,26800000,IT Equipment,Immediate procurement of furniture for department,13424529,2
+C1122,2024-03-23,Transport,GreenTech Industries,2158185,Vehicles,Purchase of 104 servers for government offices,2306114,3
+C1123,2024-09-18,Education,Urban Builders,10350401,Construction,Purchase of 243 servers for government offices,10792044,4
+C1124,2024-07-14,Social Welfare,HealthFirst Products,543276,Medical Supplies,Purchase of 339 servers for government offices,583815,4
+C1125,2024-09-27,Transport,SmartCity Developers,9416987,Services,Purchase of 212 medicines for government offices,9588171,6
+C1126,2024-05-04,Urban Development,Digital Solutions Inc,1738534,Furniture,Purchase of 404 desks for government offices,1722758,3
+C1127,2024-07-04,Social Welfare,QuickOffice Supplies,22500000,Construction,Urgent procurement of furniture for department,15230877,2
+C1128,2024-10-02,Agriculture,PharmaCo Enterprises,5011157,Medical Supplies,Purchase of 183 medicines for government offices,5194401,7
+C1129,2024-02-11,Education,Medicare Corporation,10949743,Medical Supplies,Purchase of 142 vehicles for government offices,11222189,4
+C1130,2024-08-02,Social Welfare,ABC Technologies Pvt Ltd,10134145,Construction,Purchase of 114 laptops for government offices,10246449,3
+C1131,2024-02-07,Transport,Digital Solutions Inc,10755869,Services,Purchase of 115 vehicles for government offices,11482469,5
+C1132,2024-03-01,Agriculture,EduSupply Solutions,1954886,Furniture,Purchase of 87 furniture for government offices,2013848,3
+C1133,2024-11-18,Health,Medicare Corporation,4433936,IT Equipment,Purchase of 425 desks for government offices,4487248,4
+C1134,2024-10-30,IT Department,GreenTech Industries,4569061,Medical Supplies,Purchase of 419 servers for government offices,4601118,7
+C1135,2024-04-28,Social Welfare,DataSystems India,1628972,Vehicles,Purchase of 346 servers for government offices,1657150,7
+C1136,2024-07-15,IT Department,TechCorp Services,1086054,Vehicles,Purchase of 270 servers for government offices,1037671,4
+C1137,2024-02-20,IT Department,PrimeVendor Corporation,835565,Services,Purchase of 164 desks for government offices,823533,6
+C1138,2024-11-06,PWD,ABC Technologies Pvt Ltd,999930,IT Equipment,Purchase of 332 servers for government offices,968262,4
+C1139,2024-10-03,IT Department,TechCorp Services,801999,Furniture,Purchase of 239 desks for government offices,848695,3
+C1140,2024-08-15,Urban Development,DataSystems India,4442412,Medical Supplies,Purchase of 277 vehicles for government offices,4283595,3
+C1141,2024-03-11,Agriculture,Medicare Corporation,545265,Maintenance,Purchase of 422 laptops for government offices,574967,4
+C1142,2024-06-20,Health,PrimeVendor Corporation,10016244,Maintenance,Purchase of 69 vehicles for government offices,9611903,5
+C1143,2024-06-11,Education,QuickOffice Supplies,9983391,Construction,Purchase of 374 furniture for government offices,10623172,3
+C1144,2024-10-27,Urban Development,DataSystems India,1002004,Construction,Purchase of 298 desks for government offices,986460,4
+C1145,2024-04-11,Health,EduSupply Solutions,542624,Maintenance,Purchase of 51 vehicles for government offices,575957,4
+C1146,2024-11-08,Transport,Urban Builders,811643,Vehicles,Purchase of 244 furniture for government offices,843652,7
+C1147,2024-09-04,Urban Development,GreenTech Industries,1063366,Furniture,Purchase of 392 vehicles for government offices,1126412,5
+C1148,2024-11-02,Agriculture,QuickOffice Supplies,4443125,Furniture,Purchase of 264 vehicles for government offices,4347424,5
+C1149,2024-02-29,Urban Development,SmartCity Developers,1996367,Infrastructure,Purchase of 410 desks for government offices,1986754,6
+C1150,2024-11-03,Education,HealthFirst Products,808688,Vehicles,Purchase of 485 vehicles for government offices,796420,4
+C1151,2024-05-13,IT Department,EduSupply Solutions,4587067,Office Supplies,Purchase of 183 laptops for government offices,4621257,6
+C1152,2024-06-22,Transport,GreenTech Industries,446276,Medical Supplies,Purchase of 498 desks for government offices,447737,7
+C1153,2024-11-10,Health,GreenTech Industries,981488,Vehicles,Purchase of 460 vehicles for government offices,934955,3
+C1154,2024-06-29,Transport,Medicare Corporation,8190394,Maintenance,Purchase of 235 servers for government offices,7833276,4
+C1155,2024-07-21,Transport,HealthFirst Products,887056,Office Supplies,Purchase of 219 vehicles for government offices,861315,5
+C1156,2024-01-07,PWD,DataSystems India,1300000,Services,Critical procurement of laptops for department,734474,2
+C1157,2024-01-13,PWD,SmartCity Developers,810133,Services,Purchase of 385 vehicles for government offices,848605,6
+C1158,2024-02-13,PWD,BuildCo Infrastructure,25800000,Furniture,Emergency procurement of laptops for department,16240793,2
+C1159,2024-04-09,Urban Development,QuickOffice Supplies,2070863,Medical Supplies,Purchase of 204 medicines for government offices,2081776,3
+C1160,2024-05-15,IT Department,EduSupply Solutions,9414201,Services,Purchase of 163 vehicles for government offices,9299922,3
+C1161,2024-12-25,Health,EduSupply Solutions,914722,Office Supplies,Purchase of 240 servers for government offices,987085,6
+C1162,2024-10-22,IT Department,PharmaCo Enterprises,5156808,Construction,Purchase of 338 laptops for government offices,5198686,6
+C1163,2024-11-18,Health,Medicare Corporation,484132,Furniture,Purchase of 353 desks for government offices,472996,6
+C1164,2024-11-11,IT Department,Auto Parts Ltd,10169097,Services,Purchase of 80 vehicles for government offices,10409729,4
+C1165,2024-06-21,IT Department,Digital Solutions Inc,448216,Office Supplies,Purchase of 496 laptops for government offices,458744,6
+C1166,2024-10-14,Urban Development,HealthFirst Products,9499446,Maintenance,Purchase of 214 vehicles for government offices,10209356,4
+C1167,2024-02-11,Health,Medicare Corporation,5048883,Office Supplies,Purchase of 132 servers for government offices,5043022,3
+C1168,2024-08-12,Urban Development,Medicare Corporation,405859,Maintenance,Purchase of 370 servers for government offices,407946,4
+C1169,2024-08-02,Agriculture,TechCorp Services,1670549,Construction,Purchase of 317 medicines for government offices,1803268,5
+C1170,2024-03-13,IT Department,EduSupply Solutions,1040844,Infrastructure,Purchase of 315 servers for government offices,1117616,5
+C1171,2024-04-17,Social Welfare,Medicare Corporation,849271,Construction,Purchase of 55 medicines for government offices,885756,6
+C1172,2024-08-28,Health,ABC Technologies Pvt Ltd,900000,Infrastructure,Critical procurement of supplies for department,448946,1
+C1173,2024-10-31,Transport,DataSystems India,1981806,Services,Purchase of 371 laptops for government offices,2110295,5
+C1174,2024-08-06,Transport,BuildCo Infrastructure,1820364,Construction,Purchase of 337 servers for government offices,1910851,5
+C1175,2024-02-22,Social Welfare,PharmaCo Enterprises,1706995,Services,Purchase of 458 servers for government offices,1746726,4
+C1176,2024-11-11,PWD,Medicare Corporation,4313960,Construction,Purchase of 160 laptops for government offices,4099759,4
+C1177,2024-08-31,Social Welfare,Urban Builders,1646672,Infrastructure,Purchase of 311 vehicles for government offices,1771949,4
+C1178,2024-06-16,Agriculture,DataSystems India,436115,Maintenance,Purchase of 411 vehicles for government offices,436604,6
+C1179,2024-06-11,Social Welfare,HealthFirst Products,10526573,Infrastructure,Purchase of 414 desks for government offices,11307611,5
+C1180,2024-09-07,PWD,ABC Technologies Pvt Ltd,2011220,Vehicles,Purchase of 383 medicines for government offices,2056528,6
+C1181,2024-08-26,Social Welfare,PharmaCo Enterprises,2037094,Construction,Purchase of 498 desks for government offices,1991852,7
+C1182,2024-01-06,Agriculture,PrimeVendor Corporation,1915601,Services,Purchase of 218 laptops for government offices,1821219,5
+C1183,2024-09-14,IT Department,DataSystems India,8819083,IT Equipment,Purchase of 253 laptops for government offices,9120151,6
+C1184,2024-10-19,Health,ABC Technologies Pvt Ltd,5495847,Vehicles,Purchase of 138 vehicles for government offices,5672764,6
+C1185,2024-01-15,Health,ABC Technologies Pvt Ltd,1011691,Infrastructure,Purchase of 92 vehicles for government offices,984373,4
+C1186,2024-11-22,Education,PharmaCo Enterprises,1658485,Vehicles,Purchase of 385 servers for government offices,1692866,4
+C1187,2024-12-29,Social Welfare,SmartCity Developers,10166406,IT Equipment,Purchase of 390 vehicles for government offices,10142142,3
+C1188,2024-02-03,IT Department,TechCorp Services,8442541,Office Supplies,Purchase of 277 laptops for government offices,8313054,4
+C1189,2024-12-18,Agriculture,BuildCo Infrastructure,990589,Vehicles,Purchase of 209 medicines for government offices,1049505,3
+C1190,2024-08-26,Health,Medicare Corporation,484928,Vehicles,Purchase of 96 desks for government offices,489869,3
+C1191,2024-10-29,Urban Development,BuildCo Infrastructure,515008,Office Supplies,Purchase of 376 medicines for government offices,542064,4
+C1192,2024-06-06,IT Department,Medicare Corporation,1024222,Services,Purchase of 77 vehicles for government offices,1071289,5
+C1193,2024-03-12,IT Department,Digital Solutions Inc,4338940,Infrastructure,Purchase of 140 medicines for government offices,4228175,4
+C1194,2024-05-15,Social Welfare,Medicare Corporation,4700000,Maintenance,Urgent procurement of laptops for department,2390103,2
+C1195,2024-10-18,IT Department,BuildCo Infrastructure,4520382,Maintenance,Purchase of 156 medicines for government offices,4770892,5
+C1196,2024-04-17,PWD,EduSupply Solutions,4391268,Construction,Purchase of 387 furniture for government offices,4697995,7
+C1197,2024-08-27,Health,Urban Builders,1938261,Vehicles,Purchase of 215 furniture for government offices,2007223,3
+C1198,2024-01-05,IT Department,Medicare Corporation,4502068,Infrastructure,Purchase of 145 medicines for government offices,4656149,3
+C1199,2024-10-06,Social Welfare,Digital Solutions Inc,465851,Furniture,Purchase of 344 furniture for government offices,479900,7
+C1200,2024-08-30,IT Department,ABC Technologies Pvt Ltd,2034023,Office Supplies,Purchase of 397 vehicles for government offices,2091224,6
+C1201,2024-09-16,PWD,PrimeVendor Corporation,13300000,Services,Emergency procurement of equipment for department,9130191,2
+C1202,2024-11-01,Agriculture,GreenTech Industries,8595386,IT Equipment,Purchase of 116 furniture for government offices,9252207,4
+C1203,2024-02-16,PWD,QuickOffice Supplies,1040446,Construction,Purchase of 285 laptops for government offices,1050468,4
+C1204,2024-06-03,PWD,Urban Builders,870855,Maintenance,Purchase of 420 desks for government offices,850330,3
+C1205,2024-07-10,Social Welfare,SmartCity Developers,2000000,Infrastructure,Urgent procurement of furniture for department,1091717,2
+C1206,2024-12-27,IT Department,SmartCity Developers,458136,Furniture,Purchase of 254 medicines for government offices,454189,4
+C1207,2024-11-01,PWD,GreenTech Industries,452030,Office Supplies,Purchase of 63 desks for government offices,468793,7
+C1208,2024-07-07,Transport,Medicare Corporation,10469714,Infrastructure,Purchase of 89 furniture for government offices,10777247,6
+C1209,2024-04-06,IT Department,DataSystems India,4300000,Furniture,Critical procurement of equipment for department,2161178,1
+C1210,2024-12-11,Health,EduSupply Solutions,439152,Medical Supplies,Purchase of 133 vehicles for government offices,471716,4
+C1211,2024-06-26,PWD,TechCorp Services,498380,Maintenance,Purchase of 132 medicines for government offices,499666,3
+C1212,2024-07-15,IT Department,Auto Parts Ltd,472920,Services,Purchase of 266 laptops for government offices,508289,6
+C1213,2024-11-20,PWD,Auto Parts Ltd,11200000,Maintenance,Immediate procurement of laptops for department,7145693,1
+C1214,2024-07-15,Urban Development,Auto Parts Ltd,422558,IT Equipment,Purchase of 182 desks for government offices,419948,7
+C1215,2024-08-25,Agriculture,DataSystems India,530184,Furniture,Purchase of 356 furniture for government offices,535397,3
+C1216,2024-06-21,Urban Development,PharmaCo Enterprises,481412,Services,Purchase of 263 laptops for government offices,468526,5
+C1217,2024-11-21,Health,HealthFirst Products,1000000,Medical Supplies,Urgent procurement of equipment for department,418353,2
+C1218,2024-03-05,Transport,PrimeVendor Corporation,4646650,Maintenance,Purchase of 402 servers for government offices,4580251,6
+C1219,2024-10-18,Health,Auto Parts Ltd,448988,Maintenance,Purchase of 420 furniture for government offices,428773,7
+C1220,2024-02-10,Health,SmartCity Developers,1853517,Furniture,Purchase of 419 furniture for government offices,1766234,5
+C1221,2024-02-29,Education,PharmaCo Enterprises,8782927,Infrastructure,Purchase of 326 desks for government offices,8689970,7
+C1222,2024-04-20,Education,TechCorp Services,4412180,Furniture,Purchase of 191 servers for government offices,4586691,4
+C1223,2024-04-02,IT Department,DataSystems India,1603030,Infrastructure,Purchase of 386 desks for government offices,1566044,6
+C1224,2024-11-02,IT Department,Digital Solutions Inc,1658288,Infrastructure,Purchase of 163 laptops for government offices,1623840,5
+C1225,2024-10-28,Agriculture,PharmaCo Enterprises,8986256,Vehicles,Purchase of 56 medicines for government offices,8991424,7
+C1226,2024-08-15,Education,Urban Builders,4315956,Medical Supplies,Purchase of 180 vehicles for government offices,4491633,6
+C1227,2024-11-19,IT Department,GreenTech Industries,1649855,Vehicles,Purchase of 239 medicines for government offices,1727796,7
+C1228,2024-08-19,Social Welfare,Auto Parts Ltd,423385,IT Equipment,Purchase of 230 servers for government offices,434410,7
+C1229,2024-05-25,Health,BuildCo Infrastructure,5484520,Furniture,Purchase of 117 vehicles for government offices,5477867,7
+C1230,2024-04-21,Social Welfare,HealthFirst Products,485611,Furniture,Purchase of 442 furniture for government offices,472606,4
+C1231,2024-06-29,Agriculture,HealthFirst Products,5350688,Maintenance,Purchase of 372 laptops for government offices,5277139,5
+C1232,2024-09-29,Social Welfare,DataSystems India,4742249,IT Equipment,Purchase of 130 desks for government offices,4791135,6
+C1233,2024-09-29,Social Welfare,Auto Parts Ltd,4984285,Furniture,Purchase of 246 servers for government offices,5177853,3
+C1234,2024-04-06,Social Welfare,ABC Technologies Pvt Ltd,8672577,Vehicles,Purchase of 91 servers for government offices,8926352,7
+C1235,2024-11-08,Social Welfare,HealthFirst Products,9876485,Maintenance,Purchase of 61 furniture for government offices,10261343,5
+C1236,2024-04-08,Transport,PharmaCo Enterprises,937330,Construction,Purchase of 139 vehicles for government offices,978570,4
+C1237,2024-05-30,PWD,EduSupply Solutions,900000,Maintenance,Critical procurement of equipment for department,487347,1
+C1238,2024-11-24,Health,ABC Technologies Pvt Ltd,27500000,IT Equipment,Urgent procurement of furniture for department,18239782,1
+C1239,2024-12-15,IT Department,PrimeVendor Corporation,10986603,Maintenance,Purchase of 450 vehicles for government offices,11668672,3
+C1240,2024-03-02,Education,DataSystems India,9941268,Furniture,Purchase of 274 vehicles for government offices,10134548,3
+C1241,2024-01-21,IT Department,GreenTech Industries,9887804,Medical Supplies,Purchase of 103 desks for government offices,9959055,3
+C1242,2024-03-27,Health,PharmaCo Enterprises,1685170,Medical Supplies,Purchase of 157 medicines for government offices,1654161,6
+C1243,2024-08-22,Urban Development,PharmaCo Enterprises,5128753,Infrastructure,Purchase of 201 furniture for government offices,5377022,5
+C1244,2024-12-24,Education,QuickOffice Supplies,1956656,Vehicles,Purchase of 317 medicines for government offices,2052477,4
+C1245,2024-10-15,Urban Development,Digital Solutions Inc,1783997,Infrastructure,Purchase of 374 medicines for government offices,1860813,7
+C1246,2024-12-10,Transport,ABC Technologies Pvt Ltd,843957,Office Supplies,Purchase of 181 furniture for government offices,833832,6
+C1247,2024-10-25,Social Welfare,EduSupply Solutions,8036200,Construction,Purchase of 431 servers for government offices,8014832,7
+C1248,2024-06-25,PWD,SmartCity Developers,10557831,Maintenance,Purchase of 243 vehicles for government offices,10461316,5
+C1249,2024-09-03,Transport,QuickOffice Supplies,4021348,Construction,Purchase of 165 medicines for government offices,4315321,5
+C1250,2024-05-22,Education,SmartCity Developers,497499,Maintenance,Purchase of 341 furniture for government offices,495680,6
+C1251,2024-04-26,Health,DataSystems India,1998546,Maintenance,Purchase of 218 servers for government offices,2002151,3
+C1252,2024-09-30,Transport,QuickOffice Supplies,10617846,Services,Purchase of 278 servers for government offices,11426467,3
+C1253,2024-04-03,IT Department,HealthFirst Products,868501,Services,Purchase of 70 servers for government offices,906071,4
+C1254,2024-02-16,Transport,QuickOffice Supplies,535921,Infrastructure,Purchase of 81 desks for government offices,518359,5
+C1255,2024-08-25,Urban Development,BuildCo Infrastructure,900000,Infrastructure,Critical procurement of laptops for department,583764,1
+C1256,2024-04-11,Urban Development,GreenTech Industries,18200000,Office Supplies,Critical procurement of laptops for department,9953883,1
+C1257,2024-10-28,IT Department,EduSupply Solutions,10266629,Construction,Purchase of 436 vehicles for government offices,11077599,5
+C1258,2024-06-17,Transport,PharmaCo Enterprises,8851267,Services,Purchase of 494 servers for government offices,9151204,5
+C1259,2024-12-13,Agriculture,PrimeVendor Corporation,1975553,Maintenance,Purchase of 299 laptops for government offices,1905403,4
+C1260,2024-08-28,Agriculture,Urban Builders,819667,Maintenance,Purchase of 98 vehicles for government offices,824717,5
+C1261,2024-04-03,Urban Development,BuildCo Infrastructure,514427,Services,Purchase of 206 medicines for government offices,502964,7
+C1262,2024-11-08,PWD,TechCorp Services,897129,Construction,Purchase of 452 desks for government offices,874653,6
+C1263,2024-06-15,Urban Development,PrimeVendor Corporation,4980235,Services,Purchase of 167 medicines for government offices,5241883,5
+C1264,2024-07-08,Social Welfare,TechCorp Services,2036025,Furniture,Purchase of 280 medicines for government offices,2153707,5
+C1265,2024-08-01,Education,SmartCity Developers,7900000,Office Supplies,Critical procurement of supplies for department,4136564,1
+C1266,2024-04-16,Agriculture,HealthFirst Products,1776878,Maintenance,Purchase of 268 vehicles for government offices,1774304,5
+C1267,2024-04-12,PWD,PharmaCo Enterprises,9508830,Infrastructure,Purchase of 88 desks for government offices,10092029,3
+C1268,2024-10-30,Social Welfare,ABC Technologies Pvt Ltd,517184,Medical Supplies,Purchase of 177 medicines for government offices,517550,6
+C1269,2024-01-29,PWD,PrimeVendor Corporation,1922737,Medical Supplies,Purchase of 106 vehicles for government offices,1936111,5
+C1270,2024-06-15,Transport,HealthFirst Products,5236466,Medical Supplies,Purchase of 203 servers for government offices,5569576,7
+C1271,2024-08-12,Education,Medicare Corporation,9639755,Medical Supplies,Purchase of 321 medicines for government offices,9985723,7
+C1272,2024-12-24,PWD,PharmaCo Enterprises,2174320,Infrastructure,Purchase of 432 desks for government offices,2167709,6
+C1273,2024-04-26,Education,Medicare Corporation,1719391,Medical Supplies,Purchase of 180 servers for government offices,1850558,5
+C1274,2024-11-24,Agriculture,ABC Technologies Pvt Ltd,5209097,Furniture,Purchase of 80 servers for government offices,5489099,7
+C1275,2024-01-17,Health,Digital Solutions Inc,2074082,Medical Supplies,Purchase of 220 furniture for government offices,2103038,7
+C1276,2024-10-16,Transport,GreenTech Industries,26700000,Medical Supplies,Critical procurement of vehicles for department,14944353,1
+C1277,2024-12-16,Health,Medicare Corporation,1879429,Vehicles,Purchase of 383 medicines for government offices,2002750,4
+C1278,2024-08-20,Social Welfare,ABC Technologies Pvt Ltd,5334095,IT Equipment,Purchase of 53 servers for government offices,5345779,5
+C1279,2024-04-25,Transport,GreenTech Industries,877655,Vehicles,Purchase of 322 vehicles for government offices,859202,5
+C1280,2024-10-22,Education,GreenTech Industries,861843,Construction,Purchase of 323 servers for government offices,839095,3
+C1281,2024-10-03,Transport,DataSystems India,449119,Construction,Purchase of 386 desks for government offices,445074,4
+C1282,2024-08-05,Urban Development,BuildCo Infrastructure,1080890,Furniture,Purchase of 63 desks for government offices,1057370,5
+C1283,2024-01-14,Social Welfare,TechCorp Services,914124,Medical Supplies,Purchase of 151 desks for government offices,921515,6
+C1284,2024-02-17,Health,EduSupply Solutions,10739849,Vehicles,Purchase of 133 desks for government offices,11214414,3
+C1285,2024-06-11,Health,EduSupply Solutions,1095545,IT Equipment,Purchase of 294 medicines for government offices,1154674,5
+C1286,2024-01-04,Health,Auto Parts Ltd,4600462,Services,Purchase of 234 medicines for government offices,4883271,5
+C1287,2024-04-27,Agriculture,ABC Technologies Pvt Ltd,497564,Construction,Purchase of 58 medicines for government offices,525090,6
+C1288,2024-05-07,Education,TechCorp Services,419192,Office Supplies,Purchase of 440 laptops for government offices,406720,6
+C1289,2024-12-04,PWD,Digital Solutions Inc,9244629,Construction,Purchase of 139 servers for government offices,8971660,4
+C1290,2024-07-05,Agriculture,PrimeVendor Corporation,517983,Services,Purchase of 206 vehicles for government offices,494102,4
+C1291,2024-11-14,Social Welfare,ABC Technologies Pvt Ltd,449737,Maintenance,Purchase of 426 desks for government offices,479215,3
+C1292,2024-07-12,Social Welfare,BuildCo Infrastructure,8509220,Medical Supplies,Purchase of 164 laptops for government offices,8194506,5
+C1293,2024-08-31,Education,DataSystems India,5284210,Infrastructure,Purchase of 488 servers for government offices,5388702,4
+C1294,2024-08-28,Health,EduSupply Solutions,1676919,Infrastructure,Purchase of 364 furniture for government offices,1736162,5
+C1295,2024-10-19,Health,Digital Solutions Inc,954420,Medical Supplies,Purchase of 165 furniture for government offices,1006634,4
+C1296,2024-07-25,IT Department,PharmaCo Enterprises,8315684,Infrastructure,Purchase of 423 furniture for government offices,8144456,4
+C1297,2024-12-08,Agriculture,Urban Builders,9731501,Construction,Purchase of 217 vehicles for government offices,10362742,4
+C1298,2024-10-23,PWD,ABC Technologies Pvt Ltd,512190,Construction,Purchase of 456 desks for government offices,539833,3
+C1299,2024-11-20,Transport,Urban Builders,1700000,Furniture,Critical procurement of supplies for department,865766,2
+C1300,2024-08-19,Agriculture,PharmaCo Enterprises,4931968,Construction,Purchase of 431 medicines for government offices,5035363,3
+C1301,2024-05-10,IT Department,BuildCo Infrastructure,5158011,Vehicles,Purchase of 392 medicines for government offices,5206089,3
+C1302,2024-08-06,Health,HealthFirst Products,8378684,Services,Purchase of 474 laptops for government offices,8207140,6
+C1303,2024-03-05,PWD,Auto Parts Ltd,1871538,Maintenance,Purchase of 493 servers for government offices,1912578,3
+C1304,2024-04-09,PWD,TechCorp Services,1032773,Maintenance,Purchase of 319 servers for government offices,1007808,5
+C1305,2024-09-25,Health,Urban Builders,20400000,Construction,Immediate procurement of equipment for department,9588883,1
+C1306,2024-11-21,Social Welfare,SmartCity Developers,8678772,Office Supplies,Purchase of 326 servers for government offices,9294829,4
+C1307,2024-05-22,Agriculture,Medicare Corporation,9700000,Services,Critical procurement of furniture for department,6517684,2
+C1308,2024-01-01,PWD,Medicare Corporation,25000000,Infrastructure,Emergency procurement of furniture for department,11575747,1
+C1309,2024-03-23,Transport,QuickOffice Supplies,917371,Vehicles,Purchase of 250 servers for government offices,890517,6
+C1310,2024-02-06,Transport,EduSupply Solutions,1684264,Construction,Purchase of 394 desks for government offices,1687947,7
+C1311,2024-12-10,Urban Development,QuickOffice Supplies,1606461,Infrastructure,Purchase of 318 laptops for government offices,1550633,5
+C1312,2024-06-01,Agriculture,PrimeVendor Corporation,10228735,Services,Purchase of 500 furniture for government offices,10321486,3
+C1313,2024-01-21,Urban Development,GreenTech Industries,1667702,Services,Purchase of 136 furniture for government offices,1685460,7
+C1314,2024-04-25,Transport,SmartCity Developers,549640,Infrastructure,Purchase of 492 medicines for government offices,565266,7
+C1315,2024-12-25,IT Department,PrimeVendor Corporation,4084978,Services,Purchase of 481 furniture for government offices,3936590,5
+C1316,2024-11-23,Health,Digital Solutions Inc,5000467,Infrastructure,Purchase of 92 laptops for government offices,4913770,5
+C1317,2024-05-04,Urban Development,HealthFirst Products,977325,Furniture,Purchase of 449 furniture for government offices,1013028,3
+C1318,2024-11-06,Health,GreenTech Industries,4063151,Office Supplies,Purchase of 344 laptops for government offices,3916933,3
+C1319,2024-07-03,Urban Development,SmartCity Developers,9265487,Infrastructure,Purchase of 227 furniture for government offices,9276483,3
+C1320,2024-10-20,Transport,TechCorp Services,541029,Construction,Purchase of 392 laptops for government offices,571170,6
+C1321,2024-01-13,IT Department,PharmaCo Enterprises,1659282,Vehicles,Purchase of 423 vehicles for government offices,1774912,3
+C1322,2024-06-29,IT Department,GreenTech Industries,882989,Construction,Purchase of 284 furniture for government offices,928800,5
+C1323,2024-04-17,Urban Development,SmartCity Developers,9944860,Medical Supplies,Purchase of 449 desks for government offices,10405223,5
+C1324,2024-06-19,Health,PrimeVendor Corporation,10219577,Medical Supplies,Purchase of 212 medicines for government offices,10819574,4
+C1325,2024-11-23,Urban Development,PharmaCo Enterprises,9491578,Vehicles,Purchase of 153 medicines for government offices,9246742,6
+C1326,2024-08-12,IT Department,PrimeVendor Corporation,1087792,Maintenance,Purchase of 147 servers for government offices,1079044,3
+C1327,2024-12-24,Health,QuickOffice Supplies,2054062,Medical Supplies,Purchase of 366 furniture for government offices,2095087,6
+C1328,2024-02-16,Social Welfare,Medicare Corporation,5278313,Furniture,Purchase of 322 medicines for government offices,5114418,5
+C1329,2024-02-23,Education,QuickOffice Supplies,1968052,Maintenance,Purchase of 165 vehicles for government offices,2118011,5
+C1330,2024-03-20,Urban Development,Urban Builders,1615815,Office Supplies,Purchase of 175 desks for government offices,1582175,4
+C1331,2024-03-15,Transport,Auto Parts Ltd,2900000,Construction,Critical procurement of furniture for department,1936867,2
+C1332,2024-09-22,IT Department,Auto Parts Ltd,10665812,Vehicles,Purchase of 411 medicines for government offices,11490141,5
+C1333,2024-07-05,Transport,GreenTech Industries,896046,Maintenance,Purchase of 214 furniture for government offices,892837,4
+C1334,2024-10-23,Transport,Digital Solutions Inc,10125061,Vehicles,Purchase of 463 servers for government offices,10323479,3
+C1335,2024-12-25,Urban Development,TechCorp Services,10463232,Infrastructure,Purchase of 344 laptops for government offices,10244710,5
+C1336,2024-09-11,Education,PrimeVendor Corporation,542974,Vehicles,Purchase of 279 servers for government offices,527919,7
+C1337,2024-09-01,Education,Digital Solutions Inc,819133,Infrastructure,Purchase of 341 medicines for government offices,815916,5
+C1338,2024-08-08,IT Department,PharmaCo Enterprises,1095861,Office Supplies,Purchase of 208 servers for government offices,1071726,6
+C1339,2024-10-18,Agriculture,SmartCity Developers,10838803,IT Equipment,Purchase of 398 servers for government offices,10500093,7
+C1340,2024-11-08,Social Welfare,Digital Solutions Inc,4700000,Construction,Emergency procurement of vehicles for department,3011640,1
+C1341,2024-04-09,Urban Development,Digital Solutions Inc,10321202,Medical Supplies,Purchase of 65 furniture for government offices,11132930,4
+C1342,2024-06-18,Urban Development,Medicare Corporation,11800000,Vehicles,Critical procurement of furniture for department,8083003,2
+C1343,2024-04-03,PWD,DataSystems India,3500000,Furniture,Critical procurement of laptops for department,1868933,1
+C1344,2024-04-12,Education,HealthFirst Products,450958,IT Equipment,Purchase of 181 laptops for government offices,472484,7
+C1345,2024-12-15,Social Welfare,DataSystems India,800518,IT Equipment,Purchase of 52 medicines for government offices,863011,3
+C1346,2024-10-17,Transport,PharmaCo Enterprises,543356,Medical Supplies,Purchase of 305 desks for government offices,529501,7
+C1347,2024-12-15,PWD,SmartCity Developers,9122504,Infrastructure,Purchase of 411 desks for government offices,8876202,6
+C1348,2024-01-16,IT Department,BuildCo Infrastructure,10664700,Vehicles,Purchase of 463 medicines for government offices,11231786,3
+C1349,2024-12-15,Agriculture,EduSupply Solutions,8502155,Maintenance,Purchase of 358 desks for government offices,8187267,4
+C1350,2024-07-18,Transport,SmartCity Developers,500305,Infrastructure,Purchase of 237 desks for government offices,479547,4
+C1351,2024-04-06,Health,SmartCity Developers,453748,Maintenance,Purchase of 465 furniture for government offices,485128,6
+C1352,2024-02-16,Transport,DataSystems India,2147120,Vehicles,Purchase of 317 vehicles for government offices,2196910,7
+C1353,2024-03-10,Health,EduSupply Solutions,887887,IT Equipment,Purchase of 272 vehicles for government offices,915788,6
+C1354,2024-09-08,Education,QuickOffice Supplies,22200000,Medical Supplies,Immediate procurement of laptops for department,11501273,2
+C1355,2024-06-06,Education,DataSystems India,9628361,Furniture,Purchase of 323 laptops for government offices,9949189,3
+C1356,2024-04-06,PWD,HealthFirst Products,8157305,Vehicles,Purchase of 428 servers for government offices,8624728,6
+C1357,2024-12-14,Health,Digital Solutions Inc,829595,Office Supplies,Purchase of 414 medicines for government offices,890566,4
+C1358,2024-09-10,IT Department,ABC Technologies Pvt Ltd,8046778,Office Supplies,Purchase of 402 laptops for government offices,8609016,4
+C1359,2024-12-03,Education,Medicare Corporation,2190641,Construction,Purchase of 240 vehicles for government offices,2362214,4
+C1360,2024-11-02,IT Department,QuickOffice Supplies,2129166,Services,Purchase of 413 furniture for government offices,2139746,7
+C1361,2024-07-28,IT Department,TechCorp Services,5235332,IT Equipment,Purchase of 468 vehicles for government offices,5230238,4
+C1362,2024-11-16,Health,BuildCo Infrastructure,504400,Construction,Purchase of 86 furniture for government offices,508630,4
+C1363,2024-09-07,IT Department,DataSystems India,19900000,Services,Critical procurement of supplies for department,13600007,1
+C1364,2024-02-25,Transport,Medicare Corporation,5234316,Maintenance,Purchase of 334 vehicles for government offices,5574145,3
+C1365,2024-01-19,Health,QuickOffice Supplies,416710,Furniture,Purchase of 144 laptops for government offices,397934,6
+C1366,2024-11-11,Transport,Digital Solutions Inc,932607,Vehicles,Purchase of 442 desks for government offices,979224,7
+C1367,2024-01-23,Transport,PrimeVendor Corporation,902404,IT Equipment,Purchase of 229 vehicles for government offices,968779,4
+C1368,2024-07-19,Urban Development,ABC Technologies Pvt Ltd,1903356,Infrastructure,Purchase of 221 furniture for government offices,1863919,4
+C1369,2024-02-05,Education,BuildCo Infrastructure,9585669,Medical Supplies,Purchase of 330 medicines for government offices,9800300,4
+C1370,2024-07-28,PWD,PrimeVendor Corporation,492787,Medical Supplies,Purchase of 239 laptops for government offices,479032,5
+C1371,2024-12-16,Health,SmartCity Developers,4005131,Office Supplies,Purchase of 443 servers for government offices,3835290,6
+C1372,2024-11-17,Social Welfare,EduSupply Solutions,16100000,Office Supplies,Critical procurement of supplies for department,9579275,2
+C1373,2024-12-15,Urban Development,HealthFirst Products,1807087,Vehicles,Purchase of 295 desks for government offices,1948829,6
+C1374,2024-04-24,Education,Auto Parts Ltd,1088911,Services,Purchase of 132 medicines for government offices,1089454,5
+C1375,2024-03-14,Agriculture,QuickOffice Supplies,12800000,Furniture,Critical procurement of equipment for department,7216308,1
+C1376,2024-08-03,Agriculture,PharmaCo Enterprises,5100173,Furniture,Purchase of 287 medicines for government offices,5139475,6
+C1377,2024-03-09,Agriculture,PrimeVendor Corporation,873802,Infrastructure,Purchase of 149 furniture for government offices,911058,7
+C1378,2024-10-07,Health,HealthFirst Products,4562224,Infrastructure,Purchase of 122 vehicles for government offices,4516131,6
+C1379,2024-06-02,Social Welfare,PrimeVendor Corporation,9236353,Maintenance,Purchase of 332 desks for government offices,9013971,5
+C1380,2024-08-09,IT Department,Digital Solutions Inc,4035753,Construction,Purchase of 391 desks for government offices,3942280,7
+C1381,2024-11-24,PWD,GreenTech Industries,845204,Infrastructure,Purchase of 494 furniture for government offices,837718,4
+C1382,2024-06-10,Health,BuildCo Infrastructure,9591764,IT Equipment,Purchase of 396 laptops for government offices,9895354,3
+C1383,2024-01-05,PWD,QuickOffice Supplies,449726,Services,Purchase of 153 furniture for government offices,432498,5
+C1384,2024-02-03,PWD,DataSystems India,1950069,Services,Purchase of 223 furniture for government offices,2062535,6
+C1385,2024-02-21,Social Welfare,Medicare Corporation,1070245,Maintenance,Purchase of 110 servers for government offices,1037883,6
+C1386,2024-10-09,Urban Development,BuildCo Infrastructure,2013978,IT Equipment,Purchase of 389 desks for government offices,2149870,3
+C1387,2024-03-10,Agriculture,PrimeVendor Corporation,4569054,Infrastructure,Purchase of 350 furniture for government offices,4441849,3
+C1388,2024-10-26,Health,PrimeVendor Corporation,5340982,Vehicles,Purchase of 226 medicines for government offices,5747636,7
+C1389,2024-02-05,Transport,Urban Builders,8900313,Vehicles,Purchase of 106 furniture for government offices,8910726,4
+C1390,2024-05-29,Social Welfare,Medicare Corporation,453206,Vehicles,Purchase of 58 servers for government offices,488494,6
+C1391,2024-05-09,PWD,ABC Technologies Pvt Ltd,2189221,Office Supplies,Purchase of 300 medicines for government offices,2337116,3
+C1392,2024-12-24,Urban Development,Urban Builders,5494230,Medical Supplies,Purchase of 433 furniture for government offices,5460590,5
+C1393,2024-06-19,Education,DataSystems India,1061612,Furniture,Purchase of 426 servers for government offices,1136403,3
+C1394,2024-04-12,Agriculture,PharmaCo Enterprises,4582595,Maintenance,Purchase of 406 vehicles for government offices,4767674,5
+C1395,2024-08-05,Urban Development,DataSystems India,1679404,Services,Purchase of 332 desks for government offices,1671025,5
+C1396,2024-02-12,PWD,GreenTech Industries,520821,Medical Supplies,Purchase of 108 laptops for government offices,556619,7
+C1397,2024-05-04,Education,Digital Solutions Inc,3100000,IT Equipment,Emergency procurement of laptops for department,1826104,1
+C1398,2024-06-23,Health,TechCorp Services,8211148,Medical Supplies,Purchase of 373 medicines for government offices,8422651,6
+C1399,2024-01-29,Health,ABC Technologies Pvt Ltd,1075400,Furniture,Purchase of 96 furniture for government offices,1151165,4
+C1400,2024-12-17,Transport,Digital Solutions Inc,507546,Infrastructure,Purchase of 148 vehicles for government offices,507696,7
+C1401,2024-11-05,Education,BuildCo Infrastructure,4432095,Construction,Purchase of 276 desks for government offices,4600074,3
+C1402,2024-04-11,Transport,Medicare Corporation,9726302,Vehicles,Purchase of 409 laptops for government offices,9479399,3
+C1403,2024-04-26,IT Department,SmartCity Developers,8890158,Vehicles,Purchase of 161 vehicles for government offices,8922132,5
+C1404,2024-05-03,Agriculture,PrimeVendor Corporation,1768869,IT Equipment,Purchase of 82 vehicles for government offices,1717508,3
+C1405,2024-11-13,Health,PharmaCo Enterprises,4119927,Vehicles,Purchase of 56 furniture for government offices,4323354,6
+C1406,2024-12-23,Urban Development,PharmaCo Enterprises,485380,Infrastructure,Purchase of 280 medicines for government offices,506993,5
+C1407,2024-06-02,Education,Digital Solutions Inc,1927550,Vehicles,Purchase of 350 desks for government offices,2017848,4
+C1408,2024-07-28,Urban Development,Medicare Corporation,4486551,Construction,Purchase of 287 vehicles for government offices,4726638,6
+C1409,2024-07-16,PWD,Auto Parts Ltd,531004,Vehicles,Purchase of 495 furniture for government offices,558868,6
+C1410,2024-01-08,Social Welfare,EduSupply Solutions,845311,Construction,Purchase of 98 laptops for government offices,907006,4
+C1411,2024-05-18,Transport,EduSupply Solutions,474598,Infrastructure,Purchase of 192 desks for government offices,460635,7
+C1412,2024-08-09,Agriculture,Digital Solutions Inc,946202,Infrastructure,Purchase of 104 laptops for government offices,980788,5
+C1413,2024-11-07,Education,DataSystems India,955628,Construction,Purchase of 263 vehicles for government offices,969245,4
+C1414,2024-06-22,Agriculture,Digital Solutions Inc,9286992,Vehicles,Purchase of 321 medicines for government offices,8969749,4
+C1415,2024-12-18,Social Welfare,QuickOffice Supplies,1939196,Office Supplies,Purchase of 278 medicines for government offices,1961609,3
+C1416,2024-06-16,Agriculture,TechCorp Services,1980322,Vehicles,Purchase of 452 medicines for government offices,2113477,6
+C1417,2024-12-23,Transport,SmartCity Developers,1089642,Office Supplies,Purchase of 167 furniture for government offices,1145875,7
+C1418,2024-09-07,Agriculture,BuildCo Infrastructure,447019,Maintenance,Purchase of 434 desks for government offices,475849,6
+C1419,2024-09-08,PWD,PharmaCo Enterprises,1640155,IT Equipment,Purchase of 455 medicines for government offices,1641212,4
+C1420,2024-08-30,IT Department,PharmaCo Enterprises,449082,Infrastructure,Purchase of 337 desks for government offices,474782,6
+C1421,2024-06-09,Health,DataSystems India,8600175,IT Equipment,Purchase of 355 servers for government offices,9076579,4
+C1422,2024-04-09,IT Department,DataSystems India,8847368,Office Supplies,Purchase of 408 laptops for government offices,9314440,6
+C1423,2024-03-14,PWD,EduSupply Solutions,497745,Furniture,Purchase of 238 vehicles for government offices,522188,3
+C1424,2024-10-11,Transport,Digital Solutions Inc,5137692,Infrastructure,Purchase of 283 medicines for government offices,4952770,5
+C1425,2024-05-25,Urban Development,PharmaCo Enterprises,896841,Construction,Purchase of 494 medicines for government offices,853975,3
+C1426,2024-06-10,Agriculture,TechCorp Services,4825190,IT Equipment,Purchase of 252 desks for government offices,4978417,5
+C1427,2024-11-25,PWD,EduSupply Solutions,10269474,Medical Supplies,Purchase of 78 furniture for government offices,9808575,7
+C1428,2024-02-04,Agriculture,PharmaCo Enterprises,478417,Medical Supplies,Purchase of 97 medicines for government offices,512966,4
+C1429,2024-07-30,Social Welfare,Digital Solutions Inc,473868,Construction,Purchase of 263 furniture for government offices,483755,7
+C1430,2024-10-07,Education,Urban Builders,934549,Maintenance,Purchase of 166 desks for government offices,901823,5
+C1431,2024-01-13,Agriculture,PharmaCo Enterprises,2200000,Furniture,Urgent procurement of equipment for department,915279,1
+C1432,2024-11-20,Social Welfare,HealthFirst Products,476537,Medical Supplies,Purchase of 392 furniture for government offices,470653,3
+C1433,2024-01-21,Health,TechCorp Services,431325,Vehicles,Purchase of 228 furniture for government offices,442434,3
+C1434,2024-09-17,IT Department,DataSystems India,919154,Maintenance,Purchase of 371 furniture for government offices,891389,3
+C1435,2024-07-10,Agriculture,PrimeVendor Corporation,1050446,Services,Purchase of 221 desks for government offices,1100911,5
+C1436,2024-07-20,Health,ABC Technologies Pvt Ltd,4300000,Furniture,Urgent procurement of equipment for department,2324075,2
+C1437,2024-02-24,Transport,PrimeVendor Corporation,860042,Services,Purchase of 476 furniture for government offices,880792,5
+C1438,2024-07-03,Education,DataSystems India,970053,IT Equipment,Purchase of 161 servers for government offices,1033076,5
+C1439,2024-04-20,Urban Development,Auto Parts Ltd,1723811,Construction,Purchase of 418 medicines for government offices,1849792,6
+C1440,2024-09-08,Health,PrimeVendor Corporation,8856027,IT Equipment,Purchase of 89 servers for government offices,9549290,4
+C1441,2024-01-16,PWD,BuildCo Infrastructure,542018,IT Equipment,Purchase of 277 vehicles for government offices,580458,5
+C1442,2024-07-07,Social Welfare,Urban Builders,1091282,IT Equipment,Purchase of 88 medicines for government offices,1141961,5
+C1443,2024-06-01,Education,PrimeVendor Corporation,445307,Infrastructure,Purchase of 111 furniture for government offices,438250,4
+C1444,2024-03-30,Urban Development,BuildCo Infrastructure,1200000,Construction,Immediate procurement of laptops for department,694114,1
+C1445,2024-04-20,Education,TechCorp Services,7700000,IT Equipment,Critical procurement of equipment for department,4242358,2
+C1446,2024-12-02,IT Department,SmartCity Developers,5100000,Office Supplies,Immediate procurement of laptops for department,3158160,1
+C1447,2024-04-30,Urban Development,GreenTech Industries,549375,Office Supplies,Purchase of 477 vehicles for government offices,525057,7
+C1448,2024-01-25,Agriculture,Urban Builders,489707,Vehicles,Purchase of 328 desks for government offices,494267,6
+C1449,2024-10-09,Agriculture,EduSupply Solutions,2041116,Vehicles,Purchase of 347 vehicles for government offices,2031078,4
+C1450,2024-05-29,IT Department,PrimeVendor Corporation,5013566,Construction,Purchase of 94 servers for government offices,5028693,6
+C1451,2024-06-19,PWD,TechCorp Services,4676153,Vehicles,Purchase of 71 medicines for government offices,4770132,4
+C1452,2024-10-03,Social Welfare,BuildCo Infrastructure,1055329,Furniture,Purchase of 472 furniture for government offices,1081269,4
+C1453,2024-02-27,PWD,Digital Solutions Inc,8125935,Office Supplies,Purchase of 180 servers for government offices,7829305,3
+C1454,2024-12-16,Social Welfare,QuickOffice Supplies,1893507,Vehicles,Purchase of 330 vehicles for government offices,1878952,5
+C1455,2024-07-27,Transport,Digital Solutions Inc,433872,IT Equipment,Purchase of 477 furniture for government offices,448496,4
+C1456,2024-09-15,IT Department,SmartCity Developers,4216533,Office Supplies,Purchase of 173 vehicles for government offices,4045286,5
+C1457,2024-10-04,Health,BuildCo Infrastructure,807051,Services,Purchase of 156 desks for government offices,769961,3
+C1458,2024-08-19,IT Department,PharmaCo Enterprises,5417311,Furniture,Purchase of 407 servers for government offices,5612367,3
+C1459,2024-07-10,Urban Development,ABC Technologies Pvt Ltd,4928886,Infrastructure,Purchase of 353 laptops for government offices,5271651,7
+C1460,2024-06-12,Health,Auto Parts Ltd,2020378,Vehicles,Purchase of 435 servers for government offices,2145545,6
+C1461,2024-12-16,Health,BuildCo Infrastructure,456995,Office Supplies,Purchase of 293 medicines for government offices,491342,3
+C1462,2024-11-19,Agriculture,DataSystems India,4569776,Maintenance,Purchase of 290 laptops for government offices,4541716,7
+C1463,2024-12-26,Education,PrimeVendor Corporation,984115,Maintenance,Purchase of 353 furniture for government offices,947057,4
+C1464,2024-08-15,Health,Digital Solutions Inc,2100000,Maintenance,Emergency procurement of supplies for department,1336920,2
+C1465,2024-09-08,Social Welfare,BuildCo Infrastructure,4440084,Construction,Purchase of 357 medicines for government offices,4312018,5
+C1466,2024-02-09,Education,DataSystems India,4373563,Construction,Purchase of 445 vehicles for government offices,4375091,4
+C1467,2024-04-24,Health,BuildCo Infrastructure,10536615,Construction,Purchase of 463 furniture for government offices,10323092,6
+C1468,2024-03-12,Social Welfare,ABC Technologies Pvt Ltd,9688312,Maintenance,Purchase of 456 furniture for government offices,9755671,5
+C1469,2024-12-21,Social Welfare,BuildCo Infrastructure,8318984,Medical Supplies,Purchase of 273 servers for government offices,8415280,5
+C1470,2024-02-14,Health,ABC Technologies Pvt Ltd,1884775,Construction,Purchase of 498 desks for government offices,1914789,4
+C1471,2024-02-14,Urban Development,BuildCo Infrastructure,933830,Construction,Purchase of 335 medicines for government offices,1008113,5
+C1472,2024-10-25,Social Welfare,ABC Technologies Pvt Ltd,8119267,Vehicles,Purchase of 118 furniture for government offices,7926987,5
+C1473,2024-01-31,IT Department,PrimeVendor Corporation,416912,Construction,Purchase of 321 laptops for government offices,432157,7
+C1474,2024-06-12,Transport,BuildCo Infrastructure,5201837,Construction,Purchase of 294 vehicles for government offices,5069329,6
+C1475,2024-07-17,PWD,SmartCity Developers,10576078,Medical Supplies,Purchase of 489 servers for government offices,10144779,4
+C1476,2024-09-01,Agriculture,QuickOffice Supplies,484923,Services,Purchase of 479 furniture for government offices,476252,6
+C1477,2024-07-27,Agriculture,Auto Parts Ltd,7800000,Infrastructure,Emergency procurement of equipment for department,3880764,2
+C1478,2024-11-06,Social Welfare,Urban Builders,1024582,Construction,Purchase of 454 servers for government offices,990312,7
+C1479,2024-05-03,Health,HealthFirst Products,1898280,Medical Supplies,Purchase of 65 vehicles for government offices,1821887,7
+C1480,2024-12-26,Urban Development,Urban Builders,1031875,Vehicles,Purchase of 251 medicines for government offices,985640,5
+C1481,2024-06-04,Social Welfare,GreenTech Industries,8981263,Maintenance,Purchase of 311 vehicles for government offices,8891975,6
+C1482,2024-12-15,Health,DataSystems India,8411802,Services,Purchase of 225 servers for government offices,8359815,6
+C1483,2024-05-18,Transport,PharmaCo Enterprises,9540553,Services,Purchase of 172 servers for government offices,9451794,5
+C1484,2024-04-08,Transport,GreenTech Industries,10028300,Construction,Purchase of 267 furniture for government offices,9889988,7
+C1485,2024-12-18,PWD,BuildCo Infrastructure,2027572,Services,Purchase of 458 vehicles for government offices,2071930,4
+C1486,2024-11-22,Agriculture,QuickOffice Supplies,10369835,Furniture,Purchase of 381 vehicles for government offices,10970773,4
+C1487,2024-09-04,IT Department,BuildCo Infrastructure,9377237,Furniture,Purchase of 360 laptops for government offices,9324554,5
+C1488,2024-10-08,IT Department,HealthFirst Products,409981,Furniture,Purchase of 303 vehicles for government offices,432759,5
+C1489,2024-04-11,Social Welfare,PharmaCo Enterprises,4942169,Medical Supplies,Purchase of 293 vehicles for government offices,5009593,3
+C1490,2024-03-12,IT Department,BuildCo Infrastructure,2056074,Maintenance,Purchase of 483 laptops for government offices,2219006,3
+C1491,2024-10-01,Education,ABC Technologies Pvt Ltd,538862,Medical Supplies,Purchase of 70 furniture for government offices,560025,4
+C1492,2024-06-21,IT Department,PrimeVendor Corporation,1770512,Maintenance,Purchase of 366 servers for government offices,1737382,4
+C1493,2024-06-30,Transport,HealthFirst Products,806886,IT Equipment,Purchase of 137 vehicles for government offices,827813,4
+C1494,2024-03-23,Transport,SmartCity Developers,29600000,Furniture,Emergency procurement of laptops for department,14273710,2
+C1495,2024-04-23,Education,QuickOffice Supplies,8496927,Services,Purchase of 193 laptops for government offices,8263776,4
+C1496,2024-08-10,Social Welfare,Digital Solutions Inc,10548768,Infrastructure,Purchase of 101 laptops for government offices,10633173,4
+C1497,2024-08-14,Transport,PrimeVendor Corporation,5275879,Infrastructure,Purchase of 327 medicines for government offices,5526959,3
+C1498,2024-08-11,Urban Development,TechCorp Services,9026866,Office Supplies,Purchase of 365 vehicles for government offices,8599832,7
+C1499,2024-07-09,Transport,QuickOffice Supplies,490143,Vehicles,Purchase of 136 vehicles for government offices,510170,6
+C1500,2024-06-29,Education,Urban Builders,1014480,Office Supplies,Purchase of 357 vehicles for government offices,1082246,6
