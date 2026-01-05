@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-05 at 23 05 32](https://github.com/user-attachments/assets/9437e919-a2e3-4f21-8417-3ab5abea6dd4)# 🔍 Fraud Detection System - Advanced Tender Analysis Platform
+# 🔍 Fraud Detection System - Advanced Tender Analysis Platform
 A sophisticated machine learning-powered fraud detection system for government procurement tenders, featuring dual-model architecture, AI-powered explanations, and an interactive dashboard with real-time analytics.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
