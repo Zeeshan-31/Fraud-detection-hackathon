@@ -1,6 +1,5 @@
-# Fraud-detection-hackathon
-AI-powered fraud detection system for government procurement
-Government procurement fraud detection using Machine Learning
+![WhatsApp Image 2026-01-05 at 23 05 32](https://github.com/user-attachments/assets/9437e919-a2e3-4f21-8417-3ab5abea6dd4)# 🔍 Fraud Detection System - Advanced Tender Analysis Platform
+A sophisticated machine learning-powered fraud detection system for government procurement tenders, featuring dual-model architecture, AI-powered explanations, and an interactive dashboard with real-time analytics.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29-red.svg)](https://streamlit.io)
@@ -92,18 +91,59 @@ Open browser: `http://localhost:8501`
 
 ### Fraud Detection Indicators
 
-1. **Competition Red Flags:** Single bidder, low competition
-2. **Amount Red Flags:** Price inflation, round numbers
-3. **Timing Red Flags:** Year-end rush, weekend submissions
-4. **Process Red Flags:** Emergency procurement abuse
-5. **Vendor Red Flags:** Repeat winners, new vendors
+**Persistent File State Management:** No re-upload needed between page switches - maintains session state
+- **Smart Column Mapping:** Automatically handles 30+ different CSV format variations and column naming conventions
+- **Dynamic Risk Threshold Adjustment:** Flexible risk threshold slider (50-90%) for customized sensitivity
+- **Comprehensive Data Overview:** 
+  - 4 metric cards displaying total tenders, risk distribution, and total amounts
+  - At-a-glance summary of your dataset's health
+- **Visual Analytics:** 
+  - Interactive pie charts for risk distribution
+  - Bar charts showing risk categories breakdown
+  - Scatter plots comparing Rule-based vs AI-based risk assessments
+- **High-Risk Tender Filtering:** 
+  - Filter by risk level (High, Medium, Low)
+  - Detection source labels (Policy Violation, AI Anomaly, or Critical)
+  - Easy identification of "why" each tender was flagged
+- **Export Capabilities:** Full comprehensive, High-risk, Medium risk and Executive summary reports
+- **Responsive Design:** Gradient cards, pill-shaped navigation, and modern UI/UX
 
-### Model Performance
+### 2. **Dual-Model ML Architecture**
 
-- **Algorithm:** Isolation Forest (unsupervised anomaly detection)
-- **Training Data:** 38,025 tenders
-- **Features:** 15 engineered fraud indicators
-- **Output:** Risk score 0-100% per tender
+#### Rule-Based System
+- **15+ Fraud Indicators** across multiple categories:
+  - **Competition Risks:** Single bidder scenarios, low bidder participation
+  - **Pricing Anomalies:** Unusual price-per-day calculations, outlier amounts
+  - **Timing Red Flags:** Weekend publications, year-end rush, Q4 clustering
+  - **Procurement Method Irregularities:** Direct procurement patterns, limited tender abuse
+  - Scores on a 0-100 scale based on severity
+
+#### AI-Based System
+- **Pre-trained Isolation Forest Model:** Detects hidden statistical anomalies
+- **20 Engineered Features:**
+  - Bidder competition metrics
+  - Z-score pricing analysis
+  - Timeline patterns and seasonality
+  - Department statistics and historical behavior
+  - Price-to-duration ratios
+- **Top 2% Anomaly Detection:** Focuses on the most suspicious outliers
+- **Model Artifacts:** Saved with scaler and imputer for consistent predictions
+
+#### Smart Fusion Logic
+- **Hybrid Detection:** Flags tenders if EITHER system detects risk
+- **Dual Scoring:** Shows both Rule-based (0-100) and ML anomaly scores
+- **Detection Source Tracking:** Labels indicate which system triggered the alert
+- **"Hidden Risk" Zone:** Highlights tenders that appear compliant by rules but are flagged by AI
+
+### 3. **Gemini AI Integration**
+
+- **Real-time Fraud Explanation Generation:** Powered by Google Gemini 2.5 Flash
+- **Streaming Responses:** Better user experience with progressive loading
+- **Context-Aware Analysis:** Identifies which specific fraud flags were triggered
+- **Plain English Explanations:** Designed for audit officers without technical background
+- **Interactive Tender Selection:** Click any tender for instant AI-powered analysis
+- **Risk Assessment Breakdown:** Explains both rule-based and ML-detected anomalies
+
 
 ---
 ## 📖 Usage
